@@ -1,0 +1,11 @@
+# Obsidian per-machine state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Large raw books — not needed by automated wiki passes (ingest runs locally)
+raw/books/

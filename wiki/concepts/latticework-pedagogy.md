@@ -1,0 +1,92 @@
+---
+title: "Latticework Pedagogy"
+date: 2026-05-18
+tags: [thinking, education, mental-models, cognition, transfer-learning]
+related: [[mental-models]], [[mental-models-and-multidisciplinary-thinking]], [[charlie-munger]], [[disposition-vs-knowledge]], [[superforecasting]], [[latticework-feedback-loops-outside-investing]]
+---
+
+# Latticework Pedagogy
+
+The question of whether [[charlie-munger|Munger's]] latticework approach can be systematically taught — and what the evidence from cognitive science and educational practice says about the limits of that transmission.
+
+## The Core Tension
+
+The [[mental-models|mental models]] themselves are explicit and articulable. The latticework — a structure where models reinforce and cross-reference each other — is a property that emerges from long practice, not from knowing the list. Teaching the models is necessary but not sufficient for building the lattice.
+
+## What Behavioral Evidence Shows
+
+### The Debiasing Problem
+
+Decades of teaching cognitive biases (through behavioral economics, psychology courses, and popular books) has produced limited real-world debiasing. Research by Kahneman, Fischhoff, and others finds that:
+
+- **Knowing about a bias does not reliably reduce susceptibility to it** — especially under pressure, time constraints, or emotional stakes
+- **Abstract instruction rarely transfers** to novel domains; people apply debiasing strategies in contexts that look like the training context and fail in others
+- **The gap between stated belief and actual behavior** is wide: people who correctly explain availability bias still make availability-driven errors in unfamiliar formats
+
+The implication for latticework pedagogy: teaching model names and definitions may produce people who can *discuss* mental models without people who *reason with* them.
+
+### Transfer Learning in Cognitive Science
+
+Transfer of learning — using knowledge acquired in one context to solve problems in a new one — is reliably harder than it appears. Key findings:
+
+- **Near transfer** (applying a skill to a closely similar problem) is achievable with practice
+- **Far transfer** (applying a principle across distant domains, as the latticework requires) is rare and fragile without deep structural understanding of *why* the principle works
+- **Interleaved practice** — mixing domains during study rather than blocking by subject — improves far transfer but is less efficient in the short term and is rarely how courses are designed
+- **Deliberate application with feedback** is necessary; passive exposure to examples is not sufficient
+
+Munger's actual practice — reading voraciously, applying models in real investments with real consequences, revisiting failures — approximates the conditions cognitive science identifies as necessary for far transfer.
+
+## What Has Been Transmitted Successfully
+
+Despite the ceiling, partial transmission clearly occurs:
+
+- **Farnam Street** (Shane Parrish) has built a large audience around mental models; many readers report applying [[inversion]], circle of competence, and opportunity cost in decisions
+- **"Super Thinking"** (Gabriel Weinberg) and similar books systematize the vocabulary and have found audiences in professional communities
+- **Value investing education** at Columbia Business School (where Graham and Buffett both taught) has produced practitioners who apply at least some of Munger's framework
+
+The pattern: *vocabulary and awareness* transmit well; *intuitive integration under pressure* requires years of real-stakes application.
+
+## The Role of Feedback Loops
+
+A latticework built without feedback loops is brittle. Munger's models were tested against market prices — an unforgiving, objective signal. Most pedagogical contexts lack equivalent feedback:
+
+- Business school cases are solved *post-hoc*, with the answer known, eliminating genuine uncertainty
+- Reading a model and nodding in agreement is not the same as having the model fail you and forcing you to update it
+- The models that *stick* in Munger's usage are the ones he has seen both succeed and fail in real situations
+
+Implication: effective latticework pedagogy would need to embed models in contexts with meaningful, low-latency feedback — closer to clinical rotations or apprenticeship than lecture.
+
+## What Requires Traits Beyond Instruction
+
+Some elements of Munger's practice appear to depend on traits that are formed before any formal instruction:
+
+| Trait | Why it matters | How to cultivate |
+|---|---|---|
+| Intrinsic cross-disciplinary curiosity | Drives the breadth of reading that fills the lattice | Unclear; formed early; hard to install |
+| Comfort with not knowing | Prevents premature model closure | Modeling by teachers helps; selection matters more |
+| Long time horizons | The lattice compounds over decades | Cultural, not curricular |
+| Contrarianism / independence | Resists social proof and institutional imperative | Partly modeled, partly dispositional |
+
+See [[disposition-vs-knowledge]] for the broader argument.
+
+## Practical Pedagogy Implications
+
+If the goal is maximum transmission of the approach, the evidence points toward:
+
+1. **Start with fewer models, applied deeply** — mastery of inversion and opportunity cost across many domains beats exposure to 50 models shallowly
+2. **Interleave disciplines** — force students to apply economic reasoning to biological problems and vice versa; don't silo by subject
+3. **Use real stakes where possible** — simulations, forecasting tournaments, and decision journals with review create better feedback than case studies
+4. **Teach the failures of models explicitly** — when does inversion mislead? When is mean reversion inapplicable? Knowing limits sharpens judgment
+5. **Select for disposition** — programs like Buffett's partnership or Munger's law firm selected people with existing curiosity and intellectual honesty; pedagogy alone cannot replace selection
+
+## Open Questions
+
+- Does forecasting practice (as in Philip Tetlock's superforecaster research) produce meaningful latticework-like integration?
+- Are there structural differences between people who successfully internalize multi-model reasoning and those who only learn the vocabulary — and can those differences be measured before training?
+- What is the minimum viable feedback loop for latticework development outside investing?
+
+## Related Topics
+- [[mental-models]] — the framework itself
+- [[mental-models-and-multidisciplinary-thinking]] — Munger's central contribution
+- [[charlie-munger]] — who developed and practiced the approach
+- [[disposition-vs-knowledge]] — the deeper question of whether wisdom is transmissible at all
