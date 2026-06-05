@@ -4,6 +4,18 @@ title: "Session Log"
 
 # Session Log
 
+## 2026-06-05 — Nightly Dream Cycle
+- Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md, system/schema.md; targeted full reads: vibecession, economic-literacy, bubble-finance, glucose-curves, glucose-revolution, health-equity, intellectual-property-and-health-equity, growth-mindset, mathematics-education, procedural-fluency-vs-open-tasks, cognitive-atrophy-and-ai, slow-productivity-and-ai-craft, ai-tutoring, ai-in-education, ai-tutoring-and-human-motivation, living-and-working-with-ai, stoic-virtues, wisdom-traditions-practice-vs-doctrine; inbound-link grep scan across all 82 wiki pages
+- Files updated: system/contradictions.md (frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (frontmatter date), system/log.md (this entry)
+- Stage 1 — Contradictions: 0 new detected. All 4 prior open contradictions confirmed:
+  - OPEN: `cognitive-atrophy-and-ai` vs. `slow-productivity-and-ai-craft` — expertise exemption from atrophy risk
+  - OPEN: `ai-in-education` vs. `ai-tutoring-and-human-motivation` — whether AI relational emulation works long-term
+  - OPEN: `stoic-virtues` vs. `wisdom-traditions-practice-vs-doctrine` — virtue as perpetual action vs. disposition-builder
+  - OPEN: `vibecession`/`economic-literacy` vs. `bubble-finance`/`crony-capitalism-and-monetary-deformation` — hard indicators as reliable baselines vs. distorted signals
+- Stage 2 — Near-duplicates: 0 new cases detected. 8 flagged cases remain open (Case 1: `ai-tutoring`/`ai-tutoring-and-human-motivation` opener overlap; Case 2: 7-instance structural inline-answer pattern). All pending owner approval.
+- Stage 3 — Salience digest regenerated: Inbound-link counts confirmed stable via ripgrep scan. Vault unchanged at 82 pages. Rankings carry forward: `mental-models` #1 (19 inbound, ~350 words), `disposition-vs-knowledge` #2 (17 inbound), `health-equity` #3 (13 inbound). Two uningested Munger PDFs remain highest-priority ingest items. `mental-models` and `jagged-frontier` remain top enrichment targets.
+- Summary: Fourth nightly dream cycle. Vault is structurally stable with no new content since 2026-06-04. Zero new contradictions or near-duplicates. All prior findings carry forward unchanged. Primary recommendation: ingest the two Munger PDFs in raw/articles/ to enrich the vault's most-linked page (`mental-models`, 19 inbound).
+
 ## 2026-05-20 — Answer Five Open Questions (Aesthetics, IP, AI, Motivation, Parenting)
 - Questions answered: 5
   - art-theft-and-obsession.md :: What is the ethics of possessing beauty you cannot share?
