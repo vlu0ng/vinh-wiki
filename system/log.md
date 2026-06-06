@@ -4,6 +4,18 @@ title: "Session Log"
 
 # Session Log
 
+## 2026-06-06 — Nightly Dream Cycle
+- Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md; targeted cluster reads for Stage 1: glucose-curves, glucose-revolution, superforecasting, latticework-feedback-loops-outside-investing, latticework-pedagogy, growth-mindset, procedural-fluency-vs-open-tasks, mathematics-education, disposition-vs-knowledge, disposition-building-practices, munger-disposition-formation, teenage-girl-development, adolescent-development-in-the-digital-age, stockman-2008-critique, crony-capitalism-and-monetary-deformation; full inbound-link grep re-verification for all top-tier pages
+- Files updated: system/contradictions.md (frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (frontmatter date), system/log.md (this entry)
+- Stage 1 — Contradictions: 0 new detected. Six under-examined clusters scanned (glucose, superforecasting/latticework, growth-mindset/math-education, disposition, adolescent development, Stockman critique) — all internally consistent. All 4 prior open contradictions confirmed:
+  - OPEN: `cognitive-atrophy-and-ai` vs. `slow-productivity-and-ai-craft` — expertise exemption from atrophy risk
+  - OPEN: `ai-in-education` vs. `ai-tutoring-and-human-motivation` — whether AI relational emulation works long-term
+  - OPEN: `stoic-virtues` vs. `wisdom-traditions-practice-vs-doctrine` — virtue as perpetual action vs. disposition-builder
+  - OPEN: `vibecession`/`economic-literacy` vs. `bubble-finance`/`crony-capitalism-and-monetary-deformation` — hard indicators as reliable baselines vs. distorted signals
+- Stage 2 — Near-duplicates: 0 new cases detected. 8 flagged cases remain open (Case 1: `ai-tutoring`/`ai-tutoring-and-human-motivation` opener overlap; Case 2: 7-instance structural inline-answer pattern). All pending owner approval.
+- Stage 3 — Salience digest regenerated: Inbound-link counts re-verified via ripgrep for all top-tier pages — confirmed stable. `mental-models` #1 (19 inbound, ~350 words), `disposition-vs-knowledge` #2 (17 inbound), `health-equity` #3 (13 inbound). New note: `latticework-pedagogy` confirmed at 9 inbound (same tier as `jagged-frontier`, `large-language-models`, `tuberculosis-and-global-health`). Two uningested Munger PDFs remain highest-priority ingest items.
+- Summary: Fifth nightly dream cycle. Vault structurally stable at 82 pages; no new content since 2026-06-04. Zero new contradictions or near-duplicates across six freshly-scanned under-examined clusters. All prior findings carry forward unchanged. Primary recommendation: ingest the two Munger PDFs in raw/articles/ to enrich the vault's most-linked page (`mental-models`, 19 inbound).
+
 ## 2026-06-05 — Nightly Dream Cycle
 - Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md, system/schema.md; targeted full reads: vibecession, economic-literacy, bubble-finance, glucose-curves, glucose-revolution, health-equity, intellectual-property-and-health-equity, growth-mindset, mathematics-education, procedural-fluency-vs-open-tasks, cognitive-atrophy-and-ai, slow-productivity-and-ai-craft, ai-tutoring, ai-in-education, ai-tutoring-and-human-motivation, living-and-working-with-ai, stoic-virtues, wisdom-traditions-practice-vs-doctrine; inbound-link grep scan across all 82 wiki pages
 - Files updated: system/contradictions.md (frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (frontmatter date), system/log.md (this entry)

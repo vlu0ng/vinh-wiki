@@ -1,6 +1,6 @@
 ---
 title: "Salience Digest"
-date: 2026-06-05
+date: 2026-06-06
 tags: [system, digest]
 ---
 
@@ -17,7 +17,7 @@ Each page is scored on cheap structural signals:
 
 ## Last run
 
-**2026-06-05** — Full dream-cycle pass (nightly). 82 wiki pages analyzed (48 concepts, 15 topics, 19 people). No new wiki pages have been added since the 2026-06-04 run. Vault is structurally stable. Inbound-link counts confirmed unchanged from the 2026-06-04 full scan via ripgrep pattern-match on `[[slug` prefix across all wiki/ files. **Stage 1:** Zero new contradictions detected; 4 prior contradictions remain open. **Stage 2:** Zero new near-duplicate cases; 8 flagged cases (Case 1 + 7-instance structural pattern) remain pending owner approval. **Stage 3:** Rankings carry forward from 2026-06-04 with no revisions — `mental-models` remains #1 (19 inbound, ~350 words) and the single highest-leverage enrichment target in the vault.
+**2026-06-06** — Full dream-cycle pass (nightly). 82 wiki pages analyzed (48 concepts, 15 topics, 19 people). No new wiki pages have been added since the 2026-06-05 run. Vault is structurally stable. Inbound-link counts re-verified via ripgrep pattern-match on `[[slug` prefix across all wiki/ files — confirmed unchanged from the 2026-06-04 full scan. **Stage 1:** Zero new contradictions detected; 4 prior contradictions remain open. **Stage 2:** Zero new near-duplicate cases; 8 flagged cases (Case 1 + 7-instance structural pattern) remain pending owner approval. **Stage 3:** Rankings confirmed stable — `mental-models` remains #1 (19 inbound, ~350 words) and the single highest-leverage enrichment target in the vault.
 
 ---
 
@@ -37,7 +37,7 @@ _Pages with many inbound edges but a thin body — highest enrichment leverage._
 ## Stale high-value
 _Central pages not touched in a while — candidates to revisit._
 
-All pages share the same creation band (2026-05-18 to 2026-06-02, now 3–18 days old). Staleness does not yet differentiate meaningfully within this vault; all pages are recent. Re-run this section after the next enrichment pass.
+All pages share the same creation band (2026-05-18 to 2026-06-02, now 4–19 days old). Staleness does not yet differentiate meaningfully within this vault; all pages are recent. Re-run this section after the next enrichment pass.
 
 **Exception — uningested raw articles (aging gap):** Two PDF files in `raw/articles/` remain uningested:
 - `raw/articles/charlie munger - mental models Part 1.pdf`
@@ -75,7 +75,7 @@ When open questions were answered and extracted into dedicated concept pages, th
 ## Surfacing for the dashboard
 _Top 10 pages by salience score (inbound edges × body depth bonus; feeds `wiki-dashboard.html` node sizing)._
 
-Inbound-link counts confirmed stable; no new pages added since 2026-06-04.
+Inbound-link counts re-verified via ripgrep; no changes from 2026-06-04 full scan. No new pages added since 2026-06-04.
 
 | Rank | Page | Inbound (confirmed) | Body depth | Salience notes |
 |---|---|---|---|---|
@@ -90,14 +90,14 @@ Inbound-link counts confirmed stable; no new pages added since 2026-06-04.
 | 9 | `jagged-frontier` | 9 | ~300 words | Very thin body vs. high centrality — **#2 enrichment priority** behind `mental-models`. |
 | 10 | `large-language-models` | 9 | ~250 words | Thinnest body at this centrality level; effectively tied with `jagged-frontier` as a top AI-cluster enrichment target. |
 
-_Note: `tuberculosis-and-global-health` (9 inbound, topic page, ~1000+ words) also sits at rank 9–10 but is well-developed. The thin-body targets — `jagged-frontier` and `large-language-models` — are the higher-leverage enrichment bets._
+_Note: `tuberculosis-and-global-health` (9 inbound, topic page, ~1000+ words) and `latticework-pedagogy` (9 inbound) also sit at rank 9–10 but are well-developed. The thin-body targets — `jagged-frontier` and `large-language-models` — are the higher-leverage enrichment bets._
 
 ---
 
 ## Newly surfaced this run
 
-**No new contradictions (Stage 1):** All 4 prior contradictions confirmed still open. No new conflicting claims detected across the 82 wiki pages. Contradiction pairs remain: (1) `cognitive-atrophy-and-ai` vs. `slow-productivity-and-ai-craft` on expertise exemption from atrophy risk; (2) `ai-in-education` vs. `ai-tutoring-and-human-motivation` on whether AI relational emulation works; (3) `stoic-virtues` vs. `wisdom-traditions-practice-vs-doctrine` on virtue as action vs. disposition-builder; (4) `vibecession`/`economic-literacy` vs. `bubble-finance`/`crony-capitalism-and-monetary-deformation` on whether hard economic indicators are reliable baselines or distorted signals.
+**No new contradictions (Stage 1):** All 4 prior contradictions confirmed still open. Targeted scan of six under-examined clusters (glucose, superforecasting/latticework, growth-mindset/math, disposition, adolescent development, Stockman critique) found no new conflicting claims. No contradiction to record. Contradiction pairs remain: (1) `cognitive-atrophy-and-ai` vs. `slow-productivity-and-ai-craft` on expertise exemption from atrophy risk; (2) `ai-in-education` vs. `ai-tutoring-and-human-motivation` on whether AI relational emulation works; (3) `stoic-virtues` vs. `wisdom-traditions-practice-vs-doctrine` on virtue as action vs. disposition-builder; (4) `vibecession`/`economic-literacy` vs. `bubble-finance`/`crony-capitalism-and-monetary-deformation` on whether hard economic indicators are reliable baselines or distorted signals.
 
 **No new near-duplicate cases (Stage 2):** All 8 prior cases confirmed still open. No new structural overlap detected.
 
-**Salience rankings stable (Stage 3):** Inbound-link counts confirmed unchanged. `mental-models` remains #1 (19 inbound) and the primary enrichment target. Next highest-leverage action: ingest the two Munger PDFs in `raw/articles/` to potentially enrich the vault's most-linked concept page.
+**Salience rankings stable (Stage 3):** Inbound-link counts re-verified via ripgrep; confirmed unchanged for all top pages. `mental-models` remains #1 (19 inbound) and the primary enrichment target. `latticework-pedagogy` also confirmed at 9 inbound (same tier as `jagged-frontier`, `large-language-models`, `tuberculosis-and-global-health`). Next highest-leverage action: ingest the two Munger PDFs in `raw/articles/` to potentially enrich the vault's most-linked concept page.
