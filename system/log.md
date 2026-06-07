@@ -4,6 +4,22 @@ title: "Session Log"
 
 # Session Log
 
+## 2026-06-07 — Nightly Dream Cycle
+- Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md; full read pass of all 82 wiki pages including all 48 concepts, 15 topics, 19 people; inbound-link grep (unique-file ripgrep) re-verification for all top-tier pages
+- Files updated: system/contradictions.md (new row added + frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (2 new rows + frontmatter date), system/log.md (this entry)
+- Stage 1 — Contradictions: **1 new contradiction detected.** All 4 prior open contradictions confirmed:
+  - OPEN: `cognitive-atrophy-and-ai` vs. `slow-productivity-and-ai-craft` — expertise exemption from atrophy risk
+  - OPEN: `ai-in-education` vs. `ai-tutoring-and-human-motivation` — whether AI relational emulation works long-term
+  - OPEN: `stoic-virtues` vs. `wisdom-traditions-practice-vs-doctrine` — virtue as perpetual action vs. disposition-builder
+  - OPEN: `vibecession`/`economic-literacy` vs. `bubble-finance`/`crony-capitalism-and-monetary-deformation` — hard indicators as reliable baselines vs. distorted signals
+  - **NEW OPEN**: `growth-mindset` vs. `mathematics-education` — `growth-mindset` explicitly documents mixed replication results and Dweck's structural-support caveat; `mathematics-education` applies the framework as settled educational science without qualification. A reader moving between pages encounters inconsistent epistemic confidence in the same framework. (5 total open contradictions.)
+- Stage 2 — Near-duplicates: **1 new near-duplicate case detected.** All 8 prior flagged cases remain open:
+  - Case 1: `ai-tutoring`/`ai-tutoring-and-human-motivation` opener overlap (~25%) — pending owner approval
+  - Case 2: 7-instance structural inline-answer pattern — pending owner approval
+  - **NEW Case 3**: `slow-productivity-and-ai-craft` vs. `cognitive-atrophy-and-ai` — ~35% body overlap. "The Atrophy Mechanism" section, "Where AI Actually Helps" table, and core heuristic are restated from `cognitive-atrophy-and-ai`. Proposed: compress to cross-reference + retain Newport-specific content only. Owner approval required. (9 total near-duplicate cases.)
+- Stage 3 — Salience digest regenerated: Inbound-link counts re-verified via ripgrep (unique-file method). Rankings stable. `mental-models` #1 (18 inbound, ~350 words), `disposition-vs-knowledge` #2 (17 inbound, ~900 words), `health-equity` #3 (13 inbound, ~400 words). `charlie-munger` newly noted as thin body (~350 words) relative to 10-inbound centrality — candidate for enrichment. Two uningested Munger PDFs remain highest-priority ingest items. `growth-mindset` (10 inbound) now also flagged as enrichment candidate given new contradiction context.
+- Summary: Sixth nightly dream cycle. Vault at 82 pages (no new content since 2026-06-04). First run to surface new findings: 1 new contradiction (`growth-mindset` vs. `mathematics-education` on empirical confidence) and 1 new near-duplicate case (`slow-productivity-and-ai-craft` repeating `cognitive-atrophy-and-ai` mechanism content). Total contradictions: 5 open. Total near-duplicate cases: 9 (all pending owner approval).
+
 ## 2026-06-06 — Nightly Dream Cycle
 - Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md; targeted cluster reads for Stage 1: glucose-curves, glucose-revolution, superforecasting, latticework-feedback-loops-outside-investing, latticework-pedagogy, growth-mindset, procedural-fluency-vs-open-tasks, mathematics-education, disposition-vs-knowledge, disposition-building-practices, munger-disposition-formation, teenage-girl-development, adolescent-development-in-the-digital-age, stockman-2008-critique, crony-capitalism-and-monetary-deformation; full inbound-link grep re-verification for all top-tier pages
 - Files updated: system/contradictions.md (frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (frontmatter date), system/log.md (this entry)
