@@ -3,6 +3,9 @@ title: "Latticework Feedback Loops Outside Investing"
 date: 2026-05-19
 tags: [thinking, feedback, mental-models, practice, calibration, wisdom]
 related: [[latticework-pedagogy]], [[disposition-building-practices]], [[superforecasting]], [[disposition-vs-knowledge]], [[mental-models]]
+connections:
+  - type: application-of
+    target: disposition-building-practices
 ---
 
 # Latticework Feedback Loops Outside Investing

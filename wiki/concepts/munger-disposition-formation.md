@@ -3,6 +3,9 @@ title: "Munger's Disposition Formation — Pre-30 Substrate vs. Adult Cultivatio
 date: 2026-05-19
 tags: [thinking, biography, character, wisdom, mental-models]
 related: [[charlie-munger]], [[disposition-vs-knowledge]], [[latticework-pedagogy]], [[disposition-building-practices]], [[mental-models-and-multidisciplinary-thinking]]
+connections:
+  - type: influenced
+    target: disposition-building-practices
 ---
 
 # Munger's Disposition Formation — Pre-30 Substrate vs. Adult Cultivation

@@ -2,7 +2,10 @@
 title: "Living and Working with AI"
 date: 2026-05-18
 tags: [ai, technology, work, education, future]
-related: [[ethan-mollick]], [[large-language-models]], [[jagged-frontier]], [[cognitive-atrophy-and-ai]], [[mapping-the-jagged-frontier]]
+related: [[ethan-mollick]], [[large-language-models]], [[jagged-frontier]], [[cognitive-atrophy-and-ai]], [[mapping-the-jagged-frontier]], [[ai-productivity-gains-distribution]]
+connections:
+  - type: application-of
+    target: ai-productivity-gains-distribution
 ---
 
 # Living and Working with AI
@@ -46,7 +49,8 @@ LLMs are already disrupting writing assessment, cheating, and the teacher-studen
 - Where is the jagged frontier for any given profession, and how should workers invest their mapping efforts?
 - **At what point does AI augmentation shade into cognitive atrophy — do we lose skills by outsourcing them?**  
   The risk is real but skill-specific and non-linear. The critical distinction is whether AI acts as a *prosthetic* (replaces a function entirely) or a *scaffold* (supports a function while the underlying capability is still exercised). GPS use correlates with reduced hippocampal spatial memory (Maguire et al.); autocomplete affects manual spelling ability. For AI, atrophy risk is highest in skills where (1) AI performance exceeds the user's own baseline, so the user rarely needs to exercise the skill independently; (2) feedback loops are long, so errors are invisible; and (3) the skill requires tacit knowledge built through trial and error (clinical judgment, legal reasoning). The risk is lower when humans remain the editor and evaluator — keeping diagnostic skill active — or when the domain is novel enough that AI routinely fails and the user must fill in. The practical prescription is to periodically work *without* AI in core domains, the way surgeons maintain manual skills even when automation is available. Mollick's own fourth rule ("assume this is the worst AI you'll ever use") cuts both ways: the underlying skill built now, while AI is still limited at the jagged frontier, is the insurance policy for the moments AI fails.
-- How will the political economy of AI-driven productivity gains distribute — to workers or to capital?
+- **How will the political economy of AI-driven productivity gains distribute — to workers or to capital?**  
+  Historical precedent is cautionary: the Industrial Revolution's productivity gains took 30-50 years to broadly share with workers and required deliberate institutional intervention (labor organizing, wage legislation, consumer market development). The computer revolution was capital- and skill-biased — labor's share of income in developed economies fell from ~65% in the 1970s to ~56% by 2020. AI's specific profile raises additional distributional concerns: it attacks professional cognitive work (legal, financial, medical analysis) that was previously insulated, and it requires massive capital investment concentrated in few firms. The partial counter: AI tools are more accessible to individual freelancers and small firms than previous waves, potentially amplifying *remaining* workers' productivity. But "amplified" and "replaced" are hard to distinguish ex ante. The historical pattern suggests gains are not automatically shared — they require labor market institutions, regulatory constraints on monopoly, and redistribution mechanisms as deliberate political choices. See [[ai-productivity-gains-distribution]] for the full analysis.
 
 ## Source
 `raw/books/Ethan Mollick - Co-Intelligence_ Living and Working With AI (2024, Penguin Publishing Group).epub`

@@ -2,7 +2,16 @@
 title: "Romanticization of Illness"
 date: 2026-05-18
 tags: [illness, culture, narrative, tuberculosis, art, history]
-related: [[tuberculosis-and-global-health]], [[health-equity]], [[art-theft-and-obsession]], [[illness-narrative-and-coping]], [[contemporary-romanticized-illnesses]]
+related: [[tuberculosis-and-global-health]], [[health-equity]], [[art-theft-and-obsession]], [[illness-narrative-and-coping]], [[contemporary-romanticized-illnesses]], [[pandemic-lessons-from-tb]]
+connections:
+  - type: influenced
+    target: health-equity
+  - type: extended-by
+    target: illness-narrative-and-coping
+  - type: extended-by
+    target: contemporary-romanticized-illnesses
+  - type: extended-by
+    target: pandemic-lessons-from-tb
 ---
 
 # Romanticization of Illness

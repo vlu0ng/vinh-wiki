@@ -3,6 +3,9 @@ title: "Experiment Theater"
 date: 2026-05-20
 tags: [productivity, decision-making, commitment, psychology, career]
 related: [[experimental-mindset]], [[tiny-experiments]], [[anne-laure-le-cunff]], [[disposition-vs-knowledge]], [[focusing-question]]
+connections:
+  - type: critiques
+    target: experimental-mindset
 ---
 
 # Experiment Theater

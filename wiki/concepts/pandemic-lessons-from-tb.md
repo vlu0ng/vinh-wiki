@@ -3,6 +3,9 @@ title: "Pandemic Lessons from TB"
 date: 2026-05-19
 tags: [global-health, infectious-disease, tuberculosis, covid-19, hiv, public-health, health-equity]
 related: [[tuberculosis-and-global-health]], [[health-equity]], [[romanticization-of-illness]], [[partners-in-health]]
+connections:
+  - type: extends
+    target: romanticization-of-illness
 ---
 
 # Pandemic Lessons from TB

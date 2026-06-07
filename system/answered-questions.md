@@ -37,4 +37,32 @@ Tracks which `## Open Questions` have been answered, by which page(s), on which 
 | 2026-05-20 | wiki/topics/ai-in-education.md | Can AI tutoring replicate the motivational and relational components of great human teaching? | wiki/concepts/ai-tutoring-and-human-motivation.md (created) |
 | 2026-05-20 | wiki/topics/slow-productivity.md | How do knowledge workers negotiate "slow" timelines with managers/clients still using industrial-era metrics? | wiki/concepts/negotiating-slow-productivity.md (created) |
 | 2026-05-20 | wiki/topics/teenage-girl-development.md | What does healthy navigation of these strands look like in the age of social media and smartphones? | wiki/concepts/adolescent-development-in-the-digital-age.md (created) |
+| 2026-06-07 | wiki/concepts/health-equity.md | Is health equity achievable without global wealth redistribution? | wiki/concepts/health-equity-without-redistribution.md (created) |
+| 2026-06-07 | wiki/topics/economic-literacy.md | How do you build economic literacy at scale without the content being captured by political narratives? | wiki/concepts/economic-literacy-at-scale.md (created) |
+| 2026-06-07 | wiki/topics/economic-literacy.md | Scanlon's framing is optimistic (economies trend toward okay-ness). How does that hold up against structural inequality and climate risk? | wiki/concepts/scanlon-optimism-limits.md (created) |
+| 2026-06-07 | wiki/topics/mental-models-and-multidisciplinary-thinking.md | How do Munger's mental models hold up against behavioral economics research that emerged after he developed them? | wiki/concepts/munger-vs-behavioral-economics.md (created) |
+| 2026-06-07 | wiki/topics/experimental-mindset.md | How do you maintain financial stability while running experiments that may not pay off? | wiki/concepts/financial-stability-while-experimenting.md (created) |
+| 2026-06-07 | wiki/topics/experimental-mindset.md | Is the experimental mindset a luxury of the educated, mobile professional class, or can it apply across economic circumstances? | wiki/concepts/experimental-mindset-and-privilege.md (created) |
+| 2026-06-07 | wiki/topics/living-and-working-with-ai.md | How will the political economy of AI-driven productivity gains distribute — to workers or to capital? | wiki/concepts/ai-productivity-gains-distribution.md (created) |
+| 2026-06-07 | wiki/topics/adaptive-leadership.md | How do you develop the diagnostic skill to reliably distinguish technical from adaptive challenges in real time? | wiki/concepts/adaptive-challenge-diagnosis.md (created) |
+| 2026-06-07 | wiki/topics/mental-models-and-multidisciplinary-thinking.md | Can the latticework approach be systematically taught, or does it require Munger's unusual combination of traits? | answered inline (see wiki/concepts/latticework-pedagogy.md) |
+| 2026-06-07 | wiki/concepts/disposition-vs-knowledge.md | Is there a minimal set of practices (journaling, forecasting, decision review) that reliably builds disposition rather than just knowledge? | expanded inline (wiki/concepts/disposition-building-practices.md already existed) |
+| 2026-06-07 | wiki/concepts/disposition-vs-knowledge.md | How much of Munger's dispositional advantage was formed before age 30 versus cultivated deliberately in adulthood? | expanded inline (wiki/concepts/munger-disposition-formation.md already existed) |
+| 2026-06-07 | wiki/topics/the-one-thing.md | The ONE Thing model implicitly assumes autonomy over your schedule. How does it apply to reactive knowledge-worker roles with constant interruptions? | answered inline |
+| 2026-06-07 | wiki/topics/slow-productivity.md | Does the model apply mainly to autonomous/creative roles, or can it transfer to constrained jobs? | answered inline |
+| 2026-06-07 | wiki/topics/ai-in-education.md | How do we prevent AI tutoring from becoming another vector for jagged-frontier failures — excellent at some tasks, dangerously wrong at others the student can't detect? | answered inline |
+| 2026-06-07 | wiki/topics/art-theft-and-obsession.md | Do Breitwieser's crimes constitute preservation or theft — he kept works safe while many museums had poor security? | answered inline |
+| 2026-06-07 | wiki/topics/art-theft-and-obsession.md | What does the case reveal about how we value art institutionally vs. personally? | answered inline |
+| 2026-06-07 | wiki/topics/crony-capitalism-and-monetary-deformation.md | Is Stockman's prescription (sound money, no bailouts, fiscal austerity) politically achievable or merely principled? | answered inline |
+| 2026-06-07 | wiki/topics/crony-capitalism-and-monetary-deformation.md | How has the post-2013 decade of QE, COVID stimulus, and crypto validated or invalidated his thesis? | answered inline |
+| 2026-06-07 | wiki/topics/glucose-revolution.md | How does CGM access democratize or stratify glucose literacy? (Devices are expensive) | answered inline |
+| 2026-06-07 | wiki/topics/glucose-revolution.md | What's the evidence base for the specific ordering hacks vs. broader caloric/macronutrient patterns? | answered inline |
+| 2026-06-07 | wiki/topics/mathematics-education.md | How do standardized tests (SAT, ACT) create structural incentives that undermine growth-mindset pedagogy? | answered inline |
+| 2026-06-07 | wiki/topics/mathematics-education.md | What does teacher training need to look like for mathematical mindset approaches to scale? | answered inline |
+| 2026-06-07 | wiki/topics/teenage-girl-development.md | How do these strands manifest differently across racial, cultural, and economic contexts? | answered inline |
+| 2026-06-07 | wiki/topics/teenage-girl-development.md | How do the strands apply to transgender and non-binary teens? | answered inline |
+| 2026-06-07 | wiki/topics/tuberculosis-and-global-health.md | How does drug-resistant TB change the cure timeline? | answered inline |
+| 2026-06-07 | wiki/people/warren-buffett.md | Which Buffett writings or shareholder letters should be ingested to deepen the investing side of this wiki? | answered inline |
+| 2026-06-07 | wiki/people/warren-buffett.md | How much of Berkshire's philosophy is Buffett's original Graham-style value investing versus Munger's quality-business influence? | answered inline |
+| 2026-06-07 | wiki/concepts/latticework-pedagogy.md | Are there structural differences between people who successfully internalize multi-model reasoning and those who only learn the vocabulary — and can those differences be measured before training? | answered inline |
 

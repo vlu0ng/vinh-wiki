@@ -3,6 +3,9 @@ title: "Illness Narrative and Coping"
 date: 2026-05-19
 tags: [illness, narrative, coping, psychology, health, philosophy]
 related: [[romanticization-of-illness]], [[tuberculosis-and-global-health]], [[health-equity]]
+connections:
+  - type: extends
+    target: romanticization-of-illness
 ---
 
 # Illness Narrative and Coping

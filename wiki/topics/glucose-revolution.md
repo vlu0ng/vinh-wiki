@@ -67,8 +67,10 @@ on what you would eat instead.
 
 ## Open Questions
 
-- How does CGM access democratize or stratify glucose literacy? (Devices are expensive)
-- What's the evidence base for the specific ordering hacks vs. broader caloric/macronutrient patterns?
+- **How does CGM access democratize or stratify glucose literacy? (Devices are expensive)**  
+  CGM devices (Dexcom, Libre) cost $50-150/month out of pocket in the US; they're covered by insurance for Type 1 diabetics but rarely for non-diabetics seeking metabolic insight. This creates a stratification: the "personalized nutrition" approach Inchauspé advocates becomes a luxury health good available to those who can afford continuous self-monitoring. The hacks in the book (food ordering, starter vegetables, breakfast composition) are accessible without CGM and represent a pragmatic middle ground — actionable guidance that doesn't require expensive devices. The deeper equity issue: glucose literacy correlates with food access. Keeping glucose curves flat requires access to diverse whole foods and fiber-dense produce, which are more expensive and less available in food deserts. The hack that "starts every meal with vegetables" is harder when vegetables require more grocery budget and food preparation time.
+- **What's the evidence base for the specific ordering hacks vs. broader caloric/macronutrient patterns?**  
+  The evidence is more mixed than Inchauspé's confident framing implies. The meal-order finding (vegetables → protein → starches → sugar) has support from a 2015 study by Shukla et al. in *Diabetes Care* showing lower post-meal glucose when subjects ate protein and vegetables before carbohydrates. The vinegar hack has mechanistic support (acetic acid slows gastric emptying and reduces alpha-amylase activity). However, most of the CGM-based research Inchauspé cites is from small studies or her own data, and large randomized controlled trials comparing meal-order interventions against isocaloric controls with the same macronutrient ratios are limited. The overall diet pattern (what and how much you eat) almost certainly dominates the ordering effects for most people. The hacks are probably real and practically useful, but they're likely responsible for modest effect sizes on top of diet quality — not transformative interventions on their own.
 
 ## Source
 `raw/books/Glucose Revolution.epub`

@@ -3,6 +3,9 @@ title: "Contemporary Romanticized Illnesses"
 date: 2026-05-19
 tags: [illness, culture, narrative, mental-health, social-media, health-equity]
 related: [[romanticization-of-illness]], [[illness-narrative-and-coping]], [[tuberculosis-and-global-health]], [[health-equity]]
+connections:
+  - type: extends
+    target: romanticization-of-illness
 ---
 
 # Contemporary Romanticized Illnesses

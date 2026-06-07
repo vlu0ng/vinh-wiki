@@ -2,7 +2,12 @@
 title: "Latticework Failure Modes"
 date: 2026-05-20
 tags: [thinking, mental-models, decision-making, charlie-munger, epistemology]
-related: [[mental-models-and-multidisciplinary-thinking]], [[mental-models]], [[latticework-pedagogy]], [[charlie-munger]], [[disposition-vs-knowledge]]
+related: [[mental-models-and-multidisciplinary-thinking]], [[mental-models]], [[latticework-pedagogy]], [[charlie-munger]], [[disposition-vs-knowledge]], [[focus-vs-orientation]]
+connections:
+  - type: critiques
+    target: mental-models-and-multidisciplinary-thinking
+  - type: related
+    target: focus-vs-orientation
 ---
 
 # Latticework Failure Modes

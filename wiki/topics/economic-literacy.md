@@ -2,7 +2,12 @@
 title: "Economic Literacy and the Vibes Economy"
 date: 2026-05-19
 tags: [economics, finance, behavioral-economics, kyla-scanlon]
-related: [[kyla-scanlon]], [[vibecession]], [[bubble-finance]], [[crony-capitalism-and-monetary-deformation]]
+related: [[kyla-scanlon]], [[vibecession]], [[bubble-finance]], [[crony-capitalism-and-monetary-deformation]], [[economic-literacy-at-scale]], [[scanlon-optimism-limits]]
+connections:
+  - type: application-of
+    target: economic-literacy-at-scale
+  - type: critiqued-by
+    target: scanlon-optimism-limits
 ---
 
 # Economic Literacy and the Vibes Economy
@@ -63,9 +68,10 @@ not as footnotes.
 
 ## Open Questions
 
-- How do you build economic literacy at scale without the content being captured by political narratives?
-- Scanlon's framing is optimistic (economies trend toward okay-ness). How does that hold up against structural
-  inequality and climate risk?
+- **How do you build economic literacy at scale without the content being captured by political narratives?**  
+  The core strategy: anchor literacy in *mechanics* (how does the Fed set interest rates?) rather than *evaluation* (should rates be lower?). Mechanistic questions have empirically verifiable answers; evaluative questions embed normative choices that map onto political positions. Behavioral economics provides relatively non-partisan ground — cognitive biases are empirically documented and no political coalition "owns" the critique. The vibecession concept itself is an example: an observation about the data-sentiment gap that doesn't prescribe a political response. But Dan Kahan's "motivated numeracy" research warns that higher statistical literacy doesn't reduce political polarization on contested questions — it increases it, because people use analytical skills to defend prior beliefs. The deeper solution may be identity-decoupled pedagogy: grounding concepts in personal narrative and shared experience so they're less immediately retrievable as tribal weapons. See [[economic-literacy-at-scale]] for the full analysis.
+- **Scanlon's framing is optimistic (economies trend toward okay-ness). How does that hold up against structural inequality and climate risk?**  
+  The optimism is well-calibrated within its domain (normal business-cycle dynamics, aggregate, developed economies) but faces two structural challenges. First, distributional inequality: the K-shaped COVID recovery showed that aggregate indicators can look healthy while large segments trend downward; Piketty's r > g argument suggests inequality compounds structurally even in growing economies; some vibecession sentiment may be rational rather than miscalibrated — reflecting people accurately reading their own K-shaped economy. Second, climate risk introduces secular headwinds with no cyclical recovery mechanism: physical climate risk (agricultural disruption, mass displacement), transition risk (stranded assets, energy cost volatility), and long-horizon habitability questions are outside the domain where business-cycle optimism applies. Scanlon's corrective against doom-optimizing financial media remains valid; the scope condition is more limited than her framing implies. See [[scanlon-optimism-limits]] for the full critique.
 
 ## Source
 `raw/books/In_This_Economy_Kyla_Scanlon.epub`

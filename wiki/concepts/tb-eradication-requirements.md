@@ -2,7 +2,10 @@
 title: "TB Eradication — Political and Financial Requirements"
 date: 2026-05-19
 tags: [global-health, infectious-disease, tuberculosis, health-equity, policy, patents]
-related: [[tuberculosis-and-global-health]], [[health-equity]], [[pandemic-lessons-from-tb]], [[partners-in-health]], [[john-green]]
+related: [[tuberculosis-and-global-health]], [[health-equity]], [[pandemic-lessons-from-tb]], [[partners-in-health]], [[john-green]], [[intellectual-property-and-health-equity]]
+connections:
+  - type: application-of
+    target: intellectual-property-and-health-equity
 ---
 
 # TB Eradication — Political and Financial Requirements

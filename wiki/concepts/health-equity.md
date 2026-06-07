@@ -2,7 +2,12 @@
 title: "Health Equity"
 date: 2026-05-18
 tags: [public-health, equity, social-determinants, global-health]
-related: [[tuberculosis-and-global-health]], [[john-green]], [[partners-in-health]], [[intellectual-property-and-health-equity]], [[jessie-inchauspee]]
+related: [[tuberculosis-and-global-health]], [[john-green]], [[partners-in-health]], [[intellectual-property-and-health-equity]], [[jessie-inchauspee]], [[romanticization-of-illness]], [[stoicism-and-systemic-injustice]], [[health-equity-without-redistribution]]
+connections:
+  - type: influenced-by
+    target: romanticization-of-illness
+  - type: application-of
+    target: health-equity-without-redistribution
 ---
 
 # Health Equity
@@ -49,7 +54,8 @@ An unexpected link: [[mathematics-education|Mathematics Education]] research sho
 
 ## Open Questions
 
-- Is health equity achievable without global wealth redistribution?
+- **Is health equity achievable without global wealth redistribution?**  
+  Partially, in a two-tier sense. For targeted infectious diseases with cheap cures — TB, many tropical diseases — substantial progress is achievable through IP reform (TRIPS flexibilities, compulsory licensing), generic drug manufacturing, and community health worker delivery models, without requiring wealth transfer from rich countries. Partners in Health's Haiti and Sierra Leone programs demonstrate dramatically improved outcomes at low cost. Countries like Cuba, Sri Lanka, and Kerala achieve health metrics comparable to much wealthier nations through institutional investment in primary care. But full health equity — fair opportunity to be as healthy as possible — requires addressing the social determinants (nutrition, housing, sanitation, environmental quality) that are causally coupled to structural poverty. You can cure TB, but if patients return to malnutrition and overcrowding, they re-infect. The honest answer: achievable in narrow technical terms for treatable diseases; much harder for the structural health equity the concept actually demands. See [[health-equity-without-redistribution]] for the full analysis.
 - **How does intellectual property law (on drugs and vaccines) perpetuate health inequity?**  
   Patent protections (such as WTO's TRIPS agreement) allow companies to maintain legal monopolies, driving up medicine prices and pricing out low-income nations (e.g., historical crises in HIV/AIDS, COVID-19 vaccine distribution, and tuberculosis treatments like Bedaquiline). The legal structures and alternative reward models to bypass this artificial scarcity are analyzed in [[intellectual-property-and-health-equity]].
 

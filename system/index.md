@@ -58,6 +58,14 @@ This is the master entry point for the wiki. Keep it updated as major pages are 
 - [[ai-tutoring-and-human-motivation]] — why AI instruction can emulate cognitive scaffolding but lacks the reciprocal human empathy essential to student motivation
 - [[negotiating-slow-productivity]] — practical communication protocols (Kanban status boards, capacity trade-offs) for managing up and protecting cognitive focus
 - [[adolescent-development-in-the-digital-age]] — how smartphones and social media distort Anna Freud's seven developmental transitions; parent scaffolding protocols
+- [[health-equity-without-redistribution]] — how much health equity is achievable through IP reform and delivery systems vs. what requires structural wealth redistribution
+- [[economic-literacy-at-scale]] — how to build public economic understanding without content capture by partisan narratives; mechanics-vs-evaluation distinction
+- [[scanlon-optimism-limits]] — where Scanlon's business-cycle optimism breaks down: K-shaped recovery, structural inequality, and climate secular risk
+- [[munger-vs-behavioral-economics]] — how Munger's bias catalog holds up against formal behavioral economics; where de-biasing fails and choice architecture outperforms
+- [[financial-stability-while-experimenting]] — portfolio strategy, staged commitment, and burn-rate control as structural approaches to funding iterative experimentation
+- [[experimental-mindset-and-privilege]] — the structural access critique of Le Cunff's experimental mindset; scarcity mindset, healthcare, and social capital as barriers
+- [[ai-productivity-gains-distribution]] — political economy of AI productivity gains; historical precedents suggest institutional intervention required for broad sharing
+- [[adaptive-challenge-diagnosis]] — diagnostic markers for distinguishing adaptive from technical challenges; why the skill is dispositional not just cognitive
 
 
 

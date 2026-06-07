@@ -3,6 +3,9 @@ title: "Slow Productivity and AI: The Craft-Building Problem"
 date: 2026-05-20
 tags: [productivity, ai, craft, learning, cognitive-atrophy, cal-newport]
 related: [[slow-productivity]], [[cognitive-atrophy-and-ai]], [[pseudo-productivity]], [[disposition-vs-knowledge]], [[experiment-theater]], [[cal-newport]]
+connections:
+  - type: applies-to
+    target: slow-productivity
 ---
 
 # Slow Productivity and AI: The Craft-Building Problem

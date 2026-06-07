@@ -3,6 +3,13 @@ title: "Wisdom Traditions: Practice vs. Doctrine"
 date: 2026-05-20
 tags: [philosophy, wisdom, religion, character, behavioral-change]
 related: [[disposition-vs-knowledge]], [[disposition-building-practices]], [[stoic-virtues]], [[stoic-justice]], [[latticework-pedagogy]]
+connections:
+  - type: influenced
+    target: disposition-vs-knowledge
+  - type: influenced-by
+    target: disposition-building-practices
+  - type: applies-to
+    target: stoic-virtues
 ---
 
 # Wisdom Traditions: Practice vs. Doctrine

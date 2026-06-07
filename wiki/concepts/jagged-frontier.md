@@ -2,7 +2,10 @@
 title: "Jagged Frontier"
 date: 2026-05-18
 tags: [ai, capability, llm, mental-model]
-related: [[living-and-working-with-ai]], [[ethan-mollick]], [[large-language-models]]
+related: [[living-and-working-with-ai]], [[ethan-mollick]], [[large-language-models]], [[mapping-the-jagged-frontier]]
+connections:
+  - type: applies-to
+    target: mapping-the-jagged-frontier
 ---
 
 # Jagged Frontier

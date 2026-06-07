@@ -2,7 +2,10 @@
 title: "Intellectual Property and Health Equity"
 date: 2026-05-20
 tags: [public-health, law, economics, intellectual-property, equity]
-related: [[health-equity]], [[tuberculosis-and-global-health]], [[john-green]], [[partners-in-health]]
+related: [[health-equity]], [[tuberculosis-and-global-health]], [[john-green]], [[partners-in-health]], [[tb-eradication-requirements]]
+connections:
+  - type: applies-to
+    target: tb-eradication-requirements
 ---
 
 # Intellectual Property and Health Equity

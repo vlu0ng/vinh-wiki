@@ -2,7 +2,12 @@
 title: "Mental Models and Multidisciplinary Thinking"
 date: 2026-05-18
 tags: [thinking, investing, decision-making, wisdom, philosophy]
-related: [[charlie-munger]], [[mental-models]], [[latticework-failure-modes]]
+related: [[charlie-munger]], [[mental-models]], [[latticework-failure-modes]], [[munger-vs-behavioral-economics]]
+connections:
+  - type: critiqued-by
+    target: latticework-failure-modes
+  - type: application-of
+    target: munger-vs-behavioral-economics
 ---
 
 # Mental Models and Multidisciplinary Thinking
@@ -44,8 +49,10 @@ Munger's multidisciplinary thinking shapes his investment approach: look for bus
 - [[inversion]] — solving problems by reasoning backward from failure
 
 ## Open Questions
-- Can the latticework approach be systematically taught, or does it require Munger's unusual combination of traits?
-- How do Munger's mental models hold up against behavioral economics research that emerged after he developed them?
+- **Can the latticework approach be systematically taught, or does it require Munger's unusual combination of traits?**  
+  The evidence is cautious: the latticework can be *described and modeled* but the disposition to apply it spontaneously — the genuine curiosity, comfort with uncertainty, and independence from authority — resists systematic transmission. Character education research finds that explicit instruction in virtues has weak behavioral effects; the strongest predictors of disposition development are modeling by respected figures, institutional culture, and genuine practice with stakes. Munger's own case suggests the disposition preceded the framework (he was an insatiable reader before he had a theory for why). The honest assessment: the latticework can be scaffolded through deliberate practice, community, and feedback — but the selection effect (who is already curious enough to pursue it) likely explains more variance than the curriculum. See [[latticework-pedagogy]] for the full analysis.
+- **How do Munger's mental models hold up against behavioral economics research that emerged after he developed them?**  
+  Better than expected on description; worse on prescription. Munger's catalog of psychological biases — incentive-caused bias, social proof, availability bias, deprival super-reaction — maps closely onto the Kahneman-Tversky-Thaler research that formalized these patterns. He was essentially right about what the biases are. Where behavioral economics challenges him: de-biasing doesn't work reliably (knowing about a bias doesn't counter it), which undercuts the implied prescription that the catalog makes you a better decision-maker. The empirical evidence points instead toward choice architecture (designing environments) rather than individual rationality cultivation. Munger's framework is most valid as a tool for reflective analysis in slow-feedback domains; it's weakest as an in-the-moment debiasing strategy. See [[munger-vs-behavioral-economics]] for the full comparison.
 - **Where does the latticework approach fail — what kinds of problems resist multi-model synthesis?**  
   Several categories of problems resist the approach: (1) *Deep procedural expertise* — the latticework is a tool for judgment under uncertainty, not for technical execution. Differential equations, surgical technique, bench biology, and similar skills require deliberate practice and domain-specific feedback that mental models cannot replace. Munger is clear he operates through others who have that expertise. (2) *Model conflict without resolution* — when multiple models point in different directions, the framework doesn't specify how to weight them. Munger's answer ("wait for the lollapalooza, when everything aligns") isn't always available; sometimes you must decide under genuine model uncertainty. (3) *Truly novel domains* — in domains where no settled models yet exist (LLMs in 2020, mRNA vaccines pre-COVID), applying familiar frameworks from adjacent fields can be actively misleading. Overconfident polymaths are a real phenomenon: the same breadth that enables insight can generate spurious analogies. (4) *Fast-iteration, high-pressure environments* — the latticework is a deliberate, reflective process. In emergency medicine, competitive athletics, or active trading, tacit expertise built through high-volume practice (Kahneman's System 1) often outperforms conscious model consultation. (5) *Irreducibly political problems* — knowing *why* institutions resist change doesn't determine *whether* they will. The best mental models can diagnose but not solve problems rooted in power dynamics and entrenched interest.
 

@@ -2,7 +2,12 @@
 title: "Focus vs. Orientation: The Tunnel Vision Problem"
 date: 2026-05-20
 tags: [productivity, focus, strategy, decision-making, prioritization]
-related: [[the-one-thing]], [[focusing-question]], [[slow-productivity]], [[mental-models]], [[experiment-theater]], [[gary-keller]]
+related: [[the-one-thing]], [[focusing-question]], [[slow-productivity]], [[mental-models]], [[experiment-theater]], [[gary-keller]], [[latticework-failure-modes]]
+connections:
+  - type: critiques
+    target: the-one-thing
+  - type: related
+    target: latticework-failure-modes
 ---
 
 # Focus vs. Orientation: The Tunnel Vision Problem

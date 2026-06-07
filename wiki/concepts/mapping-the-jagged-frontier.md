@@ -3,6 +3,9 @@ title: "Mapping the Jagged Frontier — A Profession-by-Profession Approach"
 date: 2026-05-19
 tags: [ai, productivity, work, llm, learning, skill-development]
 related: [[jagged-frontier]], [[living-and-working-with-ai]], [[ethan-mollick]], [[cognitive-atrophy-and-ai]], [[large-language-models]]
+connections:
+  - type: application-of
+    target: jagged-frontier
 ---
 
 # Mapping the Jagged Frontier — A Profession-by-Profession Approach

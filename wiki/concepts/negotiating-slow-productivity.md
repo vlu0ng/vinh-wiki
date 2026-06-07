@@ -3,6 +3,9 @@ title: "Negotiating Slow Productivity"
 date: 2026-05-20
 tags: [productivity, work, career, management, communication]
 related: [[slow-productivity]], [[cal-newport]], [[pseudo-productivity]], [[cognitive-atrophy-and-ai]]
+connections:
+  - type: applies-to
+    target: slow-productivity
 ---
 
 # Negotiating Slow Productivity

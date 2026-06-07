@@ -63,9 +63,12 @@ Key findings Boaler cites:
 
 ## Open Questions
 
-- How do standardized tests (SAT, ACT) create structural incentives that undermine growth-mindset pedagogy?
-- What does teacher training need to look like for mathematical mindset approaches to scale?
-- Is there tension between "open tasks" and the need to develop procedural fluency?
+- **How do standardized tests (SAT, ACT) create structural incentives that undermine growth-mindset pedagogy?**  
+  Standardized tests select primarily for procedural fluency and speed under timed conditions — the exact capabilities that growth-mindset pedagogy doesn't prioritize. The downstream effect: teachers who know their students will face SATs feel pressure to teach to the test format, even if they believe in open-task approaches, because students' life outcomes (college access, scholarships) depend on test scores. This creates a structural conflict even for teachers who are philosophically aligned with Boaler's framework. Additionally, timed testing explicitly activates "math anxiety" and fixed-mindset patterns in students with math trauma — the very students Boaler's approach is designed to serve. The reform implication: open-task pedagogy cannot scale fully without assessment reform; growth-mindset pedagogy within a fixed-mindset assessment system creates classroom-assessment dissonance that teachers and students both feel.
+- **What does teacher training need to look like for mathematical mindset approaches to scale?**  
+  Boaler's research on teacher transformation suggests three requirements: (1) *Belief change about intelligence and ability* — teachers who believe math ability is fixed will inadvertently send that message even while implementing open tasks; belief change is dispositional, not just curricular, and requires extended engagement rather than one-day PD. (2) *Fluency with facilitation rather than answer-delivery* — open tasks require teachers to hold back answers, sustain productive struggle, and ask questions that deepen thinking rather than rescue students; this requires unlearning the "sage on stage" mode that most teachers were trained in. (3) *Seeing actual student thinking* — professional learning communities where teachers share student work and observe each other's classrooms are more effective at behavior change than workshop attendance. The scaling constraint: this model requires sustained investment (coaching, collaborative planning time, reduced class sizes) that most districts don't fund; the gap between research-validated professional development and what schools actually provide is large.
+- **Is there tension between "open tasks" and the need to develop procedural fluency?**  
+  Resolved in [[procedural-fluency-vs-open-tasks]]: they are complements in sequence, not competitors. Conceptual understanding first makes procedural learning more durable and flexible; procedures emerging from open tasks are better retained because they have semantic scaffolding. The enemy is *meaningless drill* — rote repetition without conceptual grounding — not procedural practice itself.
 
 ## Source
 

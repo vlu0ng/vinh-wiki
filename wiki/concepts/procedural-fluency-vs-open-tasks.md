@@ -3,6 +3,9 @@ title: "Procedural Fluency vs. Open Tasks"
 date: 2026-05-20
 tags: [education, mathematics, pedagogy, learning, growth-mindset]
 related: [[mathematics-education]], [[growth-mindset]], [[jo-boaler]], [[cognitive-atrophy-and-ai]]
+connections:
+  - type: related
+    target: cognitive-atrophy-and-ai
 ---
 
 # Procedural Fluency vs. Open Tasks

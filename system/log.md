@@ -4,6 +4,41 @@ title: "Session Log"
 
 # Session Log
 
+## 2026-06-07 — Weekly Wiki Pass (Maintenance + Connection Discovery + Answer Questions)
+
+### Pass 1: Maintenance
+- Scanned all 82 wiki pages for orphan pages, missing frontmatter, and unlinked mentions
+- Result: vault structurally clean — no orphans, no missing frontmatter, no missed wikilinks
+- Two Munger PDFs in raw/articles/ remain uningested (already tracked in ingest-queue)
+- No files modified in Pass 1
+
+### Pass 2: Connection Discovery
+- Analyzed 28 previously unanalyzed pages for missing typed `connections:` edges
+- Added 43 typed connections across 30 pages
+- New connections include: cognitive-atrophy-and-ai ↔ ai-tutoring (critiques/critiqued-by), jagged-frontier ↔ mapping-the-jagged-frontier (applies-to/application-of), romanticization-of-illness ↔ illness-narrative-and-coping / contemporary-romanticized-illnesses / pandemic-lessons-from-tb (extended-by/extends), intellectual-property-and-health-equity ↔ tb-eradication-requirements (applies-to/application-of), disposition-building-practices ↔ latticework-feedback-loops-outside-investing and munger-disposition-formation, slow-productivity-and-ai-craft and negotiating-slow-productivity ↔ slow-productivity, stoicism-and-systemic-injustice ↔ stoic-justice, focus-vs-orientation ↔ the-one-thing and latticework-failure-modes, latticework-failure-modes ↔ mental-models-and-multidisciplinary-thinking, wisdom-traditions-practice-vs-doctrine ↔ disposition-vs-knowledge and stoic-virtues, procedural-fluency-vs-open-tasks ↔ cognitive-atrophy-and-ai
+- Updated system/connection-discovery.md registry with new row for 2026-06-07
+
+### Pass 3: Answer Questions
+- Scanned all wiki pages for unanswered `## Open Questions` bullets
+- Created 8 new concept pages:
+  - wiki/concepts/health-equity-without-redistribution.md (from health-equity.md)
+  - wiki/concepts/economic-literacy-at-scale.md (from economic-literacy.md)
+  - wiki/concepts/scanlon-optimism-limits.md (from economic-literacy.md)
+  - wiki/concepts/munger-vs-behavioral-economics.md (from mental-models-and-multidisciplinary-thinking.md)
+  - wiki/concepts/financial-stability-while-experimenting.md (from experimental-mindset.md)
+  - wiki/concepts/experimental-mindset-and-privilege.md (from experimental-mindset.md)
+  - wiki/concepts/ai-productivity-gains-distribution.md (from living-and-working-with-ai.md)
+  - wiki/concepts/adaptive-challenge-diagnosis.md (from adaptive-leadership.md)
+- Answered 29 questions total (8 with new concept pages; 21 inline-only including 2 backfill expansions for disposition-vs-knowledge questions whose concept pages already existed)
+- Source pages with inline expansions: health-equity, economic-literacy, mental-models-and-multidisciplinary-thinking, experimental-mindset, disposition-vs-knowledge, living-and-working-with-ai, adaptive-leadership, the-one-thing, slow-productivity, ai-in-education, art-theft-and-obsession, crony-capitalism-and-monetary-deformation, glucose-revolution, mathematics-education, teenage-girl-development, tuberculosis-and-global-health, warren-buffett, latticework-pedagogy
+- Updated system/answered-questions.md with 29 new entries
+- Updated system/index.md with 8 new concept pages
+
+### Summary
+- Files modified: 30+ wiki pages (connection edges, related fields, inline question expansions), system/connection-discovery.md, system/answered-questions.md, system/index.md
+- Files created: 8 new concept pages
+- Vault grows from 82 to 90 pages
+
 ## 2026-06-07 — Nightly Dream Cycle
 - Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md; full read pass of all 82 wiki pages including all 48 concepts, 15 topics, 19 people; inbound-link grep (unique-file ripgrep) re-verification for all top-tier pages
 - Files updated: system/contradictions.md (new row added + frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (2 new rows + frontmatter date), system/log.md (this entry)
