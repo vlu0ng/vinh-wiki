@@ -1,6 +1,6 @@
 ---
 title: "Salience Digest"
-date: 2026-06-10
+date: 2026-06-11
 tags: [system, digest]
 ---
 
@@ -17,7 +17,7 @@ Each page is scored on cheap structural signals:
 
 ## Last run
 
-**2026-06-10** — Full dream-cycle pass (nightly). 90 wiki pages analyzed (56 concepts, 15 topics, 19 people). Vault unchanged since 2026-06-09 (no new pages, no new content). Inbound-link counts re-verified via ripgrep unique-file pattern-match on `[[slug` prefix across all wiki/ files. **Stage 1:** 1 new contradiction (`pandemic-lessons-from-tb` vs. `health-equity-without-redistribution`); 8 total open contradictions. **Stage 2:** No new near-duplicate cases; Cases 1, 2 (15 confirmed instances), and 3 carry forward unchanged. **Stage 3:** One count correction: `mental-models-and-multidisciplinary-thinking` corrects from 11 to 12 (previously-missed inbound link from `wiki/concepts/mental-models.md` discovered via re-verification), moving it from the 5-tied tier to its own rank 5 position above `charlie-munger` (11) and `slow-productivity` (11).
+**2026-06-11** — Full dream-cycle pass (nightly). 90 wiki pages analyzed (56 concepts, 15 topics, 19 people). Vault unchanged since 2026-06-10 (no new pages, no new content). Inbound-link counts re-verified via ripgrep unique-file pattern-match on `[[slug` prefix across all wiki/ files. **Stage 1:** 0 new contradictions; 8 total open contradictions confirmed. Reads covered 13 under-examined pages: illness-narrative-and-coping, romanticization-of-illness, inversion, focus-vs-orientation, general-purpose-technology, pseudo-productivity, tiny-experiments, sound-money, tb-eradication-requirements, intellectual-property-and-health-equity, disposition-building-practices, munger-disposition-formation, adaptive-vs-technical-challenges — all internally consistent. **Stage 2:** No new near-duplicate cases; Cases 1, 2 (15 confirmed instances), and 3 carry forward unchanged. **Stage 3:** One count correction: `tuberculosis-and-global-health` corrects from 9 to 10 (previously-missed inbound link from `wiki/concepts/health-equity-without-redistribution.md`, created in the 2026-06-07 weekly pass — the link in the `related:` frontmatter was missed in the 2026-06-08, 2026-06-09, and 2026-06-10 passes). Moves `tuberculosis-and-global-health` from the 9-inbound tier (rank 12) into the 10-inbound tier at rank 8, joining `growth-mindset`, `jagged-frontier`, and `latticework-pedagogy`. The 9-inbound tier slides from rank 11 to rank 12.
 
 ---
 
@@ -38,7 +38,7 @@ _Pages with many inbound edges but a thin body — highest enrichment leverage._
 ## Stale high-value
 _Central pages not touched in a while — candidates to revisit._
 
-All pages share a creation band of 2026-05-18 to 2026-06-07 (3–23 days old). Staleness does not yet differentiate meaningfully within this vault; pages are recent. Re-run this section after the next enrichment pass.
+All pages share a creation band of 2026-05-18 to 2026-06-07 (4–24 days old). Staleness does not yet differentiate meaningfully within this vault; pages are recent. Re-run this section after the next enrichment pass.
 
 **Exception — uningested raw articles (aging gap):** Two PDF files in `raw/articles/` remain uningested:
 - `raw/articles/charlie munger - mental models Part 1.pdf`
@@ -87,27 +87,27 @@ When open questions were answered and extracted into dedicated concept pages, th
 ## Surfacing for the dashboard
 _Top 10+ pages by salience score (inbound edges × body depth bonus; feeds `wiki-dashboard.html` node sizing)._
 
-Inbound-link counts re-verified via ripgrep (unique files, excluding self-references). Vault stable at 90 pages. One count correction from 2026-06-09 run: `mental-models-and-multidisciplinary-thinking` corrects from 11 to 12 (previously-missed link from `wiki/concepts/mental-models.md`), moving it to rank 5 ahead of the 6-tied tier.
+Inbound-link counts re-verified via ripgrep (unique files, excluding self-references). Vault stable at 90 pages. One count correction from prior runs: `tuberculosis-and-global-health` corrects from 9 to **10** (previously-missed link from `wiki/concepts/health-equity-without-redistribution.md`), joining the rank-8-tied tier.
 
 | Rank | Page | Inbound (confirmed) | Body depth | Salience notes |
 |---|---|---|---|---|
 | **1 (tied)** | `disposition-vs-knowledge` | **20** | ~900 words | Crown jewel: richest body among top-10; bridges Munger, Stoicism, AI, and education clusters. Well-developed; no enrichment needed. |
 | **1 (tied)** | `mental-models` | **20** | ~350 words | Tied #1 by count and still the highest-centrality thin page — **#1 enrichment target in the vault.** |
-| 3 | `health-equity` | 16 | ~400 words | Body thin relative to centrality; primary enrichment target in the health/justice cluster. New contradiction with `pandemic-lessons-from-tb` (Stage 1, 2026-06-10) adds another open tension in this cluster. |
+| 3 | `health-equity` | 16 | ~400 words | Body thin relative to centrality; primary enrichment target in the health/justice cluster. Open contradiction with `pandemic-lessons-from-tb` remains. |
 | 4 | `cognitive-atrophy-and-ai` | 13 | ~800 words | Dense, well-developed; bridges AI cluster with productivity and education. |
-| **5** | `mental-models-and-multidisciplinary-thinking` | **12** | ~1500 words (topic) | **Count corrected from 11 to 12** (missed link: `wiki/concepts/mental-models.md`). Moves from 5-tied to sole rank 5. Well-developed topic page. |
+| **5** | `mental-models-and-multidisciplinary-thinking` | **12** | ~1500 words (topic) | Well-developed topic page. |
 | 6 (tied) | `charlie-munger` | 11 | ~350 words | Central person page; body unexpectedly thin for centrality — enrichment candidate. |
 | 6 (tied) | `slow-productivity` | 11 | ~800+ words (topic) | Central productivity hub; topic page substantive. |
 | 8 (tied) | `growth-mindset` | 10 | ~400 words | Bridges education, AI, and experimental-mindset clusters; contradiction with `mathematics-education` remains open. |
 | 8 (tied) | `jagged-frontier` | **10** | ~300 words | Very thin body vs. centrality — **#2 AI-cluster enrichment priority**. |
 | 8 (tied) | `latticework-pedagogy` | 10 | ~1000 words | Well-developed; bridges Munger cluster with behavioral science. |
-| 11 (tied) | `experimental-mindset` | 9 | ~1200 words (topic) | High centrality, well-developed. Open questions now all answered. |
-| 11 (tied) | `large-language-models` | 9 | ~250 words | Thinnest body at this centrality level — **#3 AI-cluster enrichment priority**. |
-| 11 (tied) | `living-and-working-with-ai` | 9 | ~1500+ words (topic) | High centrality, well-developed. |
-| 14 (tied) | `tiny-experiments` | 8 | ~450 words | Adequately developed for its centrality. |
-| 14 (tied) | `experimental-mindset` cluster pages | 8–9 | ~600–1200 words | `experimental-mindset-and-privilege`, `financial-stability-while-experimenting` — new 2026-06-07 concept pages with ~3–4 inbound each; will accumulate. |
-| 16 (tied) | `stoic-virtues` | 7 | ~500 words | Adequately developed; open contradiction with `wisdom-traditions-practice-vs-doctrine` remains. |
-| 16 (tied) | `superforecasting` | 7 | ~900 words | Well-developed; open contradiction with `munger-vs-behavioral-economics` remains. |
+| 8 (tied) | `tuberculosis-and-global-health` | **10** | ~1100 words (topic) | **Count corrected from 9 to 10** (previously-missed link from `health-equity-without-redistribution`). Well-developed topic page; moves into the 10-inbound tier. Central node in the health/justice cluster; bridges romanticization-of-illness, health-equity, pandemic-lessons-from-tb, and IP/health-equity pages. |
+| 12 (tied) | `experimental-mindset` | 9 | ~1200 words (topic) | High centrality, well-developed. Open questions now all answered. |
+| 12 (tied) | `large-language-models` | 9 | ~250 words | Thinnest body at this centrality level — **#3 AI-cluster enrichment priority**. |
+| 12 (tied) | `living-and-working-with-ai` | 9 | ~1500+ words (topic) | High centrality, well-developed. |
+| 15 (tied) | `tiny-experiments` | 8 | ~450 words | Adequately developed for its centrality. |
+| 17 (tied) | `stoic-virtues` | 7 | ~500 words | Adequately developed; open contradiction with `wisdom-traditions-practice-vs-doctrine` remains. |
+| 17 (tied) | `superforecasting` | 7 | ~900 words | Well-developed; open contradiction with `munger-vs-behavioral-economics` remains. |
 
 _Note: New concept pages from the 2026-06-07 weekly pass (health-equity-without-redistribution, economic-literacy-at-scale, scanlon-optimism-limits, munger-vs-behavioral-economics, financial-stability-while-experimenting, experimental-mindset-and-privilege, ai-productivity-gains-distribution, adaptive-challenge-diagnosis) all have 1–4 inbound links and will accumulate over time._
 
@@ -115,11 +115,9 @@ _Note: New concept pages from the 2026-06-07 weekly pass (health-equity-without-
 
 ## Newly surfaced this run
 
-**1 new contradiction (Stage 1):**
+**0 new contradictions (Stage 1):**
 
-`pandemic-lessons-from-tb` vs. `health-equity-without-redistribution` — both pages reference TB's historical outcomes to reach opposite conclusions about whether IP reform and delivery infrastructure are sufficient for disease-specific health equity. `pandemic-lessons-from-tb` (Lesson 4, written 2026-05-19) answers the health equity open question categorically: "TB's history suggests no." `health-equity-without-redistribution` (written 2026-06-07 as the dedicated analysis) uses the same TB evidence to argue for "substantial progress" on treatable infectious diseases without redistribution. The tension is partly definitional (full structural equity vs. disease-specific progress) but `pandemic-lessons-from-tb`'s framing lacks the two-tier distinction. Logged as open. Total open contradictions: **8**.
-
-One candidate explored but not logged: `ai-productivity-gains-distribution` ("gains historically capital-biased; institutional mediation required for broad sharing") vs. `jagged-frontier` ("AI amplifies certain expert tasks while leaving others to human judgment, suggesting remaining augmented workers gain"). Resolved as complementary: `ai-productivity-gains-distribution` addresses aggregate distributional dynamics; `jagged-frontier` addresses the *type* of tasks affected. Compatible rather than contradictory at different levels of analysis.
+No new contradictions detected after reads of 13 under-examined pages: illness-narrative-and-coping, romanticization-of-illness, inversion, focus-vs-orientation, general-purpose-technology, pseudo-productivity, tiny-experiments, sound-money, tb-eradication-requirements, intellectual-property-and-health-equity, disposition-building-practices, munger-disposition-formation, adaptive-vs-technical-challenges. The illness-narrative/Sontag cluster (illness-narrative-and-coping, romanticization-of-illness, contemporary-romanticized-illnesses) is internally consistent — the tension between Sontag's anti-metaphor prescription and patients' individual coping needs is explicitly addressed and resolved within illness-narrative-and-coping via the public-health/personal-coping distinction. The TB eradication cluster (tb-eradication-requirements, intellectual-property-and-health-equity) is consistent with each other and with the existing logged contradiction (pandemic-lessons-from-tb vs. health-equity-without-redistribution). The Munger/latticework cluster (disposition-building-practices, munger-disposition-formation) is internally consistent — both pages share the "pre-30 substrate, post-30 cultivation" framing and both qualify practices as supplementary to environment. Total open contradictions: **8** (unchanged).
 
 **0 new near-duplicate cases (Stage 2):**
 
@@ -127,4 +125,4 @@ Cases 1, 2 (15 confirmed), and 3 carry forward unchanged. All pending owner appr
 
 **1 count correction (Stage 3):**
 
-`mental-models-and-multidisciplinary-thinking` corrects from 11 to **12** — previously-missed inbound link from `wiki/concepts/mental-models.md` (concept page links back to the topic page via `related:` frontmatter and body text). Moves from the 5-tied tier (with `charlie-munger` and `slow-productivity` at 11) to sole rank 5. All other counts stable.
+`tuberculosis-and-global-health` corrects from 9 to **10** — previously-missed inbound link from `wiki/concepts/health-equity-without-redistribution.md` (its `related:` frontmatter lists `[[tuberculosis-and-global-health]]`; this page was created in the 2026-06-07 weekly pass, and the link was missed in the 2026-06-08, 2026-06-09, and 2026-06-10 passes). Moves from rank 12 (9-inbound tier) to rank 8 (10-inbound tier), joining `growth-mindset`, `jagged-frontier`, and `latticework-pedagogy`. The 9-inbound tier (experimental-mindset, large-language-models, living-and-working-with-ai) slides from rank 11 to rank 12. All other counts stable.

@@ -4,6 +4,23 @@ title: "Session Log"
 
 # Session Log
 
+## 2026-06-11 — Nightly Dream Cycle
+- Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md; 13 under-examined wiki pages: illness-narrative-and-coping, romanticization-of-illness, inversion, focus-vs-orientation, general-purpose-technology, pseudo-productivity, tiny-experiments, sound-money, tb-eradication-requirements, intellectual-property-and-health-equity, disposition-building-practices, munger-disposition-formation, adaptive-vs-technical-challenges; ripgrep inbound-link re-verification for all top-tier and mid-tier pages
+- Files updated: system/contradictions.md (frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (frontmatter date), system/log.md (this entry)
+- Stage 1 — Contradictions: **0 new contradictions detected.** All 8 prior open contradictions confirmed:
+  - OPEN: `cognitive-atrophy-and-ai` vs. `slow-productivity-and-ai-craft` — expertise exemption from atrophy risk
+  - OPEN: `ai-in-education` vs. `ai-tutoring-and-human-motivation` — whether AI relational emulation works long-term
+  - OPEN: `stoic-virtues` vs. `wisdom-traditions-practice-vs-doctrine` — virtue as perpetual action vs. disposition-builder
+  - OPEN: `vibecession`/`economic-literacy` vs. `bubble-finance`/`crony-capitalism-and-monetary-deformation` — hard indicators as reliable baselines vs. distorted signals
+  - OPEN: `growth-mindset` vs. `mathematics-education` — inconsistent epistemic confidence in growth-mindset framework
+  - OPEN: `superforecasting` vs. `munger-vs-behavioral-economics` — Tetlock validates vs. contrasts Munger
+  - OPEN: `vibecession` vs. `scanlon-optimism-limits` — sentiment gap as behavioral distortion vs. rational distributional signal
+  - OPEN: `pandemic-lessons-from-tb` vs. `health-equity-without-redistribution` — TB outcomes show insufficient progress vs. substantial disease-specific progress
+  Thirteen under-examined pages verified clean: illness-narrative/Sontag cluster (illness-narrative-and-coping, romanticization-of-illness) is internally consistent — the tension between Sontag's anti-metaphor prescription and individual coping needs is explicitly resolved via the public-health/personal-coping distinction. TB eradication cluster (tb-eradication-requirements, intellectual-property-and-health-equity) is consistent with each other and with the existing logged contradiction. Munger/latticework cluster (disposition-building-practices, munger-disposition-formation) is internally consistent.
+- Stage 2 — Near-duplicates: **0 new cases detected.** Cases 1, 2 (15 confirmed instances), and 3 carry forward unchanged. All pending owner approval.
+- Stage 3 — Salience digest regenerated: Ripgrep re-verification reveals **one count correction** from prior runs: `tuberculosis-and-global-health` corrects from 9 to **10** (previously-missed inbound link from `wiki/concepts/health-equity-without-redistribution.md`, created 2026-06-07 — the link in `related:` frontmatter was missed in the 2026-06-08, 2026-06-09, and 2026-06-10 passes). Moves from 9-inbound tier (rank 12) to 10-inbound tier (rank 8), joining `growth-mindset`, `jagged-frontier`, and `latticework-pedagogy`. Rank-8 tier now has 4 members (was 3); 9-inbound tier (experimental-mindset, large-language-models, living-and-working-with-ai) slides from rank 11 to rank 12. All other counts stable.
+- Summary: Tenth nightly dream cycle. Vault stable at 90 pages. Zero new contradictions after scanning 13 under-examined pages across illness/narrative, productivity, TB/health, and Munger/latticework clusters. One count correction: `tuberculosis-and-global-health` joins the 10-inbound tier at rank 8 (previously-missed link from health-equity-without-redistribution). Two Munger PDFs remain the highest-priority uningested items.
+
 ## 2026-06-10 — Nightly Dream Cycle
 - Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md; targeted reads for Stage 1 and Stage 2 analysis: ai-productivity-gains-distribution, health-equity-without-redistribution, economic-literacy-at-scale, adaptive-challenge-diagnosis, experimental-mindset-and-privilege, financial-stability-while-experimenting, munger-vs-behavioral-economics, tb-eradication-requirements, pandemic-lessons-from-tb; ripgrep inbound-link re-verification for all top-tier pages
 - Files updated: system/contradictions.md (1 new row + frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (1 new row + frontmatter date), system/log.md (this entry)
