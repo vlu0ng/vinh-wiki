@@ -1,6 +1,6 @@
 ---
 title: "Salience Digest"
-date: 2026-06-12
+date: 2026-06-13
 tags: [system, digest]
 ---
 
@@ -17,7 +17,7 @@ Each page is scored on cheap structural signals:
 
 ## Last run
 
-**2026-06-12** — Full dream-cycle pass (nightly). 90 wiki pages analyzed (56 concepts, 15 topics, 19 people). Vault unchanged since 2026-06-07 (no new pages, no new content added since weekly pass). Inbound-link counts re-verified via exact-string grep (`[[slug]]` and `[[slug|` patterns, unique-file, excluding self-references) across all wiki/ files. **Stage 1:** 0 new contradictions; 8 total open contradictions confirmed. Reads covered 14 under-examined pages: glucose-curves, contemporary-romanticized-illnesses, ethics-of-private-beauty, stockman-2008-critique, negotiating-slow-productivity, mapping-the-jagged-frontier, adolescent-development-in-the-digital-age, developmental-strands, latticework-failure-modes, latticework-feedback-loops-outside-investing, stoicism-and-systemic-injustice, stoic-truth-telling-and-tact, compulsive-collecting, bubble-finance — all internally consistent. Notable: `mapping-the-jagged-frontier` explicitly states "Senior practitioners can map aggressively and delegate broadly — the underlying judgment is already built and can catch AI errors," aligning with `cognitive-atrophy-and-ai`'s expert-exemption position (reinforcing, not resolving, the existing open contradiction with `slow-productivity-and-ai-craft`). **Stage 2:** No new near-duplicate cases; Cases 1, 2 (15 confirmed instances), and 3 carry forward unchanged. **Stage 3:** One count correction: `mental-models` corrects from **20 to 18** (prior runs overcounted by using `[[mental-models` prefix grep, which also matched pages linking to `[[mental-models-and-multidisciplinary-thinking]]`; exact-string grep on `[[mental-models]]` yields 18 unique inbound files). This moves `mental-models` from tied #1 (with `disposition-vs-knowledge`) to sole #2. `disposition-vs-knowledge` becomes sole #1 (20 inbound, confirmed). All other counts stable.
+**2026-06-13** — Full dream-cycle pass (nightly). 90 wiki pages analyzed (56 concepts, 15 topics, 19 people). Vault unchanged since 2026-06-07 (no new pages, no new content added since weekly pass). **Stage 1:** 0 new contradictions; 8 total open contradictions confirmed. 13 pages read across four clusters: AI-education (ai-tutoring, ai-tutoring-and-human-motivation, large-language-models), health (health-equity), economics (scanlon-optimism-limits, economic-literacy-at-scale), experimental-mindset (ai-productivity-gains-distribution, financial-stability-while-experimenting, experimental-mindset-and-privilege), and people/topics (charlie-munger, ethan-mollick, slow-productivity, experimental-mindset). All internally consistent. Notable structural observation: `financial-stability-while-experimenting` cites Newport's "remarkable career" research as supporting the anchor-job-plus-experiments model; Newport's `slow-productivity` "Do Fewer Things" principle implies single-pointed focus — an implied philosophical divergence between Newport and Le Cunff's frameworks, but not explicit contradictory claims between pages; not logged as contradiction. **Stage 2:** 0 new near-duplicate cases; Cases 1, 2 (15 confirmed instances), and 3 carry forward unchanged. **Stage 3:** All inbound-link counts confirmed stable via exact-string grep (unique-file, excluding self-references) across all wiki/ files. No count corrections. Rankings unchanged from 2026-06-12.
 
 ---
 
@@ -26,7 +26,7 @@ _Pages with many inbound edges but a thin body — highest enrichment leverage._
 
 | Page | Est. inbound links | Est. body (words) | Why it matters |
 |---|---|---|---|
-| `mental-models` | **18** | ~350 | **#1 enrichment priority in the vault** (by enrichment-leverage: high centrality, thin body). 18 inbound links (corrected from over-reported 20). Referenced by every major cluster (Munger, Stoicism, AI, education, forecasting). Body remains a thin properties list + model table. Lacks: latticework construction process, known failure modes (see `latticework-failure-modes`), behavioral-economics convergence (see `munger-vs-behavioral-economics`), cross-domain worked examples. Two uningested Munger PDFs in `raw/articles/` are the primary source for filling this gap. |
+| `mental-models` | **18** | ~350 | **#1 enrichment priority in the vault** (by enrichment-leverage: high centrality, thin body). 18 inbound links (confirmed). Referenced by every major cluster (Munger, Stoicism, AI, education, forecasting). Body remains a thin properties list + model table. Lacks: latticework construction process, known failure modes (see `latticework-failure-modes`), behavioral-economics convergence (see `munger-vs-behavioral-economics`), cross-domain worked examples. Two uningested Munger PDFs in `raw/articles/` are the primary source for filling this gap. |
 | `health-equity` | 16 | ~400 | **3rd-most-linked page in the vault.** Body remains thin relative to centrality. One inline open-question answer (health-equity-without-redistribution) now duplicates the concept page; the parent page body itself could still be enriched with social-determinants framework depth and global health financing. |
 | `jagged-frontier` | **10** | ~300 | Anchor concept for the AI cluster; referenced by `ai-tutoring`, `cognitive-atrophy-and-ai`, `living-and-working-with-ai`, `mapping-the-jagged-frontier`, `ai-tutoring-and-human-motivation`, `ai-in-education`, `large-language-models`, `ai-productivity-gains-distribution`, `general-purpose-technology`, `ethan-mollick`. Body is a compact definition; lacks worked domain examples, BCG study details, frontier-movement dynamics, and open questions. |
 | `large-language-models` | 9 | ~250 | Foundational anchor for the AI cluster; body is a brief properties list; lacks transformer history, capability trajectory, failure mode catalog, societal framing. |
@@ -38,7 +38,7 @@ _Pages with many inbound edges but a thin body — highest enrichment leverage._
 ## Stale high-value
 _Central pages not touched in a while — candidates to revisit._
 
-All pages share a creation band of 2026-05-18 to 2026-06-07 (5–25 days old). Staleness does not yet differentiate meaningfully within this vault; pages are recent. Re-run this section after the next enrichment pass.
+All pages share a creation band of 2026-05-18 to 2026-06-07 (6–26 days old). Staleness does not yet differentiate meaningfully within this vault; pages are recent. Re-run this section after the next enrichment pass.
 
 **Exception — uningested raw articles (aging gap):** Two PDF files in `raw/articles/` remain uningested:
 - `raw/articles/charlie munger - mental models Part 1.pdf`
@@ -87,12 +87,12 @@ When open questions were answered and extracted into dedicated concept pages, th
 ## Surfacing for the dashboard
 _Top 10+ pages by salience score (inbound edges × body depth bonus; feeds `wiki-dashboard.html` node sizing)._
 
-Inbound-link counts re-verified via exact-string grep (unique files, excluding self-references). Vault stable at 90 pages. **One count correction this run: `mental-models` corrects from 20 to 18** (prior overcounting via prefix-match grep; exact `[[mental-models]]` search yields 18). `disposition-vs-knowledge` is now sole #1 (20). `mental-models` moves to sole #2 (18).
+Inbound-link counts re-verified via exact-string grep (unique files, excluding self-references). Vault stable at 90 pages. All counts confirmed unchanged from 2026-06-12.
 
 | Rank | Page | Inbound (confirmed) | Body depth | Salience notes |
 |---|---|---|---|---|
-| **1** | `disposition-vs-knowledge` | **20** | ~900 words | **Sole #1** (corrected — `mental-models` drops to 18). Crown jewel: richest body among top-10; bridges Munger, Stoicism, AI, and education clusters. Well-developed; no enrichment needed. |
-| **2** | `mental-models` | **18** | ~350 words | **Sole #2** (corrected from 20 — prior prefix-grep overcounting). Still the **#1 enrichment target in the vault** by thin-body/high-centrality metric. |
+| **1** | `disposition-vs-knowledge` | **20** | ~900 words | Crown jewel: richest body among top-10; bridges Munger, Stoicism, AI, and education clusters. Well-developed; no enrichment needed. |
+| **2** | `mental-models` | **18** | ~350 words | **#1 enrichment target in the vault** by thin-body/high-centrality metric. Two Munger PDFs in raw/ are the primary source. |
 | 3 | `health-equity` | 16 | ~400 words | Body thin relative to centrality; primary enrichment target in the health/justice cluster. Open contradiction with `pandemic-lessons-from-tb` remains. |
 | 4 | `cognitive-atrophy-and-ai` | 13 | ~800 words | Dense, well-developed; bridges AI cluster with productivity and education. |
 | **5** | `mental-models-and-multidisciplinary-thinking` | **12** | ~1500 words (topic) | Well-developed topic page. |
@@ -117,14 +117,14 @@ _Note: New concept pages from the 2026-06-07 weekly pass (health-equity-without-
 
 **0 new contradictions (Stage 1):**
 
-No new contradictions detected after reads of 14 under-examined pages across four clusters: glucose/metabolic health (glucose-curves); illness narrative (contemporary-romanticized-illnesses); art/aesthetics (ethics-of-private-beauty, compulsive-collecting); economics (stockman-2008-critique, bubble-finance); productivity (negotiating-slow-productivity); AI/work (mapping-the-jagged-frontier); adolescent development (adolescent-development-in-the-digital-age, developmental-strands); Munger/latticework (latticework-failure-modes, latticework-feedback-loops-outside-investing); Stoicism (stoicism-and-systemic-injustice, stoic-truth-telling-and-tact). All internally consistent.
+No new contradictions detected after reads of 13 pages across four clusters: AI-education (ai-tutoring, ai-tutoring-and-human-motivation, large-language-models); health (health-equity); economics (scanlon-optimism-limits, economic-literacy-at-scale, ai-productivity-gains-distribution); experimental-mindset (financial-stability-while-experimenting, experimental-mindset-and-privilege); people and topics (charlie-munger, ethan-mollick, slow-productivity, experimental-mindset). All internally consistent.
 
-Notable structural observation: `mapping-the-jagged-frontier` states "Senior practitioners can map aggressively and delegate broadly — the underlying judgment is already built and can catch AI errors." This is a third page (after `cognitive-atrophy-and-ai` and `mapping-the-jagged-frontier`) explicitly aligning with the expert-exemption position against `slow-productivity-and-ai-craft`'s "even experts need ongoing productive struggle" claim. The existing open contradiction (logged 2026-06-02) holds; this is a reinforcing observation, not a new contradiction. Total open contradictions: **8** (unchanged).
+Notable structural observation: `financial-stability-while-experimenting` cites Newport's "remarkable career" research to support running experiments alongside an anchor job. Newport's `slow-productivity` philosophy ("Do Fewer Things") implies single-pointed focus and depth over portfolio experimentation — an implied philosophical divergence between the Newport career-capital model and Le Cunff's exploration-first model. However, both frameworks agree on the specific practical claim the page makes (keep anchor job while experimenting), and neither page explicitly contradicts the other's claims. Not logged as contradiction; worth noting as a nuance gap if a future page explicitly compares Newport and Le Cunff's career frameworks.
 
 **0 new near-duplicate cases (Stage 2):**
 
 Cases 1, 2 (15 confirmed), and 3 carry forward unchanged. All pending owner approval.
 
-**1 count correction (Stage 3):**
+**0 count corrections (Stage 3):**
 
-`mental-models` corrects from **20 to 18** — prior runs used a `[[mental-models` prefix grep that incorrectly matched pages containing `[[mental-models-and-multidisciplinary-thinking]]` links (specifically `munger-disposition-formation.md` and `ryan-holiday.md`; confirmed to link only to the topic page, not the concept page). Exact-string grep on `[[mental-models]]` and `[[mental-models|` yields 18 unique inbound files. The 2026-06-09 "correction" from 18 to 20 was itself an overcounting artifact. `mental-models` moves from tied #1 to sole #2; `disposition-vs-knowledge` is now sole #1 (20 inbound, confirmed). All other counts stable.
+All inbound-link counts confirmed stable via exact-string grep. Rankings unchanged from 2026-06-12. Total open contradictions: **8** (unchanged).
