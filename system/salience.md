@@ -1,6 +1,6 @@
 ---
 title: "Salience Digest"
-date: 2026-06-13
+date: 2026-06-14
 tags: [system, digest]
 ---
 
@@ -17,7 +17,7 @@ Each page is scored on cheap structural signals:
 
 ## Last run
 
-**2026-06-13** — Full dream-cycle pass (nightly). 90 wiki pages analyzed (56 concepts, 15 topics, 19 people). Vault unchanged since 2026-06-07 (no new pages, no new content added since weekly pass). **Stage 1:** 0 new contradictions; 8 total open contradictions confirmed. 13 pages read across four clusters: AI-education (ai-tutoring, ai-tutoring-and-human-motivation, large-language-models), health (health-equity), economics (scanlon-optimism-limits, economic-literacy-at-scale), experimental-mindset (ai-productivity-gains-distribution, financial-stability-while-experimenting, experimental-mindset-and-privilege), and people/topics (charlie-munger, ethan-mollick, slow-productivity, experimental-mindset). All internally consistent. Notable structural observation: `financial-stability-while-experimenting` cites Newport's "remarkable career" research as supporting the anchor-job-plus-experiments model; Newport's `slow-productivity` "Do Fewer Things" principle implies single-pointed focus — an implied philosophical divergence between Newport and Le Cunff's frameworks, but not explicit contradictory claims between pages; not logged as contradiction. **Stage 2:** 0 new near-duplicate cases; Cases 1, 2 (15 confirmed instances), and 3 carry forward unchanged. **Stage 3:** All inbound-link counts confirmed stable via exact-string grep (unique-file, excluding self-references) across all wiki/ files. No count corrections. Rankings unchanged from 2026-06-12.
+**2026-06-14** — Full dream-cycle pass (nightly). 90 wiki pages analyzed (56 concepts, 15 topics, 19 people). Vault unchanged since 2026-06-07 (no new pages, no new content added since weekly pass). **Stage 1:** 0 new contradictions; 8 total open contradictions confirmed. 16 pages read across four clusters: philosophy/Stoicism (stoic-virtues, wisdom-traditions-practice-vs-doctrine, disposition-vs-knowledge, stoic-justice), productivity/mindset (growth-mindset, the-one-thing, mental-models, jagged-frontier, cognitive-atrophy-and-ai, superforecasting), people (cal-newport, carol-dweck), and topics (art-theft-and-obsession, teenage-girl-development, crony-capitalism, crony-capitalism-and-monetary-deformation). All internally consistent. Confirmed: stoic-virtues ("not a feeling or disposition but a practice") vs. wisdom-traditions-practice-vs-doctrine ("dispositional development") contradiction still open; superforecasting ("fox/hedgehog distinction is an empirical validation of Munger's latticework intuition") vs. munger-vs-behavioral-economics framing still open. No new tension found. **Stage 2:** 0 new near-duplicate cases; Cases 1, 2 (15 confirmed instances), and 3 carry forward unchanged. **Stage 3:** All inbound-link counts confirmed stable via anchored-exclusion ripgrep. One methodology note: `jagged-frontier` confirmed at 10 inbound (prior naïve grep giving 9 was a false low — the exclusion pattern `jagged-frontier.md` was incorrectly suppressing `mapping-the-jagged-frontier.md`; anchored exclusion `/jagged-frontier.md$` gives the correct and consistent 10). Rankings unchanged from 2026-06-13.
 
 ---
 
@@ -28,7 +28,7 @@ _Pages with many inbound edges but a thin body — highest enrichment leverage._
 |---|---|---|---|
 | `mental-models` | **18** | ~350 | **#1 enrichment priority in the vault** (by enrichment-leverage: high centrality, thin body). 18 inbound links (confirmed). Referenced by every major cluster (Munger, Stoicism, AI, education, forecasting). Body remains a thin properties list + model table. Lacks: latticework construction process, known failure modes (see `latticework-failure-modes`), behavioral-economics convergence (see `munger-vs-behavioral-economics`), cross-domain worked examples. Two uningested Munger PDFs in `raw/articles/` are the primary source for filling this gap. |
 | `health-equity` | 16 | ~400 | **3rd-most-linked page in the vault.** Body remains thin relative to centrality. One inline open-question answer (health-equity-without-redistribution) now duplicates the concept page; the parent page body itself could still be enriched with social-determinants framework depth and global health financing. |
-| `jagged-frontier` | **10** | ~300 | Anchor concept for the AI cluster; referenced by `ai-tutoring`, `cognitive-atrophy-and-ai`, `living-and-working-with-ai`, `mapping-the-jagged-frontier`, `ai-tutoring-and-human-motivation`, `ai-in-education`, `large-language-models`, `ai-productivity-gains-distribution`, `general-purpose-technology`, `ethan-mollick`. Body is a compact definition; lacks worked domain examples, BCG study details, frontier-movement dynamics, and open questions. |
+| `jagged-frontier` | **10** | ~300 | Anchor concept for the AI cluster; referenced by `ai-tutoring`, `cognitive-atrophy-and-ai`, `living-and-working-with-ai`, `mapping-the-jagged-frontier`, `ai-tutoring-and-human-motivation`, `ai-in-education`, `large-language-models`, `ai-productivity-gains-distribution`, `general-purpose-technology`, `ethan-mollick`. Body is a compact definition; lacks worked domain examples, BCG study details, frontier-movement dynamics, and open questions. Count confirmed at 10 (anchored exclusion). |
 | `large-language-models` | 9 | ~250 | Foundational anchor for the AI cluster; body is a brief properties list; lacks transformer history, capability trajectory, failure mode catalog, societal framing. |
 | `charlie-munger` | **11** | ~350 | Central person page for the Munger/latticework cluster. Body is a short biography + key contributions list — well below what centrality warrants. Would benefit from Munger's key talks, disposition formation timeline, and cross-links to `latticework-failure-modes`, `munger-disposition-formation`, `latticework-feedback-loops-outside-investing`, `munger-vs-behavioral-economics`. |
 | `focusing-question` | 4 | ~250 | Referenced by `the-one-thing`, `focus-vs-orientation`, `experiment-theater`, and `experimental-mindset`. Covers the mechanics well but has no open questions, no failure modes, and no worked cross-domain examples. |
@@ -38,7 +38,7 @@ _Pages with many inbound edges but a thin body — highest enrichment leverage._
 ## Stale high-value
 _Central pages not touched in a while — candidates to revisit._
 
-All pages share a creation band of 2026-05-18 to 2026-06-07 (6–26 days old). Staleness does not yet differentiate meaningfully within this vault; pages are recent. Re-run this section after the next enrichment pass.
+All pages share a creation band of 2026-05-18 to 2026-06-07 (7–27 days old). Staleness does not yet differentiate meaningfully within this vault; pages are recent. Re-run this section after the next enrichment pass.
 
 **Exception — uningested raw articles (aging gap):** Two PDF files in `raw/articles/` remain uningested:
 - `raw/articles/charlie munger - mental models Part 1.pdf`
@@ -87,7 +87,7 @@ When open questions were answered and extracted into dedicated concept pages, th
 ## Surfacing for the dashboard
 _Top 10+ pages by salience score (inbound edges × body depth bonus; feeds `wiki-dashboard.html` node sizing)._
 
-Inbound-link counts re-verified via exact-string grep (unique files, excluding self-references). Vault stable at 90 pages. All counts confirmed unchanged from 2026-06-12.
+Inbound-link counts re-verified via anchored-exclusion ripgrep (unique files, excluding self-references). Vault stable at 90 pages. All counts confirmed unchanged from 2026-06-13.
 
 | Rank | Page | Inbound (confirmed) | Body depth | Salience notes |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ Inbound-link counts re-verified via exact-string grep (unique files, excluding s
 | 6 (tied) | `charlie-munger` | 11 | ~350 words | Central person page; body unexpectedly thin for centrality — enrichment candidate. |
 | 6 (tied) | `slow-productivity` | 11 | ~800+ words (topic) | Central productivity hub; topic page substantive. |
 | 8 (tied) | `growth-mindset` | 10 | ~400 words | Bridges education, AI, and experimental-mindset clusters; contradiction with `mathematics-education` remains open. |
-| 8 (tied) | `jagged-frontier` | **10** | ~300 words | Very thin body vs. centrality — **#2 AI-cluster enrichment priority**. |
+| 8 (tied) | `jagged-frontier` | **10** | ~300 words | Very thin body vs. centrality — **#2 AI-cluster enrichment priority**. Count confirmed 10 via anchored exclusion. |
 | 8 (tied) | `latticework-pedagogy` | 10 | ~1000 words | Well-developed; bridges Munger cluster with behavioral science. |
 | 8 (tied) | `tuberculosis-and-global-health` | **10** | ~1100 words (topic) | Well-developed topic page. Central node in the health/justice cluster; bridges romanticization-of-illness, health-equity, pandemic-lessons-from-tb, and IP/health-equity pages. |
 | 12 (tied) | `experimental-mindset` | 9 | ~1200 words (topic) | High centrality, well-developed. Open questions now all answered. |
@@ -117,9 +117,9 @@ _Note: New concept pages from the 2026-06-07 weekly pass (health-equity-without-
 
 **0 new contradictions (Stage 1):**
 
-No new contradictions detected after reads of 13 pages across four clusters: AI-education (ai-tutoring, ai-tutoring-and-human-motivation, large-language-models); health (health-equity); economics (scanlon-optimism-limits, economic-literacy-at-scale, ai-productivity-gains-distribution); experimental-mindset (financial-stability-while-experimenting, experimental-mindset-and-privilege); people and topics (charlie-munger, ethan-mollick, slow-productivity, experimental-mindset). All internally consistent.
+No new contradictions detected after reads of 16 pages across four clusters: philosophy/Stoicism (stoic-virtues, wisdom-traditions-practice-vs-doctrine, disposition-vs-knowledge, stoic-justice); productivity/mindset (growth-mindset, the-one-thing, mental-models, jagged-frontier, cognitive-atrophy-and-ai, superforecasting); people (cal-newport, carol-dweck); topics (art-theft-and-obsession, teenage-girl-development, crony-capitalism, crony-capitalism-and-monetary-deformation). All internally consistent.
 
-Notable structural observation: `financial-stability-while-experimenting` cites Newport's "remarkable career" research to support running experiments alongside an anchor job. Newport's `slow-productivity` philosophy ("Do Fewer Things") implies single-pointed focus and depth over portfolio experimentation — an implied philosophical divergence between the Newport career-capital model and Le Cunff's exploration-first model. However, both frameworks agree on the specific practical claim the page makes (keep anchor job while experimenting), and neither page explicitly contradicts the other's claims. Not logged as contradiction; worth noting as a nuance gap if a future page explicitly compares Newport and Le Cunff's career frameworks.
+Notable confirmations: stoic-virtues ("Virtue, in the Stoic sense, is not a feeling or disposition but a *practice*") and wisdom-traditions-practice-vs-doctrine ("The Stoic morning exercises…[are] vehicles for the same underlying dispositional development") confirm the existing open contradiction #3 is still live. superforecasting ("The fox/hedgehog distinction is effectively an empirical validation of Munger's latticework intuition") confirms the existing open contradiction with munger-vs-behavioral-economics is still live.
 
 **0 new near-duplicate cases (Stage 2):**
 
@@ -127,4 +127,4 @@ Cases 1, 2 (15 confirmed), and 3 carry forward unchanged. All pending owner appr
 
 **0 count corrections (Stage 3):**
 
-All inbound-link counts confirmed stable via exact-string grep. Rankings unchanged from 2026-06-12. Total open contradictions: **8** (unchanged).
+All inbound-link counts confirmed stable via anchored-exclusion ripgrep. Rankings unchanged from 2026-06-13. Total open contradictions: **8** (unchanged). Methodology note: naïve `grep -v 'jagged-frontier.md'` can suppress `mapping-the-jagged-frontier.md` (partial match). Anchored exclusion `/jagged-frontier.md$` gives the correct count of 10, consistent with all prior confirmed passes.
