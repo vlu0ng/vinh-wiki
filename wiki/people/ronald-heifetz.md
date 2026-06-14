@@ -2,7 +2,16 @@
 title: "Ronald Heifetz"
 date: 2026-05-19
 tags: [leadership, organizational-change, harvard, adaptive-leadership]
-related: [[adaptive-leadership]], [[adaptive-vs-technical-challenges]], [[adaptive-leadership-and-psychological-safety]]
+related: [[adaptive-leadership]], [[adaptive-vs-technical-challenges]], [[adaptive-leadership-and-psychological-safety]], [[adaptive-challenge-diagnosis]]
+connections:
+  - type: authored
+    target: adaptive-leadership
+  - type: influenced
+    target: adaptive-vs-technical-challenges
+  - type: influenced
+    target: adaptive-leadership-and-psychological-safety
+  - type: influenced
+    target: adaptive-challenge-diagnosis
 ---
 
 # Ronald Heifetz

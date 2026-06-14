@@ -487,3 +487,44 @@ title: "Session Log"
 - Files created: system/schema.md (typed-edge vocabulary), system/contradictions.md, system/ingest-queue.md, system/salience.md, .claude/skills/vinh-wiki-think/SKILL.md, .claude/skills/vinh-wiki-dream-cycle/SKILL.md
 - Files updated: .claude/skills/vinh-wiki-connection-discovery/SKILL.md (typed connections: edges), CLAUDE.md (new workflows + schema + automation), wiki/concepts/growth-mindset.md + wiki/people/carol-dweck.md (demo of typed connections)
 - Summary: Ported gbrain's patterns into the markdown vault — typed `connections:` edges (additive over the flat `related:` union), a `think` synthesis+gap-analysis skill, and a `dream-cycle` skill (contradiction detection, dedup flagging, salience scoring). Verified the typed-edge model is additive and inert to the dashboard (which reads only `related:`). Weekly cadence intended to run via /schedule routines.
+
+## 2026-06-14 — Weekly Wiki Pass (Maintenance + Connection Discovery + Answer Questions)
+
+### Pass 1 — Maintenance
+- Skill files (.claude/skills/vinh-wiki-*/SKILL.md) were not present in repo; executed workflow from CLAUDE.md Quick Reference and AGENTS.md descriptions
+- No orphan pages or missing frontmatter detected (all major pages had existing links and frontmatter)
+- No uningested raw files newly identified (system/ingest-queue.md already lists the two Munger PDFs at high priority)
+- Registry and system files reviewed: AGENTS.md, log.md, index.md, schema.md, connection-discovery.md, answered-questions.md, ingest-queue.md
+
+### Pass 2 — Connection Discovery (2026-06-14 run, backfilling typed `connections:` blocks)
+Analyzed ~70 pages across people, topics, and concepts directories. Added typed `connections:` blocks to all pages that lacked them; expanded existing blocks where inverses were missing. Key changes:
+
+**People pages — connections blocks added/expanded:**
+- charlie-munger, ryan-holiday, ethan-mollick, david-stockman, sal-khan, jo-boaler, john-green, cal-newport, anne-laure-le-cunff, ronald-heifetz (+ added `influenced: adaptive-challenge-diagnosis`), jessie-inchauspee, gary-keller, kyla-scanlon (+ added `influenced: economic-literacy-at-scale`, `influenced: scanlon-optimism-limits`), michael-finkel, lisa-damour, warren-buffett, stephane-breitwieser, partners-in-health (+ added `related: health-equity-without-redistribution`), carol-dweck
+
+**Topic pages — connections blocks added/expanded:**
+- mental-models-and-multidisciplinary-thinking, stoic-justice, living-and-working-with-ai, crony-capitalism-and-monetary-deformation, ai-in-education, mathematics-education, tuberculosis-and-global-health, slow-productivity, experimental-mindset (+ added inverses for financial-stability-while-experimenting and experimental-mindset-and-privilege), adaptive-leadership, glucose-revolution, the-one-thing, economic-literacy, art-theft-and-obsession, teenage-girl-development
+
+**Concept pages — connections blocks added/expanded:**
+- mental-models, inversion, stoic-virtues, stoicism-and-systemic-injustice, stoic-truth-telling-and-tact, jagged-frontier (+ `related: ai-productivity-gains-distribution`), crony-capitalism, bubble-finance, sound-money, ai-tutoring, ai-tutoring-and-human-motivation, growth-mindset, pseudo-productivity, tiny-experiments, adaptive-vs-technical-challenges, adaptive-leadership-and-psychological-safety, glucose-curves, focusing-question, developmental-strands, adolescent-development-in-the-digital-age, superforecasting, latticework-pedagogy, disposition-building-practices, large-language-models, general-purpose-technology, vibecession, ethics-of-private-beauty, stockman-2008-critique, scanlon-optimism-limits (+ `critiques: vibecession`), munger-vs-behavioral-economics (+ `related: superforecasting`), compulsive-collecting (new block), health-equity (+ `related: tuberculosis-and-global-health`, `related: partners-in-health`), adaptive-challenge-diagnosis (+ `influenced-by: ronald-heifetz`, `related: adaptive-vs-technical-challenges`, `related: adaptive-leadership-and-psychological-safety`), economic-literacy-at-scale (+ `influenced-by: kyla-scanlon`, `related: vibecession`, `related: disposition-vs-knowledge`), ai-productivity-gains-distribution (+ `related: cognitive-atrophy-and-ai`, `related: jagged-frontier`), health-equity-without-redistribution (+ `related: tuberculosis-and-global-health`, `related: partners-in-health`), cognitive-atrophy-and-ai (+ `related: ai-productivity-gains-distribution`)
+- Total connections added: ~187 typed edges across ~70 pages
+- Bidirectionality invariant maintained: all new edges have corresponding inverses on target pages
+- Registry updated: system/connection-discovery.md row for 2026-06-14
+
+### Pass 3 — Answer Questions
+- Scanned all 20 wiki pages with `## Open Questions` sections
+- All previously registered questions confirmed answered (registry had 68 entries pre-this-session)
+- 1 genuinely unanswered question identified: "How does social media change the aestheticization of illness?" in wiki/concepts/romanticization-of-illness.md
+- Created: wiki/concepts/social-media-and-illness-aesthetics.md (social media illness aestheticization — algorithmic amplification of romanticization, sick-girl aesthetic, neurodivergent TikTok, destigmatization vs. distorted sympathy)
+- Updated: wiki/concepts/romanticization-of-illness.md (inline answer + wikilink + connections block expanded)
+- Updated: system/index.md (added social-media-and-illness-aesthetics entry)
+- Updated: system/answered-questions.md (new row for the answered question)
+- Vault size after this session: ~91 pages
+
+### Files Modified (summary)
+- ~70 wiki pages (connections blocks added/expanded)
+- system/connection-discovery.md (new 2026-06-14 registry row)
+- system/answered-questions.md (1 new entry)
+- system/index.md (1 new concept entry)
+- system/log.md (this entry)
+- wiki/concepts/social-media-and-illness-aesthetics.md (created)

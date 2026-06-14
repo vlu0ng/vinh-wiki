@@ -3,6 +3,13 @@ title: "Compulsive Collecting"
 date: 2026-05-18
 tags: [psychology, obsession, collecting, aesthetics]
 related: [[art-theft-and-obsession]], [[stephane-breitwieser]], [[ethics-of-private-beauty]], [[michael-finkel]]
+connections:
+  - type: related
+    target: art-theft-and-obsession
+  - type: has-example
+    target: stephane-breitwieser
+  - type: related
+    target: ethics-of-private-beauty
 ---
 
 # Compulsive Collecting

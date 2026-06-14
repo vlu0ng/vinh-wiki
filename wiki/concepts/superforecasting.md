@@ -2,7 +2,14 @@
 title: "Superforecasting"
 date: 2026-05-19
 tags: [thinking, forecasting, cognition, decision-making, calibration, mental-models]
-related: [[latticework-pedagogy]], [[disposition-vs-knowledge]], [[mental-models]], [[disposition-building-practices]], [[charlie-munger]]
+related: [[latticework-pedagogy]], [[disposition-vs-knowledge]], [[mental-models]], [[disposition-building-practices]], [[charlie-munger]], [[munger-vs-behavioral-economics]]
+connections:
+  - type: extends
+    target: latticework-pedagogy
+  - type: example-of
+    target: disposition-building-practices
+  - type: related
+    target: munger-vs-behavioral-economics
 ---
 
 # Superforecasting

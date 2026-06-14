@@ -66,6 +66,7 @@ This is the master entry point for the wiki. Keep it updated as major pages are 
 - [[experimental-mindset-and-privilege]] — the structural access critique of Le Cunff's experimental mindset; scarcity mindset, healthcare, and social capital as barriers
 - [[ai-productivity-gains-distribution]] — political economy of AI productivity gains; historical precedents suggest institutional intervention required for broad sharing
 - [[adaptive-challenge-diagnosis]] — diagnostic markers for distinguishing adaptive from technical challenges; why the skill is dispositional not just cognitive
+- [[social-media-and-illness-aesthetics]] — how platform algorithms amplify illness aestheticization; the doubleness of destigmatization and distorted sympathy distribution
 
 
 

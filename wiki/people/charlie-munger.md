@@ -2,7 +2,16 @@
 title: "Charlie Munger"
 date: 2026-05-18
 tags: [investing, thinking, berkshire-hathaway, mental-models]
-related: [[mental-models-and-multidisciplinary-thinking]], [[mental-models]], [[inversion]], [[warren-buffett]], [[latticework-pedagogy]], [[latticework-failure-modes]], [[munger-disposition-formation]], [[disposition-vs-knowledge]], [[superforecasting]]
+related: [[mental-models-and-multidisciplinary-thinking]], [[mental-models]], [[inversion]], [[warren-buffett]], [[latticework-pedagogy]], [[latticework-failure-modes]], [[munger-disposition-formation]], [[disposition-vs-knowledge]], [[superforecasting]], [[munger-vs-behavioral-economics]]
+connections:
+  - type: authored
+    target: mental-models-and-multidisciplinary-thinking
+  - type: influenced
+    target: mental-models
+  - type: influenced
+    target: inversion
+  - type: advises
+    target: warren-buffett
 ---
 
 # Charlie Munger

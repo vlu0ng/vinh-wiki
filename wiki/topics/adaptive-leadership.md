@@ -4,6 +4,10 @@ date: 2026-05-19
 tags: [leadership, organizational-change, heifetz, adaptive-challenges]
 related: [[ronald-heifetz]], [[adaptive-vs-technical-challenges]], [[experimental-mindset]], [[adaptive-leadership-and-psychological-safety]], [[adaptive-challenge-diagnosis]]
 connections:
+  - type: authored-by
+    target: ronald-heifetz
+  - type: extended-by
+    target: adaptive-leadership-and-psychological-safety
   - type: application-of
     target: adaptive-challenge-diagnosis
 ---

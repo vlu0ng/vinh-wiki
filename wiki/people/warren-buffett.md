@@ -3,6 +3,11 @@ title: "Warren Buffett"
 date: 2026-05-19
 tags: [investing, berkshire-hathaway, value-investing]
 related: [[charlie-munger]], [[mental-models-and-multidisciplinary-thinking]], [[mental-models]]
+connections:
+  - type: advised-by
+    target: charlie-munger
+  - type: related
+    target: mental-models
 ---
 
 # Warren Buffett

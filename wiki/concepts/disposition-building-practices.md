@@ -4,6 +4,8 @@ date: 2026-05-19
 tags: [thinking, education, wisdom, character, practice, feedback]
 related: [[disposition-vs-knowledge]], [[latticework-pedagogy]], [[mental-models]], [[superforecasting]], [[tiny-experiments]], [[latticework-feedback-loops-outside-investing]], [[munger-disposition-formation]]
 connections:
+  - type: has-example
+    target: superforecasting
   - type: applies-to
     target: latticework-feedback-loops-outside-investing
   - type: influenced-by

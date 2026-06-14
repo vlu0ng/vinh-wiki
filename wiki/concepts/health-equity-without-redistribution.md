@@ -6,6 +6,10 @@ related: [[health-equity]], [[tuberculosis-and-global-health]], [[partners-in-he
 connections:
   - type: applies-to
     target: health-equity
+  - type: related
+    target: tuberculosis-and-global-health
+  - type: related
+    target: partners-in-health
 ---
 
 # Health Equity Without Redistribution

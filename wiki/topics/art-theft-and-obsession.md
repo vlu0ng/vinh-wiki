@@ -3,6 +3,13 @@ title: "Art Theft and Obsession"
 date: 2026-05-18
 tags: [art, crime, obsession, psychology, collecting]
 related: [[stephane-breitwieser]], [[compulsive-collecting]], [[michael-finkel]], [[ethics-of-private-beauty]]
+connections:
+  - type: authored-by
+    target: michael-finkel
+  - type: related
+    target: compulsive-collecting
+  - type: application-of
+    target: ethics-of-private-beauty
 ---
 
 # Art Theft and Obsession

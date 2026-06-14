@@ -3,6 +3,15 @@ title: "Mathematics Education"
 date: 2026-05-18
 tags: [education, mathematics, growth-mindset, learning, pedagogy]
 related: [[growth-mindset]], [[jo-boaler]], [[carol-dweck]], [[procedural-fluency-vs-open-tasks]]
+connections:
+  - type: authored-by
+    target: jo-boaler
+  - type: influenced-by
+    target: carol-dweck
+  - type: application-of
+    target: growth-mindset
+  - type: application-of
+    target: procedural-fluency-vs-open-tasks
 ---
 
 # Mathematics Education

@@ -6,6 +6,10 @@ related: [[mathematics-education]], [[jo-boaler]], [[carol-dweck]], [[tiny-exper
 connections:
   - type: influenced-by
     target: carol-dweck
+  - type: applies-to
+    target: mathematics-education
+  - type: related
+    target: ai-tutoring-and-human-motivation
 ---
 
 # Growth Mindset

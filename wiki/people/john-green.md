@@ -3,6 +3,11 @@ title: "John Green"
 date: 2026-05-18
 tags: [author, public-health, storytelling]
 related: [[tuberculosis-and-global-health]], [[health-equity]], [[partners-in-health]]
+connections:
+  - type: authored
+    target: tuberculosis-and-global-health
+  - type: related
+    target: partners-in-health
 ---
 
 # John Green

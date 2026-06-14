@@ -3,6 +3,11 @@ title: "Glucose Curves"
 date: 2026-05-19
 tags: [health, nutrition, metabolic-health, glucose]
 related: [[glucose-revolution]], [[jessie-inchauspee]], [[health-equity]]
+connections:
+  - type: influenced-by
+    target: jessie-inchauspee
+  - type: applies-to
+    target: glucose-revolution
 ---
 
 # Glucose Curves

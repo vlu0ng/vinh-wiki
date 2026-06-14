@@ -2,7 +2,16 @@
 title: "David Stockman"
 date: 2026-05-18
 tags: [economics, politics, reagan, fiscal-policy]
-related: [[crony-capitalism-and-monetary-deformation]], [[crony-capitalism]], [[sound-money]]
+related: [[crony-capitalism-and-monetary-deformation]], [[crony-capitalism]], [[sound-money]], [[bubble-finance]]
+connections:
+  - type: authored
+    target: crony-capitalism-and-monetary-deformation
+  - type: influenced
+    target: crony-capitalism
+  - type: influenced
+    target: bubble-finance
+  - type: influenced
+    target: sound-money
 ---
 
 # David Stockman

@@ -3,6 +3,11 @@ title: "Latticework Pedagogy"
 date: 2026-05-18
 tags: [thinking, education, mental-models, cognition, transfer-learning]
 related: [[mental-models]], [[mental-models-and-multidisciplinary-thinking]], [[charlie-munger]], [[disposition-vs-knowledge]], [[superforecasting]], [[latticework-feedback-loops-outside-investing]]
+connections:
+  - type: related
+    target: charlie-munger
+  - type: extended-by
+    target: superforecasting
 ---
 
 # Latticework Pedagogy

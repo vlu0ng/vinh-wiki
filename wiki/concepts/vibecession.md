@@ -2,7 +2,14 @@
 title: "Vibecession"
 date: 2026-05-19
 tags: [economics, behavioral-economics, sentiment, kyla-scanlon]
-related: [[economic-literacy]], [[kyla-scanlon]], [[bubble-finance]], [[superforecasting]]
+related: [[economic-literacy]], [[kyla-scanlon]], [[bubble-finance]], [[superforecasting]], [[scanlon-optimism-limits]]
+connections:
+  - type: influenced-by
+    target: kyla-scanlon
+  - type: example-of
+    target: economic-literacy
+  - type: critiqued-by
+    target: scanlon-optimism-limits
 ---
 
 # Vibecession

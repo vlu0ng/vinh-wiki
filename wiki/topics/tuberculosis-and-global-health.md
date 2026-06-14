@@ -2,7 +2,18 @@
 title: "Tuberculosis and Global Health"
 date: 2026-05-18
 tags: [global-health, infectious-disease, health-equity, tuberculosis]
-related: [[health-equity]], [[john-green]], [[partners-in-health]], [[romanticization-of-illness]], [[pandemic-lessons-from-tb]], [[tb-eradication-requirements]]
+related: [[health-equity]], [[john-green]], [[partners-in-health]], [[romanticization-of-illness]], [[pandemic-lessons-from-tb]], [[tb-eradication-requirements]], [[health-equity-without-redistribution]]
+connections:
+  - type: authored-by
+    target: john-green
+  - type: related
+    target: health-equity
+  - type: has-example
+    target: pandemic-lessons-from-tb
+  - type: has-example
+    target: tb-eradication-requirements
+  - type: related
+    target: health-equity-without-redistribution
 ---
 
 # Tuberculosis and Global Health

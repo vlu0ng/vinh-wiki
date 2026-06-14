@@ -4,6 +4,8 @@ date: 2026-05-18
 tags: [productivity, learning, neuroscience, career, creativity]
 related: [[anne-laure-le-cunff]], [[tiny-experiments]], [[experiment-theater]], [[growth-mindset]], [[adaptive-leadership]], [[disposition-vs-knowledge]], [[financial-stability-while-experimenting]], [[experimental-mindset-and-privilege]]
 connections:
+  - type: authored-by
+    target: anne-laure-le-cunff
   - type: critiqued-by
     target: experiment-theater
   - type: application-of

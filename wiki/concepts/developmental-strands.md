@@ -2,7 +2,14 @@
 title: "Developmental Strands"
 date: 2026-05-18
 tags: [psychology, development, adolescence, framework]
-related: [[teenage-girl-development]], [[lisa-damour]]
+related: [[teenage-girl-development]], [[lisa-damour]], [[adolescent-development-in-the-digital-age]]
+connections:
+  - type: influenced-by
+    target: lisa-damour
+  - type: extended-by
+    target: teenage-girl-development
+  - type: extended-by
+    target: adolescent-development-in-the-digital-age
 ---
 
 # Developmental Strands

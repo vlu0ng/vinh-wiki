@@ -2,7 +2,16 @@
 title: "Bubble Finance"
 date: 2026-05-19
 tags: [economics, monetary-policy, finance, markets]
-related: [[crony-capitalism-and-monetary-deformation]], [[sound-money]], [[crony-capitalism]], [[kyla-scanlon]]
+related: [[crony-capitalism-and-monetary-deformation]], [[sound-money]], [[crony-capitalism]], [[kyla-scanlon]], [[david-stockman]]
+connections:
+  - type: influenced-by
+    target: david-stockman
+  - type: extended-by
+    target: crony-capitalism-and-monetary-deformation
+  - type: related
+    target: crony-capitalism
+  - type: related
+    target: sound-money
 ---
 
 # Bubble Finance

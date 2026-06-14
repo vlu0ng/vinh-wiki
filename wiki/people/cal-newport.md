@@ -3,6 +3,13 @@ title: "Cal Newport"
 date: 2026-05-19
 tags: [author, computer-scientist, productivity, deep-work]
 related: [[slow-productivity]], [[pseudo-productivity]], [[cognitive-atrophy-and-ai]], [[negotiating-slow-productivity]], [[slow-productivity-and-ai-craft]]
+connections:
+  - type: authored
+    target: slow-productivity
+  - type: influenced
+    target: pseudo-productivity
+  - type: related
+    target: cognitive-atrophy-and-ai
 ---
 
 # Cal Newport

@@ -3,6 +3,11 @@ title: "Sal Khan"
 date: 2026-05-19
 tags: [education, AI, ed-tech, khan-academy]
 related: [[ai-in-education]], [[ai-tutoring]], [[living-and-working-with-ai]]
+connections:
+  - type: authored
+    target: ai-in-education
+  - type: influenced
+    target: ai-tutoring
 ---
 
 # Sal Khan

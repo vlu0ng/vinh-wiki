@@ -6,6 +6,8 @@ related: [[growth-mindset]], [[jo-boaler]], [[mathematics-education]]
 connections:
   - type: influenced
     target: growth-mindset
+  - type: influenced
+    target: jo-boaler
 ---
 
 # Carol Dweck

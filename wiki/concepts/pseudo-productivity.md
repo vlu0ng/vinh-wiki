@@ -3,6 +3,11 @@ title: "Pseudo-Productivity"
 date: 2026-05-19
 tags: [productivity, knowledge-work, deep-work]
 related: [[slow-productivity]], [[cal-newport]], [[cognitive-atrophy-and-ai]]
+connections:
+  - type: influenced-by
+    target: cal-newport
+  - type: critiqued-by
+    target: slow-productivity
 ---
 
 # Pseudo-Productivity

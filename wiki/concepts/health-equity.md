@@ -8,6 +8,10 @@ connections:
     target: romanticization-of-illness
   - type: application-of
     target: health-equity-without-redistribution
+  - type: related
+    target: tuberculosis-and-global-health
+  - type: related
+    target: partners-in-health
 ---
 
 # Health Equity

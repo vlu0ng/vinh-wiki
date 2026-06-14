@@ -4,6 +4,8 @@ date: 2026-05-19
 tags: [stoicism, ethics, virtue, ryan-holiday]
 related: [[ryan-holiday]], [[stoic-virtues]], [[mental-models]], [[mental-models-and-multidisciplinary-thinking]], [[stoicism-and-systemic-injustice]], [[stoic-truth-telling-and-tact]]
 connections:
+  - type: authored-by
+    target: ryan-holiday
   - type: critiqued-by
     target: stoicism-and-systemic-injustice
   - type: application-of

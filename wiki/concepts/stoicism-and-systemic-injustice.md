@@ -4,6 +4,8 @@ date: 2026-05-20
 tags: [stoicism, ethics, justice, political-philosophy, systemic-change]
 related: [[stoic-justice]], [[stoic-virtues]], [[ryan-holiday]], [[disposition-vs-knowledge]], [[health-equity]]
 connections:
+  - type: influenced-by
+    target: ryan-holiday
   - type: critiques
     target: stoic-justice
   - type: related

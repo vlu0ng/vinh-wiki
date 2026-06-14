@@ -3,6 +3,11 @@ title: "Stéphane Breitwieser"
 date: 2026-05-18
 tags: [art-theft, crime, psychology, collecting]
 related: [[art-theft-and-obsession]], [[compulsive-collecting]], [[michael-finkel]]
+connections:
+  - type: example-of
+    target: compulsive-collecting
+  - type: related
+    target: art-theft-and-obsession
 ---
 
 # Stéphane Breitwieser

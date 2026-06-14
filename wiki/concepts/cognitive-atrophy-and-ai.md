@@ -2,12 +2,14 @@
 title: "Cognitive Atrophy and AI"
 date: 2026-05-19
 tags: [ai, cognition, skills, atrophy, learning, technology]
-related: [[living-and-working-with-ai]], [[jagged-frontier]], [[disposition-vs-knowledge]], [[large-language-models]], [[cal-newport]], [[ai-tutoring]], [[procedural-fluency-vs-open-tasks]]
+related: [[living-and-working-with-ai]], [[jagged-frontier]], [[disposition-vs-knowledge]], [[large-language-models]], [[cal-newport]], [[ai-tutoring]], [[procedural-fluency-vs-open-tasks]], [[ai-productivity-gains-distribution]]
 connections:
   - type: critiques
     target: ai-tutoring
   - type: related
     target: procedural-fluency-vs-open-tasks
+  - type: related
+    target: ai-productivity-gains-distribution
 ---
 
 # Cognitive Atrophy and AI

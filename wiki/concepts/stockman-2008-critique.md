@@ -3,6 +3,13 @@ title: "Stockman's 2008 Critique: Was Intervention Necessary?"
 date: 2026-05-20
 tags: [economics, financial-crisis, monetary-policy, david-stockman, bailouts]
 related: [[crony-capitalism-and-monetary-deformation]], [[david-stockman]], [[crony-capitalism]], [[sound-money]], [[bubble-finance]]
+connections:
+  - type: applies-to
+    target: crony-capitalism-and-monetary-deformation
+  - type: influenced-by
+    target: david-stockman
+  - type: critiques
+    target: crony-capitalism
 ---
 
 # Stockman's 2008 Critique: Was Intervention Necessary?

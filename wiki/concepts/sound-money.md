@@ -2,7 +2,12 @@
 title: "Sound Money"
 date: 2026-05-18
 tags: [economics, monetary-policy, gold-standard, austrian-economics]
-related: [[crony-capitalism-and-monetary-deformation]], [[crony-capitalism]], [[david-stockman]]
+related: [[crony-capitalism-and-monetary-deformation]], [[crony-capitalism]], [[david-stockman]], [[bubble-finance]]
+connections:
+  - type: influenced-by
+    target: david-stockman
+  - type: related
+    target: bubble-finance
 ---
 
 # Sound Money

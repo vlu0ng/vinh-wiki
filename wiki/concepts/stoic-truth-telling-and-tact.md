@@ -4,6 +4,8 @@ date: 2026-05-20
 tags: [stoicism, ethics, communication, virtue, honesty]
 related: [[stoic-justice]], [[stoic-virtues]], [[ryan-holiday]], [[disposition-vs-knowledge]]
 connections:
+  - type: influenced-by
+    target: ryan-holiday
   - type: applies-to
     target: stoic-justice
 ---

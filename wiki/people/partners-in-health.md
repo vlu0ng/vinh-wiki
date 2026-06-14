@@ -2,7 +2,14 @@
 title: "Partners in Health"
 date: 2026-05-18
 tags: [global-health, nonprofit, tuberculosis, health-equity]
-related: [[tuberculosis-and-global-health]], [[health-equity]], [[john-green]]
+related: [[tuberculosis-and-global-health]], [[health-equity]], [[john-green]], [[health-equity-without-redistribution]]
+connections:
+  - type: example-of
+    target: health-equity
+  - type: related
+    target: tuberculosis-and-global-health
+  - type: related
+    target: health-equity-without-redistribution
 ---
 
 # Partners in Health (PIH)

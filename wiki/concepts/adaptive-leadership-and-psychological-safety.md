@@ -2,7 +2,14 @@
 title: "Adaptive Leadership and Psychological Safety"
 date: 2026-05-20
 tags: [leadership, psychology, organizational-change, heifetz, edmondson]
-related: [[adaptive-leadership]], [[adaptive-vs-technical-challenges]], [[stoic-justice]], [[disposition-vs-knowledge]], [[ronald-heifetz]]
+related: [[adaptive-leadership]], [[adaptive-vs-technical-challenges]], [[stoic-justice]], [[disposition-vs-knowledge]], [[ronald-heifetz]], [[adaptive-challenge-diagnosis]]
+connections:
+  - type: influenced-by
+    target: ronald-heifetz
+  - type: extends
+    target: adaptive-leadership
+  - type: related
+    target: adaptive-challenge-diagnosis
 ---
 
 # Adaptive Leadership and Psychological Safety

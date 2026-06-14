@@ -2,7 +2,14 @@
 title: "AI Tutoring and Human Motivation"
 date: 2026-05-20
 tags: [education, technology, AI, psychology, pedagogy]
-related: [[ai-in-education]], [[sal-khan]], [[ai-tutoring]], [[growth-mindset]]
+related: [[ai-in-education]], [[sal-khan]], [[ai-tutoring]], [[growth-mindset]], [[cognitive-atrophy-and-ai]]
+connections:
+  - type: extends
+    target: ai-tutoring
+  - type: extends
+    target: ai-in-education
+  - type: related
+    target: cognitive-atrophy-and-ai
 ---
 
 # AI Tutoring and Human Motivation

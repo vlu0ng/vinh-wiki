@@ -2,7 +2,16 @@
 title: "Crony Capitalism and Monetary Deformation"
 date: 2026-05-18
 tags: [economics, monetary-policy, politics, finance, history]
-related: [[david-stockman]], [[crony-capitalism]], [[sound-money]], [[stockman-2008-critique]]
+related: [[david-stockman]], [[crony-capitalism]], [[sound-money]], [[stockman-2008-critique]], [[bubble-finance]]
+connections:
+  - type: authored-by
+    target: david-stockman
+  - type: extends
+    target: crony-capitalism
+  - type: extends
+    target: bubble-finance
+  - type: has-example
+    target: stockman-2008-critique
 ---
 
 # Crony Capitalism and Monetary Deformation

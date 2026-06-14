@@ -4,6 +4,8 @@ date: 2026-05-18
 tags: [ai, technology, work, education, future]
 related: [[ethan-mollick]], [[large-language-models]], [[jagged-frontier]], [[cognitive-atrophy-and-ai]], [[mapping-the-jagged-frontier]], [[ai-productivity-gains-distribution]]
 connections:
+  - type: authored-by
+    target: ethan-mollick
   - type: application-of
     target: ai-productivity-gains-distribution
 ---

@@ -3,6 +3,13 @@ title: "AI in Education"
 date: 2026-05-19
 tags: [education, AI, LLMs, sal-khan, khanmigo]
 related: [[sal-khan]], [[ai-tutoring]], [[large-language-models]], [[living-and-working-with-ai]], [[growth-mindset]], [[ai-tutoring-and-human-motivation]]
+connections:
+  - type: authored-by
+    target: sal-khan
+  - type: extended-by
+    target: ai-tutoring-and-human-motivation
+  - type: has-example
+    target: ai-tutoring
 ---
 
 # AI in Education

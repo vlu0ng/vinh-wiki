@@ -3,6 +3,13 @@ title: "Focusing Question"
 date: 2026-05-19
 tags: [productivity, focus, prioritization, decision-making]
 related: [[the-one-thing]], [[gary-keller]], [[mental-models]], [[inversion]]
+connections:
+  - type: influenced-by
+    target: gary-keller
+  - type: example-of
+    target: the-one-thing
+  - type: related
+    target: inversion
 ---
 
 # Focusing Question

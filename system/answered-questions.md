@@ -64,5 +64,6 @@ Tracks which `## Open Questions` have been answered, by which page(s), on which 
 | 2026-06-07 | wiki/topics/tuberculosis-and-global-health.md | How does drug-resistant TB change the cure timeline? | answered inline |
 | 2026-06-07 | wiki/people/warren-buffett.md | Which Buffett writings or shareholder letters should be ingested to deepen the investing side of this wiki? | answered inline |
 | 2026-06-07 | wiki/people/warren-buffett.md | How much of Berkshire's philosophy is Buffett's original Graham-style value investing versus Munger's quality-business influence? | answered inline |
+| 2026-06-14 | wiki/concepts/romanticization-of-illness.md | How does social media change the aestheticization of illness? | wiki/concepts/social-media-and-illness-aesthetics.md (created) |
 | 2026-06-07 | wiki/concepts/latticework-pedagogy.md | Are there structural differences between people who successfully internalize multi-model reasoning and those who only learn the vocabulary — and can those differences be measured before training? | answered inline |
 

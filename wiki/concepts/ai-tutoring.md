@@ -2,8 +2,14 @@
 title: "AI Tutoring"
 date: 2026-05-19
 tags: [education, AI, LLMs, personalized-learning]
-related: [[ai-in-education]], [[sal-khan]], [[large-language-models]], [[jagged-frontier]], [[cognitive-atrophy-and-ai]]
+related: [[ai-in-education]], [[sal-khan]], [[large-language-models]], [[jagged-frontier]], [[cognitive-atrophy-and-ai]], [[ai-tutoring-and-human-motivation]]
 connections:
+  - type: influenced-by
+    target: sal-khan
+  - type: example-of
+    target: ai-in-education
+  - type: extended-by
+    target: ai-tutoring-and-human-motivation
   - type: critiqued-by
     target: cognitive-atrophy-and-ai
 ---

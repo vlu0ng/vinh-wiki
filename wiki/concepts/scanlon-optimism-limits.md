@@ -6,6 +6,8 @@ related: [[economic-literacy]], [[kyla-scanlon]], [[vibecession]], [[bubble-fina
 connections:
   - type: critiques
     target: economic-literacy
+  - type: critiques
+    target: vibecession
 ---
 
 # Limits of Scanlon's Economic Optimism

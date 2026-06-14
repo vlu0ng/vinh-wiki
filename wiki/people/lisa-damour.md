@@ -3,6 +3,13 @@ title: "Lisa Damour"
 date: 2026-05-18
 tags: [psychology, adolescence, parenting, education]
 related: [[teenage-girl-development]], [[developmental-strands]], [[adolescent-development-in-the-digital-age]]
+connections:
+  - type: authored
+    target: teenage-girl-development
+  - type: influenced
+    target: developmental-strands
+  - type: influenced
+    target: adolescent-development-in-the-digital-age
 ---
 
 # Lisa Damour

@@ -2,7 +2,16 @@
 title: "Ryan Holiday"
 date: 2026-05-19
 tags: [author, stoicism, philosophy, ethics]
-related: [[stoic-justice]], [[stoic-virtues]], [[mental-models-and-multidisciplinary-thinking]]
+related: [[stoic-justice]], [[stoic-virtues]], [[mental-models-and-multidisciplinary-thinking]], [[stoicism-and-systemic-injustice]], [[stoic-truth-telling-and-tact]]
+connections:
+  - type: authored
+    target: stoic-justice
+  - type: influenced
+    target: stoic-virtues
+  - type: influenced
+    target: stoicism-and-systemic-injustice
+  - type: influenced
+    target: stoic-truth-telling-and-tact
 ---
 
 # Ryan Holiday

@@ -3,6 +3,13 @@ title: "Ethan Mollick"
 date: 2026-05-18
 tags: [ai, innovation, education, wharton]
 related: [[living-and-working-with-ai]], [[large-language-models]], [[jagged-frontier]]
+connections:
+  - type: authored
+    target: living-and-working-with-ai
+  - type: influenced
+    target: jagged-frontier
+  - type: related
+    target: large-language-models
 ---
 
 # Ethan Mollick

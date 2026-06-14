@@ -2,12 +2,14 @@
 title: "Munger vs. Behavioral Economics"
 date: 2026-06-07
 tags: [charlie-munger, behavioral-economics, mental-models, decision-making, epistemology]
-related: [[mental-models-and-multidisciplinary-thinking]], [[charlie-munger]], [[mental-models]], [[disposition-vs-knowledge]], [[latticework-failure-modes]]
+related: [[mental-models-and-multidisciplinary-thinking]], [[charlie-munger]], [[mental-models]], [[disposition-vs-knowledge]], [[latticework-failure-modes]], [[superforecasting]]
 connections:
   - type: applies-to
     target: mental-models-and-multidisciplinary-thinking
   - type: related
     target: disposition-vs-knowledge
+  - type: related
+    target: superforecasting
 ---
 
 # Munger vs. Behavioral Economics

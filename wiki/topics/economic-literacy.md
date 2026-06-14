@@ -4,6 +4,10 @@ date: 2026-05-19
 tags: [economics, finance, behavioral-economics, kyla-scanlon]
 related: [[kyla-scanlon]], [[vibecession]], [[bubble-finance]], [[crony-capitalism-and-monetary-deformation]], [[economic-literacy-at-scale]], [[scanlon-optimism-limits]]
 connections:
+  - type: authored-by
+    target: kyla-scanlon
+  - type: has-example
+    target: vibecession
   - type: application-of
     target: economic-literacy-at-scale
   - type: critiqued-by

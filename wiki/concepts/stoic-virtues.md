@@ -4,6 +4,8 @@ date: 2026-05-19
 tags: [stoicism, ethics, virtue, philosophy]
 related: [[stoic-justice]], [[ryan-holiday]], [[mental-models]], [[disposition-vs-knowledge]], [[stoicism-and-systemic-injustice]], [[stoic-truth-telling-and-tact]], [[wisdom-traditions-practice-vs-doctrine]]
 connections:
+  - type: influenced-by
+    target: ryan-holiday
   - type: application-of
     target: wisdom-traditions-practice-vs-doctrine
 ---

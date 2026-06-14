@@ -3,6 +3,11 @@ title: "Anne-Laure Le Cunff"
 date: 2026-05-18
 tags: [neuroscience, productivity, writing, entrepreneurship]
 related: [[experimental-mindset]], [[tiny-experiments]], [[growth-mindset]]
+connections:
+  - type: authored
+    target: experimental-mindset
+  - type: influenced
+    target: tiny-experiments
 ---
 
 # Anne-Laure Le Cunff

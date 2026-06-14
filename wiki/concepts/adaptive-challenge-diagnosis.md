@@ -6,6 +6,12 @@ related: [[adaptive-leadership]], [[ronald-heifetz]], [[disposition-vs-knowledge
 connections:
   - type: applies-to
     target: adaptive-leadership
+  - type: influenced-by
+    target: ronald-heifetz
+  - type: related
+    target: adaptive-vs-technical-challenges
+  - type: related
+    target: adaptive-leadership-and-psychological-safety
 ---
 
 # Adaptive Challenge Diagnosis

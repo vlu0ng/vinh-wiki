@@ -3,6 +3,11 @@ title: "Ethics of Private Beauty"
 date: 2026-05-20
 tags: [ethics, philosophy, aesthetics, art, possession]
 related: [[art-theft-and-obsession]], [[compulsive-collecting]], [[stephane-breitwieser]], [[michael-finkel]]
+connections:
+  - type: applies-to
+    target: art-theft-and-obsession
+  - type: related
+    target: compulsive-collecting
 ---
 
 # The Ethics of Private Beauty

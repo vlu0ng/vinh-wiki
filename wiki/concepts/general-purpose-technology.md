@@ -3,6 +3,11 @@ title: "General Purpose Technology"
 date: 2026-05-19
 tags: [technology, economics, ai, innovation]
 related: [[large-language-models]], [[living-and-working-with-ai]], [[jagged-frontier]]
+connections:
+  - type: has-example
+    target: large-language-models
+  - type: related
+    target: living-and-working-with-ai
 ---
 
 # General Purpose Technology

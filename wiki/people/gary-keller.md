@@ -3,6 +3,11 @@ title: "Gary Keller"
 date: 2026-05-19
 tags: [entrepreneurship, productivity, real-estate, focus]
 related: [[the-one-thing]], [[focusing-question]], [[slow-productivity]], [[focus-vs-orientation]]
+connections:
+  - type: authored
+    target: the-one-thing
+  - type: influenced
+    target: focusing-question
 ---
 
 # Gary Keller

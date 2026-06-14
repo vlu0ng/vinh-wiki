@@ -6,6 +6,10 @@ related: [[living-and-working-with-ai]], [[jagged-frontier]], [[cognitive-atroph
 connections:
   - type: applies-to
     target: living-and-working-with-ai
+  - type: related
+    target: cognitive-atrophy-and-ai
+  - type: related
+    target: jagged-frontier
 ---
 
 # Distribution of AI Productivity Gains

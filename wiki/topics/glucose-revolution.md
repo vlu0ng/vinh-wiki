@@ -3,6 +3,11 @@ title: "Glucose Revolution"
 date: 2026-05-19
 tags: [health, nutrition, metabolic-health, jessie-inchauspee]
 related: [[jessie-inchauspee]], [[glucose-curves]], [[health-equity]]
+connections:
+  - type: authored-by
+    target: jessie-inchauspee
+  - type: application-of
+    target: glucose-curves
 ---
 
 # Glucose Revolution

@@ -3,6 +3,11 @@ title: "Jessie Inchauspée"
 date: 2026-05-19
 tags: [nutrition, health, glucose, metabolic-health]
 related: [[glucose-revolution]], [[glucose-curves]], [[health-equity]]
+connections:
+  - type: authored
+    target: glucose-revolution
+  - type: influenced
+    target: glucose-curves
 ---
 
 # Jessie Inchauspée

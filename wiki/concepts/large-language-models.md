@@ -2,7 +2,16 @@
 title: "Large Language Models"
 date: 2026-05-18
 tags: [ai, machine-learning, technology, nlp]
-related: [[living-and-working-with-ai]], [[ethan-mollick]], [[jagged-frontier]]
+related: [[living-and-working-with-ai]], [[ethan-mollick]], [[jagged-frontier]], [[general-purpose-technology]], [[ai-tutoring]], [[cognitive-atrophy-and-ai]]
+connections:
+  - type: related
+    target: ethan-mollick
+  - type: example-of
+    target: general-purpose-technology
+  - type: applies-to
+    target: ai-tutoring
+  - type: related
+    target: cognitive-atrophy-and-ai
 ---
 
 # Large Language Models

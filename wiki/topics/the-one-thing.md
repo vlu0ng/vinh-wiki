@@ -4,6 +4,10 @@ date: 2026-05-19
 tags: [productivity, focus, prioritization, gary-keller]
 related: [[gary-keller]], [[focusing-question]], [[slow-productivity]], [[mental-models]], [[focus-vs-orientation]]
 connections:
+  - type: authored-by
+    target: gary-keller
+  - type: has-example
+    target: focusing-question
   - type: critiqued-by
     target: focus-vs-orientation
 ---

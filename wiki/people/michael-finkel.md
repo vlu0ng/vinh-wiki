@@ -3,6 +3,11 @@ title: "Michael Finkel"
 date: 2026-05-18
 tags: [journalism, author, narrative-nonfiction]
 related: [[art-theft-and-obsession]], [[stephane-breitwieser]], [[compulsive-collecting]], [[ethics-of-private-beauty]]
+connections:
+  - type: authored
+    target: art-theft-and-obsession
+  - type: related
+    target: stephane-breitwieser
 ---
 
 # Michael Finkel

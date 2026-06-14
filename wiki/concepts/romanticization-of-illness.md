@@ -2,7 +2,7 @@
 title: "Romanticization of Illness"
 date: 2026-05-18
 tags: [illness, culture, narrative, tuberculosis, art, history]
-related: [[tuberculosis-and-global-health]], [[health-equity]], [[art-theft-and-obsession]], [[illness-narrative-and-coping]], [[contemporary-romanticized-illnesses]], [[pandemic-lessons-from-tb]]
+related: [[tuberculosis-and-global-health]], [[health-equity]], [[art-theft-and-obsession]], [[illness-narrative-and-coping]], [[contemporary-romanticized-illnesses]], [[pandemic-lessons-from-tb]], [[social-media-and-illness-aesthetics]]
 connections:
   - type: influenced
     target: health-equity
@@ -12,6 +12,8 @@ connections:
     target: contemporary-romanticized-illnesses
   - type: extended-by
     target: pandemic-lessons-from-tb
+  - type: extended-by
+    target: social-media-and-illness-aesthetics
 ---
 
 # Romanticization of Illness
@@ -77,6 +79,7 @@ See also: [[tuberculosis-and-global-health]] for how this plays out in TB specif
 ## Open Questions
 
 - Which contemporary diseases carry romanticized framings? (Depression as "creative sensitivity"? Autoimmune disease?)
-- How does social media change the aestheticization of illness?
+- **How does social media change the aestheticization of illness?**  
+  Social media transforms romanticization from a top-down literary practice into a participatory, algorithmically amplified one. Patients now curate their own illness aesthetics (the "sick girl aesthetic," hospital-bed photography), platforms reward emotionally resonant illness content through engagement optimization, and community formation around illness identity (spoonie communities, neurodivergent TikTok) creates belonging while also making illness harder to leave behind. The Sontag critique still applies: aestheticization continues to favor photogenic conditions, recovery narratives, and patients with social capital — the same distributional inequity as before, now with algorithmic amplification. What social media has genuinely improved: destigmatization of mental illness at scale, patient expertise networks for rare conditions, and advocacy communities that pushed contested illnesses toward medical recognition. See [[social-media-and-illness-aesthetics]] for the full analysis.
 - **Does Sontag's prescription — strip all metaphor from illness — leave patients without useful narrative tools for coping?**  
   Sontag's critique is correct as diagnosis but extreme as prescription. Yes, stripping metaphor stops the blame cycle and removes the implication that illness reflects character. But patients facing serious illness need *some* interpretive frame to organize their experience — meaning-making is not optional for human cognition. Arthur Frank's *The Wounded Storyteller* (1995) offers a better framework: he distinguishes three illness narratives — *restitution* (I will get better), *chaos* (there is no order), and *quest* (illness yields insight). Frank does not say illness has moral meaning, but recognizes that patients need narrative structure to live inside illness. The problem Sontag identifies is not narrative per se but *specific narratives that impute blame* — cancer as repression, TB as sensitivity. What patients lose from Sontag's prescription: the ability to write themselves as protagonists rather than victims of meaningless biology. What they gain: freedom from the implication that their character caused their disease. The practical reconciliation is to allow narratives that give structure and agency (the quest frame, communal framing, political framing) while stripping narratives that assign moral meaning to the disease itself. Arthur Kleinman's distinction between *disease* (biological dysfunction) and *illness* (the human experience of being sick) is useful here: you can narrate the illness experience richly without narrating the disease as morally meaningful.

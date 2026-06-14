@@ -6,6 +6,12 @@ related: [[economic-literacy]], [[kyla-scanlon]], [[vibecession]], [[disposition
 connections:
   - type: applies-to
     target: economic-literacy
+  - type: influenced-by
+    target: kyla-scanlon
+  - type: related
+    target: vibecession
+  - type: related
+    target: disposition-vs-knowledge
 ---
 
 # Economic Literacy at Scale

@@ -2,7 +2,16 @@
 title: "Kyla Scanlon"
 date: 2026-05-19
 tags: [economics, finance, media, behavioral-economics]
-related: [[economic-literacy]], [[vibecession]], [[bubble-finance]]
+related: [[economic-literacy]], [[vibecession]], [[bubble-finance]], [[economic-literacy-at-scale]], [[scanlon-optimism-limits]]
+connections:
+  - type: authored
+    target: economic-literacy
+  - type: influenced
+    target: vibecession
+  - type: influenced
+    target: economic-literacy-at-scale
+  - type: influenced
+    target: scanlon-optimism-limits
 ---
 
 # Kyla Scanlon

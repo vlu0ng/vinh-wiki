@@ -3,6 +3,15 @@ title: "Adolescent Development in the Digital Age"
 date: 2026-05-20
 tags: [psychology, adolescence, technology, digital-wellness, education]
 related: [[teenage-girl-development]], [[lisa-damour]], [[developmental-strands]], [[cognitive-atrophy-and-ai]]
+connections:
+  - type: influenced-by
+    target: lisa-damour
+  - type: extends
+    target: teenage-girl-development
+  - type: extends
+    target: developmental-strands
+  - type: related
+    target: cognitive-atrophy-and-ai
 ---
 
 # Adolescent Development in the Digital Age

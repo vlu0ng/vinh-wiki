@@ -2,7 +2,14 @@
 title: "Inversion"
 date: 2026-05-19
 tags: [thinking, decision-making, mental-models, problem-solving]
-related: [[mental-models]], [[charlie-munger]], [[mental-models-and-multidisciplinary-thinking]]
+related: [[mental-models]], [[charlie-munger]], [[mental-models-and-multidisciplinary-thinking]], [[focusing-question]]
+connections:
+  - type: influenced-by
+    target: charlie-munger
+  - type: example-of
+    target: mental-models
+  - type: related
+    target: focusing-question
 ---
 
 # Inversion

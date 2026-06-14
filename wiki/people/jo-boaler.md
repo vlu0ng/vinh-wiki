@@ -3,6 +3,11 @@ title: "Jo Boaler"
 date: 2026-05-18
 tags: [education, mathematics, stanford, growth-mindset]
 related: [[mathematics-education]], [[growth-mindset]], [[carol-dweck]]
+connections:
+  - type: authored
+    target: mathematics-education
+  - type: influenced-by
+    target: carol-dweck
 ---
 
 # Jo Boaler

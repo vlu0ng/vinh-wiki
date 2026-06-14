@@ -3,6 +3,13 @@ title: "Mental Models"
 date: 2026-05-18
 tags: [thinking, decision-making, cognition, investing]
 related: [[mental-models-and-multidisciplinary-thinking]], [[charlie-munger]], [[inversion]], [[latticework-pedagogy]], [[latticework-failure-modes]], [[disposition-vs-knowledge]], [[superforecasting]], [[stoic-virtues]]
+connections:
+  - type: influenced-by
+    target: charlie-munger
+  - type: extended-by
+    target: mental-models-and-multidisciplinary-thinking
+  - type: has-example
+    target: inversion
 ---
 
 # Mental Models

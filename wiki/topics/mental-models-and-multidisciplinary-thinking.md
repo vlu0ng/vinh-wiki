@@ -4,6 +4,8 @@ date: 2026-05-18
 tags: [thinking, investing, decision-making, wisdom, philosophy]
 related: [[charlie-munger]], [[mental-models]], [[latticework-failure-modes]], [[munger-vs-behavioral-economics]]
 connections:
+  - type: authored-by
+    target: charlie-munger
   - type: critiqued-by
     target: latticework-failure-modes
   - type: application-of
