@@ -4,6 +4,23 @@ title: "Session Log"
 
 # Session Log
 
+## 2026-06-16 — Nightly Dream Cycle
+- Files read: system/AGENTS.md, .claude/skills/vinh-wiki-dream-cycle/SKILL.md (not found; proceeded from CLAUDE.md + AGENTS.md descriptions), system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md; 10 wiki pages across three clusters: art/aesthetics (art-theft-and-obsession, ethics-of-private-beauty, compulsive-collecting), glucose/health (glucose-revolution, glucose-curves), productivity/life-design (stoic-justice, the-one-thing, tiny-experiments, pseudo-productivity, anne-laure-le-cunff); anchored-exclusion ripgrep re-verification for all top-tier and mid-tier pages
+- Files updated: system/contradictions.md (frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (frontmatter date), system/log.md (this entry)
+- Stage 1 — Contradictions: **0 new contradictions detected.** All 8 prior open contradictions confirmed:
+  - OPEN: `cognitive-atrophy-and-ai` vs. `slow-productivity-and-ai-craft` — expertise exemption from atrophy risk
+  - OPEN: `ai-in-education` vs. `ai-tutoring-and-human-motivation` — whether AI relational emulation works long-term
+  - OPEN: `stoic-virtues` vs. `wisdom-traditions-practice-vs-doctrine` — virtue as perpetual action vs. disposition-builder
+  - OPEN: `vibecession`/`economic-literacy` vs. `bubble-finance`/`crony-capitalism-and-monetary-deformation` — hard indicators as reliable baselines vs. distorted signals
+  - OPEN: `growth-mindset` vs. `mathematics-education` — inconsistent epistemic confidence in growth-mindset framework
+  - OPEN: `superforecasting` vs. `munger-vs-behavioral-economics` — Tetlock validates vs. contrasts Munger
+  - OPEN: `vibecession` vs. `scanlon-optimism-limits` — sentiment gap as behavioral distortion vs. rational distributional signal
+  - OPEN: `pandemic-lessons-from-tb` vs. `health-equity-without-redistribution` — TB outcomes show insufficient progress vs. substantial disease-specific progress
+  Ten pages across three clusters verified clean. One candidate explored: `glucose-revolution` (inline caveat: "overall diet pattern almost certainly dominates the ordering effects for most people") vs. `glucose-curves` ("glucose is the highest-leverage single metabolic metric to monitor and manage"). Resolved as non-contradictory: the caveat in `glucose-revolution` bounds the effect size of its specific food-order hacks, not glucose's importance as a monitoring metric; both pages share the same underlying model. Not logged. Total open contradictions: **8** (unchanged).
+- Stage 2 — Near-duplicates: **0 new cases detected.** Cases 1, 2 (16 confirmed instances), and 3 carry forward unchanged. All pending owner approval.
+- Stage 3 — Salience digest regenerated: All inbound-link counts confirmed stable via anchored-exclusion ripgrep (unique files, self-reference excluded). No count corrections. Rankings unchanged: `disposition-vs-knowledge` sole #1 (20), `mental-models` sole #2 (18), `health-equity` #3 (17), `cognitive-atrophy-and-ai` #4 (14), `mental-models-and-multidisciplinary-thinking` #5 (12). All mid-tier counts stable.
+- Summary: Fifteenth nightly dream cycle. Vault stable at 91 pages. Zero new contradictions after reading 10 pages across art/aesthetics, glucose/health, and productivity/life-design clusters. One candidate (glucose ordering effects vs. glucose as highest-leverage metric) explored and resolved as internally consistent. All inbound-link counts confirmed stable; no rank changes. Two Munger PDFs remain the highest-priority uningested items.
+
 ## 2026-06-15 — Nightly Dream Cycle
 - Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md; 5 wiki pages in the illness/narrative cluster: social-media-and-illness-aesthetics, romanticization-of-illness, illness-narrative-and-coping, adolescent-development-in-the-digital-age, contemporary-romanticized-illnesses; anchored-exclusion ripgrep re-verification for all top-tier and mid-tier pages
 - Files updated: system/contradictions.md (frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (1 new row + frontmatter date), system/log.md (this entry)
