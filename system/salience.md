@@ -1,6 +1,6 @@
 ---
 title: "Salience Digest"
-date: 2026-06-18
+date: 2026-06-19
 tags: [system, digest]
 ---
 
@@ -17,7 +17,7 @@ Each page is scored on cheap structural signals:
 
 ## Last run
 
-**2026-06-18** — Full dream-cycle pass (nightly). 91 wiki pages analyzed (57 concepts, 15 topics, 19 people). Vault unchanged since prior nightly run (2026-06-17). **Stage 1:** 0 new contradictions; 8 total open contradictions confirmed. Pages scanned this run: `ryan-holiday`, `ronald-heifetz`, `lisa-damour`, `kyla-scanlon`, `warren-buffett`, `john-green`, `stephane-breitwieser`, `michael-finkel`, `partners-in-health`, `jessie-inchauspee`, `mathematics-education`, `ai-in-education`, `experiment-theater`, `focus-vs-orientation`, `developmental-strands`, `economic-literacy`, `mental-models-and-multidisciplinary-thinking`, `tuberculosis-and-global-health` (18 pages across two clusters: all 10 people pages not scanned recently, and 8 topics/concepts in the education, productivity, and economics domains). No candidates rose to contradiction level. One candidate explored: `warren-buffett` implies Munger's psychological-factor analysis (understanding management incentives, customer loyalty) is a valuable business tool; `munger-vs-behavioral-economics` critiques the prescription that awareness of biases helps counter one's own reasoning. These operate at different levels — Buffett/Munger analyze *others'* psychology for business insight, not debias their own cognition. Non-contradictory. **Stage 2:** 1 new Case 2 instance detected (#17): `tuberculosis-and-global-health`'s inline answer to the pandemic-lessons question (~300 words, five numbered lessons) duplicates the primary content of `pandemic-lessons-from-tb`. This was created in the 2026-05-19 Answer Questions session and missed in all prior Case 2 analyses. Case 2 grows from 16 to **17 confirmed instances**. Two borderline near-misses noted (not added): `mathematics-education`'s Q3 inline (~55 words → `procedural-fluency-vs-open-tasks`) and `ai-in-education`'s Q1 inline (~60 words → `ai-tutoring-and-human-motivation`) follow the structural Case 2 pattern but are too brief (well below the 150-word floor of confirmed instances) to constitute meaningful duplication. Cases 1 and 3 carry forward unchanged. **Stage 3:** All inbound-link counts re-verified via anchored-exclusion ripgrep. One methodological note: an early grep in this run's Stage 3 check incorrectly filtered out `mental-models-and-multidisciplinary-thinking.md` from the `mental-models` count, returning 17; corrected to the true count of 18. All prior counts confirmed stable. No rank changes.
+**2026-06-19** — Full dream-cycle pass (nightly). 91 wiki pages analyzed (57 concepts, 15 topics, 19 people). Vault unchanged since prior nightly run (2026-06-18). **Stage 1:** 0 new contradictions; 8 total open contradictions confirmed. Pages scanned this run: 9 pages across two clusters — Munger/AI/cognition cluster (cognitive-atrophy-and-ai, slow-productivity-and-ai-craft, superforecasting, munger-vs-behavioral-economics, mental-models, charlie-munger, growth-mindset) and health equity cluster (health-equity-without-redistribution, pandemic-lessons-from-tb). All 8 existing open contradictions confirmed live from direct reads. One candidate explored: `cognitive-atrophy-and-ai` table classifies "generating initial drafts you then substantially revise" as "Low" atrophy risk, while `slow-productivity-and-ai-craft` classifies the same use as "Medium — depends on whether revision requires and builds judgment." These pages are already in the Case 3 near-duplicate registry (~35% body overlap); this classification nuance is part of the same acknowledged divergence, not a standalone new contradiction. Not logged. **Stage 2:** 0 new near-duplicate cases. Cases 1, 2 (17 confirmed), 3 carry forward unchanged. All pending owner approval. **Stage 3:** All inbound-link counts re-verified via anchored-exclusion ripgrep. All counts confirmed stable from 2026-06-18. No rank changes. Vault remains at 91 pages.
 
 ---
 
@@ -38,7 +38,7 @@ _Pages with many inbound edges but a thin body — highest enrichment leverage._
 ## Stale high-value
 _Central pages not touched in a while — candidates to revisit._
 
-All pages share a creation band of 2026-05-18 to 2026-06-14 (4–31 days old). Staleness does not yet differentiate meaningfully within this vault; pages are recent. Re-run this section after the next enrichment pass.
+All pages share a creation band of 2026-05-18 to 2026-06-14 (5–32 days old). Staleness does not yet differentiate meaningfully within this vault; pages are recent. Re-run this section after the next enrichment pass.
 
 **Exception — uningested raw articles (aging gap):** Two PDF files in `raw/articles/` remain uningested:
 - `raw/articles/charlie munger - mental models Part 1.pdf`
@@ -57,7 +57,7 @@ Both pages open with an independent Bloom's 2 Sigma exposition and a description
 **Proposed:** Trim `ai-tutoring-and-human-motivation`'s opening to a 2-sentence cross-reference to `ai-tutoring`, then pick up with the relational-gap analysis. Owner approval required.
 
 ### Case 2 · Structural pattern: inline answers duplicated in concept pages
-When open questions were answered and extracted into dedicated concept pages, the originals were not trimmed. **17 confirmed cases** (16 unchanged + 1 new from 2026-06-18 run). Owner approval required for each compression individually.
+When open questions were answered and extracted into dedicated concept pages, the originals were not trimmed. **17 confirmed cases** (unchanged). Owner approval required for each compression individually.
 
 | Page | Duplicated in concept page | Estimated inline word count |
 |---|---|---|
@@ -77,19 +77,19 @@ When open questions were answered and extracted into dedicated concept pages, th
 | `economic-literacy` (open-Q on literacy at scale) | `economic-literacy-at-scale` | ~150 |
 | `economic-literacy` (open-Q on Scanlon's optimism limits) | `scanlon-optimism-limits` | ~200 |
 | `contemporary-romanticized-illnesses` ("How Social Media Changes the Pattern" section) | `social-media-and-illness-aesthetics` | ~250 |
-| `tuberculosis-and-global-health` (open-Q on pandemic lessons) *(new 2026-06-18)* | `pandemic-lessons-from-tb` | ~300 |
+| `tuberculosis-and-global-health` (open-Q on pandemic lessons) | `pandemic-lessons-from-tb` | ~300 |
 
 **Proposed for each confirmed case:** Compress the inline answer to a 1–2 sentence summary + wikilink to the concept page.
 
 ### Case 3 · `slow-productivity-and-ai-craft` / `cognitive-atrophy-and-ai` — Mechanism section overlap *(flagged 2026-06-07)*
-~35% body overlap in "The Atrophy Mechanism" section, "Where AI Actually Helps" table, and core heuristic. Proposed: compress mechanism section to 2-sentence cross-reference + `[[cognitive-atrophy-and-ai]]` link; collapse the parallel table; retain only Newport-specific content (three-principle vulnerability analysis and flywheel argument). Owner approval required before trimming.
+~35% body overlap in "The Atrophy Mechanism" section, "Where AI Actually Helps" table, and core heuristic. Note from 2026-06-19 run: these two pages also show a minor classification divergence — `cognitive-atrophy-and-ai` labels "generating initial drafts then substantially revising" as "Low" atrophy risk; `slow-productivity-and-ai-craft` labels the same use as "Medium — depends on whether revision builds judgment." This nuance is part of the Case 3 overlap pattern. Proposed: compress mechanism section to 2-sentence cross-reference + `[[cognitive-atrophy-and-ai]]` link; collapse the parallel table; retain only Newport-specific content (three-principle vulnerability analysis and flywheel argument). Owner approval required before trimming.
 
 ---
 
 ## Surfacing for the dashboard
 _Top 10+ pages by salience score (inbound edges × body depth bonus; feeds `wiki-dashboard.html` node sizing)._
 
-Inbound-link counts re-verified via anchored-exclusion ripgrep (unique files, excluding self-references; piped wikilinks `[[slug|...]]` explicitly matched). Vault at 91 pages. All counts confirmed stable from 2026-06-17. Note: this run's first grep attempt incorrectly filtered `mental-models-and-multidisciplinary-thinking.md` from the `mental-models` count (returning 17); corrected to the proper count of 18 via file-listing verification.
+Inbound-link counts re-verified via anchored-exclusion ripgrep (unique files, excluding self-references; piped wikilinks `[[slug|...]]` explicitly matched). Vault at 91 pages. All counts confirmed stable from 2026-06-18.
 
 | Rank | Page | Inbound (confirmed) | Body depth | Salience notes |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ Inbound-link counts re-verified via anchored-exclusion ripgrep (unique files, ex
 | 8 (tied) | `growth-mindset` | 10 | ~400 words | Bridges education, AI, and experimental-mindset clusters; contradiction with `mathematics-education` remains open. |
 | 8 (tied) | `jagged-frontier` | **10** | ~300 words | Very thin body vs. centrality — **#2 AI-cluster enrichment priority**. |
 | 8 (tied) | `latticework-pedagogy` | 10 | ~1000 words | Well-developed; bridges Munger cluster with behavioral science. |
-| 8 (tied) | `tuberculosis-and-global-health` | **10** | ~1100 words (topic) | Well-developed topic page. Central node in the health/justice cluster. New: Case 2 instance #17 detected — ~300-word inline pandemic-lessons answer duplicates `pandemic-lessons-from-tb`. |
+| 8 (tied) | `tuberculosis-and-global-health` | **10** | ~1100 words (topic) | Well-developed topic page. Central node in the health/justice cluster. Case 2 instance #17 pending: ~300-word inline pandemic-lessons answer duplicates `pandemic-lessons-from-tb`. |
 | 12 (tied) | `experimental-mindset` | 9 | ~1200 words (topic) | High centrality, well-developed. Open questions now all answered. |
 | 12 (tied) | `large-language-models` | 9 | ~250 words | Thinnest body at this centrality level — **#3 AI-cluster enrichment priority**. |
 | 12 (tied) | `living-and-working-with-ai` | 9 | ~1500+ words (topic) | High centrality, well-developed. |
@@ -119,14 +119,12 @@ _Note: `social-media-and-illness-aesthetics` (created 2026-06-14) has 1 confirme
 
 **0 new contradictions (Stage 1):**
 
-No new contradictions detected after reading 18 pages across two clusters: all 10 people pages not recently scanned (ryan-holiday, ronald-heifetz, lisa-damour, kyla-scanlon, warren-buffett, john-green, stephane-breitwieser, michael-finkel, partners-in-health, jessie-inchauspee), and 8 topic/concept pages (mathematics-education, ai-in-education, experiment-theater, focus-vs-orientation, developmental-strands, economic-literacy, mental-models-and-multidisciplinary-thinking, tuberculosis-and-global-health). One candidate explored: `warren-buffett`'s implicit endorsement of Munger's psychological-factor business analysis (reading management incentives, customer loyalty) vs. `munger-vs-behavioral-economics`'s critique that bias awareness doesn't translate to debiased cognition. These are non-contradictory — different levels of application (analyzing others' psychology for business insight vs. debiasing one's own reasoning). Not logged.
+Nine pages scanned across the Munger/AI/cognition cluster (cognitive-atrophy-and-ai, slow-productivity-and-ai-craft, superforecasting, munger-vs-behavioral-economics, mental-models, charlie-munger, growth-mindset) and health equity cluster (health-equity-without-redistribution, pandemic-lessons-from-tb). All 8 existing contradictions confirmed live from direct reads. One candidate explored: `cognitive-atrophy-and-ai` classifies AI-assisted initial drafts followed by substantial revision as "Low" atrophy risk; `slow-productivity-and-ai-craft` classifies the same use case as "Medium — depends on whether revision builds judgment." This nuance is part of the acknowledged Case 3 near-duplicate divergence between those two pages — they already have ~35% body overlap in the mechanism, table, and heuristic sections. Not a standalone contradiction; not logged.
 
-**1 new near-duplicate case (Stage 2):**
+**0 new near-duplicate cases (Stage 2):**
 
-**Case 2 instance #17**: `tuberculosis-and-global-health`'s inline answer to the pandemic-lessons open question (~300 words) substantially duplicates `pandemic-lessons-from-tb`. The inline section contains the same five pandemic lessons (distribution gap, romanticization/stigma, partial treatment breeds resistance, political economy of neglect, community trust) with equivalent depth to the concept page, which was extracted from exactly this question in the 2026-05-19 Answer Questions session. Proposed: compress the inline answer to a 2-sentence summary + `[[pandemic-lessons-from-tb]]` wikilink. Owner approval required before trimming. Case 2 grows from 16 to **17 confirmed instances**.
-
-Two borderline cases examined and **not** added: `mathematics-education` Q3 inline (~55 words → `procedural-fluency-vs-open-tasks`) and `ai-in-education` Q1 inline (~60 words → `ai-tutoring-and-human-motivation`). Both follow the Case 2 structural pattern but the inline content is too brief (well below the 150-word floor of confirmed instances) — they function as "resolved-pointer" summaries with wikilinks, not meaningful duplications.
+Cases 1, 2 (17 confirmed instances), and 3 carry forward unchanged. All pending owner approval. Note: the Case 3 nuance (atrophy-risk classification divergence between `cognitive-atrophy-and-ai` and `slow-productivity-and-ai-craft`) is now documented in the Case 3 entry above.
 
 **0 count corrections (Stage 3):**
 
-All inbound-link counts confirmed stable via anchored-exclusion ripgrep. Vault unchanged at 91 pages since 2026-06-15. Rankings unchanged. Total open contradictions: **8** (unchanged). Total near-duplicate cases: Cases 1, 2 (17 confirmed), 3 — all pending owner approval.
+All inbound-link counts confirmed stable via anchored-exclusion ripgrep. Rankings unchanged. Total open contradictions: **8** (unchanged). Total near-duplicate cases: Cases 1, 2 (17 confirmed), 3 — all pending owner approval.
