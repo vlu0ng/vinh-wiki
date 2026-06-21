@@ -1,6 +1,6 @@
 ---
 title: "Salience Digest"
-date: 2026-06-20
+date: 2026-06-21
 tags: [system, digest]
 ---
 
@@ -17,7 +17,7 @@ Each page is scored on cheap structural signals:
 
 ## Last run
 
-**2026-06-20** — Full dream-cycle pass (nightly). 91 wiki pages analyzed (57 concepts, 15 topics, 19 people). Vault unchanged since prior nightly run (2026-06-19). **Stage 1:** 0 new contradictions; 8 total open contradictions confirmed. Pages scanned this run: 11 pages across education/productivity clusters — education cluster (sal-khan, jo-boaler, lisa-damour, mathematics-education, ai-in-education, ai-tutoring, cognitive-atrophy-and-ai) and productivity/focus cluster (tiny-experiments, experimental-mindset, the-one-thing, focus-vs-orientation). Three candidates explored: (1) `cognitive-atrophy-and-ai` "For novices: early AI assistance for generative tasks carries atrophy risk" vs. `ai-tutoring`/`ai-in-education` promoting AI tutoring for students — resolved as non-contradictory: Khanmigo uses Socratic method (student does cognitive work, AI does not give answers), which is the atrophy-safe use pattern; (2) `mathematics-education` (Boaler: open tasks, no timed tests, multiple valid approaches) vs. `sal-khan` (mastery learning: advance only after demonstrating mastery) — theoretical philosophical divergence, but neither page makes claims that directly negate the other's stated positions; not logged; (3) `experimental-mindset` vs. `the-one-thing` — previously explored in 2026-06-13 run and confirmed non-contradictory via orientation/execution framing in `focus-vs-orientation`; not re-logged. **Stage 2:** 0 new near-duplicate cases. Cases 1, 2 (17 confirmed), 3 carry forward unchanged. All pending owner approval. **Stage 3:** All inbound-link counts re-verified via anchored ripgrep. Methodology note: verified that filter must not exclude derivation-named files (e.g., `mental-models-and-multidisciplinary-thinking.md` correctly counted as inbound to `mental-models`; `slow-productivity-and-ai-craft.md` correctly counted as inbound to `slow-productivity`; `health-equity-without-redistribution.md` correctly counted as inbound to `health-equity`). All top-tier counts confirmed: disposition-vs-knowledge (20), mental-models (18), health-equity (17), cognitive-atrophy-and-ai (14), mental-models-and-multidisciplinary-thinking (12), charlie-munger (11), slow-productivity (11). No rank changes. Vault remains at 91 pages.
+**2026-06-21** — Full dream-cycle pass (nightly). 91 wiki pages analyzed (57 concepts, 15 topics, 19 people). Vault unchanged since prior nightly run (2026-06-20). **Stage 1:** 0 new contradictions; 8 total open contradictions confirmed. Pages scanned this run: 13 pages across people, Stoicism, and AI clusters — people cluster (anne-laure-le-cunff, cal-newport, carol-dweck, gary-keller); Stoicism cluster (stoic-justice, stoic-virtues, wisdom-traditions-practice-vs-doctrine, stoicism-and-systemic-injustice, stoic-truth-telling-and-tact); AI/cognition cluster (jagged-frontier, large-language-models, living-and-working-with-ai); plus vault's most-central page (disposition-vs-knowledge) and economics (crony-capitalism). Contradiction #3 confirmed live from direct read: `stoic-virtues` opens "Virtue, in the Stoic sense, is not a feeling or disposition but a *practice*" while `wisdom-traditions-practice-vs-doctrine` frames identical Stoic morning exercises as the primary example of "dispositional development." All 8 existing contradictions remain open and unchanged. One internal nuance in `stoic-virtues` noted (opening says "not a disposition" but Related Topics block says "precisely about disposition") — this is an internal framing inconsistency within a single page, not a cross-page contradiction; not logged. **Stage 2:** 0 new near-duplicate cases. Vault stable at 91 pages since 2026-06-14; Cases 1, 2 (17 confirmed), 3 carry forward unchanged. All pending owner approval. **Stage 3:** All inbound-link counts re-verified via anchored ripgrep. Mental-models count confirmed at 18 via exact-string grep (`\[\[mental-models\]\]` or `\[\[mental-models|`) — distinguishing correctly from files linking only to `[[mental-models-and-multidisciplinary-thinking]]`. All top-tier counts confirmed: disposition-vs-knowledge (20), mental-models (18), health-equity (17), cognitive-atrophy-and-ai (14), mental-models-and-multidisciplinary-thinking (12), charlie-munger (11), slow-productivity (11). No rank changes. Vault remains at 91 pages.
 
 ---
 
@@ -38,7 +38,7 @@ _Pages with many inbound edges but a thin body — highest enrichment leverage._
 ## Stale high-value
 _Central pages not touched in a while — candidates to revisit._
 
-All pages share a creation band of 2026-05-18 to 2026-06-14 (5–32 days old). Staleness does not yet differentiate meaningfully within this vault; pages are recent. Re-run this section after the next enrichment pass.
+All pages share a creation band of 2026-05-18 to 2026-06-14 (7–34 days old). Staleness does not yet differentiate meaningfully within this vault; pages are recent. Re-run this section after the next enrichment pass.
 
 **Exception — uningested raw articles (aging gap):** Two PDF files in `raw/articles/` remain uningested:
 - `raw/articles/charlie munger - mental models Part 1.pdf`
@@ -89,7 +89,7 @@ When open questions were answered and extracted into dedicated concept pages, th
 ## Surfacing for the dashboard
 _Top 10+ pages by salience score (inbound edges × body depth bonus; feeds `wiki-dashboard.html` node sizing)._
 
-Inbound-link counts re-verified via anchored ripgrep (unique files, excluding self-references; derivation-named files correctly included in counts — e.g., `mental-models-and-multidisciplinary-thinking.md` counted as inbound to `mental-models`, `slow-productivity-and-ai-craft.md` counted as inbound to `slow-productivity`). Vault at 91 pages. All counts confirmed stable from 2026-06-19.
+Inbound-link counts re-verified via anchored ripgrep (unique files, excluding self-references; derivation-named files correctly included in counts; exact-string grep used for `mental-models` to avoid prefix-match inflation from `[[mental-models-and-multidisciplinary-thinking]]` links). Vault at 91 pages. All counts confirmed stable from 2026-06-20.
 
 | Rank | Page | Inbound (confirmed) | Body depth | Salience notes |
 |---|---|---|---|---|
@@ -101,14 +101,14 @@ Inbound-link counts re-verified via anchored ripgrep (unique files, excluding se
 | 6 (tied) | `charlie-munger` | 11 | ~350 words | Central person page; body unexpectedly thin for centrality — enrichment candidate. |
 | 6 (tied) | `slow-productivity` | 11 | ~800+ words (topic) | Central productivity hub; topic page substantive. |
 | 8 (tied) | `growth-mindset` | 10 | ~400 words | Bridges education, AI, and experimental-mindset clusters; contradiction with `mathematics-education` remains open. |
-| 8 (tied) | `jagged-frontier` | **10** | ~300 words | Very thin body vs. centrality — **#2 AI-cluster enrichment priority**. |
+| 8 (tied) | `jagged-frontier` | **10** | ~300 words | Very thin body vs. centrality — **#2 AI-cluster enrichment priority**. Body confirmed thin (~300 words, compact definition) in this run's direct read. |
 | 8 (tied) | `latticework-pedagogy` | 10 | ~1000 words | Well-developed; bridges Munger cluster with behavioral science. |
 | 8 (tied) | `tuberculosis-and-global-health` | **10** | ~1100 words (topic) | Well-developed topic page. Central node in the health/justice cluster. Case 2 instance #17 pending: ~300-word inline pandemic-lessons answer duplicates `pandemic-lessons-from-tb`. |
 | 12 (tied) | `experimental-mindset` | 9 | ~1200 words (topic) | High centrality, well-developed. Open questions now all answered. |
-| 12 (tied) | `large-language-models` | 9 | ~250 words | Thinnest body at this centrality level — **#3 AI-cluster enrichment priority**. |
+| 12 (tied) | `large-language-models` | 9 | ~250 words | Thinnest body at this centrality level — **#3 AI-cluster enrichment priority**. Body confirmed thin (~250 words, properties list) in this run's direct read. |
 | 12 (tied) | `living-and-working-with-ai` | 9 | ~1500+ words (topic) | High centrality, well-developed. |
 | 15 (tied) | `tiny-experiments` | 8 | ~450 words | Adequately developed for its centrality. |
-| 17 (tied) | `stoic-virtues` | 7 | ~500 words | Adequately developed; open contradiction with `wisdom-traditions-practice-vs-doctrine` remains. |
+| 17 (tied) | `stoic-virtues` | 7 | ~500 words | Adequately developed; open contradiction with `wisdom-traditions-practice-vs-doctrine` remains (confirmed live this run). |
 | 17 (tied) | `superforecasting` | 7 | ~900 words | Well-developed; open contradiction with `munger-vs-behavioral-economics` remains. |
 
 _Note: `social-media-and-illness-aesthetics` (created 2026-06-14) has 1 confirmed inbound link (`romanticization-of-illness`). Will accumulate links over time. Near-duplicate alert (Case 2, #16): its creation left a ~250-word duplicate in `contemporary-romanticized-illnesses` pending owner approval for compression._
@@ -119,7 +119,7 @@ _Note: `social-media-and-illness-aesthetics` (created 2026-06-14) has 1 confirme
 
 **0 new contradictions (Stage 1):**
 
-Eleven pages scanned across the education cluster (sal-khan, jo-boaler, lisa-damour, mathematics-education, ai-in-education, ai-tutoring, cognitive-atrophy-and-ai) and productivity/focus cluster (tiny-experiments, experimental-mindset, the-one-thing, focus-vs-orientation). All 8 existing contradictions confirmed. Three candidates explored: (1) `cognitive-atrophy-and-ai` "novice AI assistance carries atrophy risk" vs. `ai-tutoring`/`ai-in-education` promoting AI tutoring for students — resolved as non-contradictory: Khanmigo's Socratic design (student does cognitive work, AI does not provide answers) is exactly the atrophy-safe use pattern the atrophy framework recommends. No contradiction. (2) `mathematics-education` (Boaler's open tasks, anti-timed-assessment model) vs. `sal-khan` (mastery learning: advance only after demonstrating mastery) — theoretical divergence in pedagogical philosophy, but neither page's specific claims directly negate the other's; `mathematics-education` does not comment on AI tutoring, and `sal-khan` does not comment on open tasks. Not logged. (3) `experimental-mindset` vs. `the-one-thing` (orientation-vs-execution tension) — previously explored in 2026-06-13 run, confirmed non-contradictory via the orientation/execution framing developed in `focus-vs-orientation`. Not re-logged.
+Thirteen pages scanned across the people cluster (anne-laure-le-cunff, cal-newport, carol-dweck, gary-keller), Stoicism cluster (stoic-justice, stoic-virtues, wisdom-traditions-practice-vs-doctrine, stoicism-and-systemic-injustice, stoic-truth-telling-and-tact), AI/cognition cluster (jagged-frontier, large-language-models, living-and-working-with-ai), and vault's most-central page (disposition-vs-knowledge) plus economics (crony-capitalism). Contradiction #3 confirmed live from direct reads this run: `stoic-virtues` opens "Virtue, in the Stoic sense, is not a feeling or disposition but a *practice*" while `wisdom-traditions-practice-vs-doctrine` uses Stoic morning exercises as the primary example of "dispositional development." All 8 existing contradictions remain open and unchanged. One internal nuance in `stoic-virtues` noted (opening says virtue is "not a feeling or disposition" but the Related Topics block says "the Stoic virtue framework is precisely about disposition, not just knowing what virtue is") — this is a framing inconsistency within a single page rather than a cross-page contradiction, and does not meet the threshold for a new entry; not logged.
 
 **0 new near-duplicate cases (Stage 2):**
 
@@ -127,4 +127,4 @@ Vault unchanged since 2026-06-14. Cases 1, 2 (17 confirmed instances), and 3 car
 
 **0 count corrections (Stage 3):**
 
-All inbound-link counts confirmed stable via anchored ripgrep with correct derivation-file inclusion. Methodology clarification documented: filter must not use simple string-exclusion patterns (e.g., `grep -v 'mental-models-and'`) that would incorrectly suppress legitimate inbound linkers like `mental-models-and-multidisciplinary-thinking.md` (→ `mental-models`), `slow-productivity-and-ai-craft.md` (→ `slow-productivity`), or `health-equity-without-redistribution.md` (→ `health-equity`). Correct approach: exclude only the exact self-reference file using anchored path matching (e.g., `grep -v '/mental-models\.md$'`). Rankings unchanged. Total open contradictions: **8** (unchanged). Total near-duplicate cases: Cases 1, 2 (17 confirmed), 3 — all pending owner approval.
+All inbound-link counts confirmed stable via anchored ripgrep. Mental-models count methodology note: exact-string grep (`\[\[mental-models\]\]` OR `\[\[mental-models|`) required to avoid inflating count with prefix matches against `[[mental-models-and-multidisciplinary-thinking]]` links; confirmed count of 18 (not 19 from naïve prefix grep). Rankings unchanged. Total open contradictions: **8** (unchanged). Total near-duplicate cases: Cases 1, 2 (17 confirmed), 3 — all pending owner approval.
