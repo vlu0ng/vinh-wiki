@@ -2,7 +2,7 @@
 title: "David Stockman"
 date: 2026-05-18
 tags: [economics, politics, reagan, fiscal-policy]
-related: [[crony-capitalism-and-monetary-deformation]], [[crony-capitalism]], [[sound-money]], [[bubble-finance]]
+related: [[crony-capitalism-and-monetary-deformation]], [[crony-capitalism]], [[sound-money]], [[bubble-finance]], [[stockman-2008-critique]]
 connections:
   - type: authored
     target: crony-capitalism-and-monetary-deformation
@@ -12,6 +12,8 @@ connections:
     target: bubble-finance
   - type: influenced
     target: sound-money
+  - type: critiqued-by
+    target: stockman-2008-critique
 ---
 
 # David Stockman
@@ -37,3 +39,4 @@ Born in Michigan, Stockman worked in Republican politics before serving in Congr
 - [[crony-capitalism-and-monetary-deformation]] — his central thesis
 - [[crony-capitalism]] — the mechanism he identifies as corrupting free markets
 - [[sound-money]] — his preferred alternative to Fed bubble finance
+- [[stockman-2008-critique]] — critical analysis of his "Blackberry Panic" framing of the 2008 financial crisis

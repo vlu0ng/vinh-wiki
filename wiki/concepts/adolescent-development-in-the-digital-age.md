@@ -2,7 +2,7 @@
 title: "Adolescent Development in the Digital Age"
 date: 2026-05-20
 tags: [psychology, adolescence, technology, digital-wellness, education]
-related: [[teenage-girl-development]], [[lisa-damour]], [[developmental-strands]], [[cognitive-atrophy-and-ai]]
+related: [[teenage-girl-development]], [[lisa-damour]], [[developmental-strands]], [[cognitive-atrophy-and-ai]], [[social-media-and-illness-aesthetics]]
 connections:
   - type: influenced-by
     target: lisa-damour
@@ -12,6 +12,8 @@ connections:
     target: developmental-strands
   - type: related
     target: cognitive-atrophy-and-ai
+  - type: related
+    target: social-media-and-illness-aesthetics
 ---
 
 # Adolescent Development in the Digital Age
@@ -55,3 +57,4 @@ Modern digital technology is the most powerful environmental variable in adolesc
 - [[teenage-girl-development]] — the broad thematic topic page
 - [[cognitive-atrophy-and-ai]] — the broader philosophical threat of outsourcing human capability to technology
 - [[contemporary-romanticized-illnesses]] — how digital cultures romanticize mental health struggles
+- [[social-media-and-illness-aesthetics]] — platform-level mechanisms that aestheticize illness and shape adolescent identity

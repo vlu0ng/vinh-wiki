@@ -2,10 +2,12 @@
 title: "Contemporary Romanticized Illnesses"
 date: 2026-05-19
 tags: [illness, culture, narrative, mental-health, social-media, health-equity]
-related: [[romanticization-of-illness]], [[illness-narrative-and-coping]], [[tuberculosis-and-global-health]], [[health-equity]]
+related: [[romanticization-of-illness]], [[illness-narrative-and-coping]], [[tuberculosis-and-global-health]], [[health-equity]], [[social-media-and-illness-aesthetics]]
 connections:
   - type: extends
     target: romanticization-of-illness
+  - type: related
+    target: social-media-and-illness-aesthetics
 ---
 
 # Contemporary Romanticized Illnesses
@@ -88,7 +90,7 @@ Substance use disorders, particularly involving opioids, alcohol, and stimulants
 
 ## How Social Media Changes the Pattern
 
-[[romanticization-of-illness]] flags this as a separate open question; it is so entangled with the contemporary romanticization landscape that it cannot be cleanly separated:
+[[romanticization-of-illness]] flags this as a separate open question; see [[social-media-and-illness-aesthetics]] for the full extended treatment. In brief, it cannot be cleanly separated from the contemporary romanticization landscape:
 
 - **Aestheticization is faster and more visual.** TikTok and Instagram condense illness into images and short clips that select for visual legibility (thin bodies, tearful confessionals, "this is what depression looks like" aesthetics). The selection bias is stronger than in any prior medium.
 - **Community formation is real and double-edged.** Patients with rare or stigmatized conditions can find peers in ways unavailable to 19th-century consumptives. This is a genuine gain (see [[illness-narrative-and-coping]] on community formation). It can also produce identity-stickiness around the diagnosis itself.
@@ -115,3 +117,4 @@ The contemporary cases above mostly satisfy this test. The lesson Green draws fr
 - [[illness-narrative-and-coping]] — the patient-side corrective that preserves narrative without endorsing romance
 - [[tuberculosis-and-global-health]] — the historical paradigm case
 - [[health-equity]] — the structural framework romanticization operates within
+- [[social-media-and-illness-aesthetics]] — how platform algorithms transform and amplify the aestheticization pattern

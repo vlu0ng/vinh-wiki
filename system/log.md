@@ -4,6 +4,44 @@ title: "Session Log"
 
 # Session Log
 
+## 2026-06-21 — Weekly Wiki Pass (Maintenance + Connection Discovery + Answer Questions)
+
+### Pass 1: Maintenance
+- Files read: system/AGENTS.md, all three skill files (not found; proceeded from CLAUDE.md + AGENTS.md descriptions), system/schema.md, system/log.md, system/index.md, system/connection-discovery.md, system/answered-questions.md, system/ingest-queue.md; 91 wiki pages checked for orphans, missing frontmatter, and unlinked mentions via ripgrep; full reads of wiki/concepts/social-media-and-illness-aesthetics.md, contemporary-romanticized-illnesses.md, adolescent-development-in-the-digital-age.md, illness-narrative-and-coping.md, health-equity.md, romanticization-of-illness.md, david-stockman.md, stockman-2008-critique.md
+- No true orphan pages found (all 91 pages have ≥1 inbound wikilink)
+- All 91 pages have complete frontmatter (title, date, tags, related, connections)
+- Unlinked mentions fixed:
+  - `wiki/concepts/contemporary-romanticized-illnesses.md` — "How Social Media Changes the Pattern" section had no link to the dedicated `social-media-and-illness-aesthetics` page; added wikilink in section intro and Related Topics
+  - `wiki/concepts/illness-narrative-and-coping.md` — missing bidirectional `related` edge to `social-media-and-illness-aesthetics`; added to related: and connections:
+  - `wiki/concepts/adolescent-development-in-the-digital-age.md` — discusses social media illness aesthetics without link; added to related:, connections:, and Related Concepts
+  - `wiki/people/david-stockman.md` — missing link to `stockman-2008-critique`; added to related:, connections: (critiqued-by), and Related Topics
+  - `wiki/concepts/stockman-2008-critique.md` — had semantically incorrect `influenced-by: david-stockman`; corrected to `critiques: david-stockman` to match schema vocabulary
+  - `wiki/concepts/social-media-and-illness-aesthetics.md` — added missing typed connections: for adolescent-development-in-the-digital-age and health-equity (both were in related: but had no typed edge); updated health-equity.md with inverse `related` edge back
+- Uningested raw files: 2 Munger PDFs in raw/articles/ (already tracked in ingest-queue.md, no change)
+- Files modified: wiki/concepts/contemporary-romanticized-illnesses.md, wiki/concepts/illness-narrative-and-coping.md, wiki/concepts/adolescent-development-in-the-digital-age.md, wiki/people/david-stockman.md, wiki/concepts/stockman-2008-critique.md, wiki/concepts/social-media-and-illness-aesthetics.md, wiki/concepts/health-equity.md
+
+### Pass 2: Connection Discovery
+- Only page not yet in registry: `social-media-and-illness-aesthetics` (created 2026-06-14, after the 2026-06-14 connection-discovery pass)
+- Page already had connections to: romanticization-of-illness (extends), illness-narrative-and-coping (related), contemporary-romanticized-illnesses (related)
+- Added during maintenance (bidirectionality): adolescent-development-in-the-digital-age (related, both directions), health-equity (related, both directions)
+- No additional unanalyzed pages found; all other pages were analyzed in prior passes
+- Updated system/connection-discovery.md with new row for 2026-06-21 (5 connections)
+
+### Pass 3: Answer Questions
+- Scanned all wiki/ pages for unanswered ## Open Questions bullets
+- Found 2 bare-bullet questions in wiki/concepts/latticework-pedagogy.md with no inline answer (concept pages already existed from 2026-05-19):
+  - "Does forecasting practice produce meaningful latticework-like integration?" — added inline summary + [[superforecasting]] link
+  - "What is the minimum viable feedback loop for latticework development outside investing?" — added inline summary + [[latticework-feedback-loops-outside-investing]] link
+- No new concept pages created (both were already answered in 2026-05-19 session; inline summaries added as quality improvement)
+- No new entries needed in answered-questions.md (already registered from 2026-05-19)
+
+### Summary
+- Files modified: 9 wiki pages (7 in Pass 1, latticework-pedagogy.md in Pass 3) + system/connection-discovery.md
+- Files created: 0
+- Vault remains at 91 pages
+- Key maintenance fix: social-media-and-illness-aesthetics (created 2026-06-14 after the connection-discovery pass) now has full bidirectional connections to all 5 related pages; david-stockman now links to stockman-2008-critique with correct critiqued-by/critiques edge pair
+- Two Munger PDFs remain the highest-priority uningested items
+
 ## 2026-06-21 — Nightly Dream Cycle
 - Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md; 13 wiki pages across people cluster (anne-laure-le-cunff, cal-newport, carol-dweck, gary-keller), Stoicism cluster (stoic-justice, stoic-virtues, wisdom-traditions-practice-vs-doctrine, stoicism-and-systemic-injustice, stoic-truth-telling-and-tact), AI/cognition cluster (jagged-frontier, large-language-models, living-and-working-with-ai), vault's most-central page (disposition-vs-knowledge), and economics (crony-capitalism); anchored ripgrep re-verification for all top-tier and mid-tier pages
 - Files updated: system/contradictions.md (frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (frontmatter date), system/log.md (this entry)

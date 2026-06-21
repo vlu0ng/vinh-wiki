@@ -6,7 +6,7 @@ related: [[crony-capitalism-and-monetary-deformation]], [[david-stockman]], [[cr
 connections:
   - type: applies-to
     target: crony-capitalism-and-monetary-deformation
-  - type: influenced-by
+  - type: critiques
     target: david-stockman
   - type: critiques
     target: crony-capitalism

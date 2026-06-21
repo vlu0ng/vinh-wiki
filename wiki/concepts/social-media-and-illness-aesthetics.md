@@ -10,6 +10,10 @@ connections:
     target: illness-narrative-and-coping
   - type: related
     target: contemporary-romanticized-illnesses
+  - type: related
+    target: adolescent-development-in-the-digital-age
+  - type: related
+    target: health-equity
 ---
 
 # Social Media and Illness Aesthetics

@@ -2,7 +2,7 @@
 title: "Health Equity"
 date: 2026-05-18
 tags: [public-health, equity, social-determinants, global-health]
-related: [[tuberculosis-and-global-health]], [[john-green]], [[partners-in-health]], [[intellectual-property-and-health-equity]], [[jessie-inchauspee]], [[romanticization-of-illness]], [[stoicism-and-systemic-injustice]], [[health-equity-without-redistribution]]
+related: [[tuberculosis-and-global-health]], [[john-green]], [[partners-in-health]], [[intellectual-property-and-health-equity]], [[jessie-inchauspee]], [[romanticization-of-illness]], [[stoicism-and-systemic-injustice]], [[health-equity-without-redistribution]], [[social-media-and-illness-aesthetics]]
 connections:
   - type: influenced-by
     target: romanticization-of-illness
@@ -12,6 +12,8 @@ connections:
     target: tuberculosis-and-global-health
   - type: related
     target: partners-in-health
+  - type: related
+    target: social-media-and-illness-aesthetics
 ---
 
 # Health Equity
