@@ -8,6 +8,10 @@ connections:
     target: experimental-mindset
   - type: related
     target: experimental-mindset-and-privilege
+  - type: related
+    target: tiny-experiments
+  - type: related
+    target: slow-productivity
 ---
 
 # Financial Stability While Experimenting

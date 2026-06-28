@@ -2,7 +2,7 @@
 title: "Slow Productivity"
 date: 2026-05-19
 tags: [productivity, knowledge-work, cal-newport, deep-work]
-related: [[cal-newport]], [[pseudo-productivity]], [[cognitive-atrophy-and-ai]], [[slow-productivity-and-ai-craft]], [[negotiating-slow-productivity]], [[gary-keller]]
+related: [[cal-newport]], [[pseudo-productivity]], [[cognitive-atrophy-and-ai]], [[slow-productivity-and-ai-craft]], [[negotiating-slow-productivity]], [[gary-keller]], [[financial-stability-while-experimenting]]
 connections:
   - type: authored-by
     target: cal-newport
@@ -12,6 +12,8 @@ connections:
     target: slow-productivity-and-ai-craft
   - type: application-of
     target: negotiating-slow-productivity
+  - type: related
+    target: financial-stability-while-experimenting
 ---
 
 # Slow Productivity

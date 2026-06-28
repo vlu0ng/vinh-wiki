@@ -4,6 +4,42 @@ title: "Session Log"
 
 # Session Log
 
+## 2026-06-28 — Weekly Wiki Pass (Maintenance + Connection Discovery + Answer Questions)
+
+### Pass 1: Maintenance
+- Files read: system/AGENTS.md, system/log.md, system/index.md, system/connection-discovery.md, system/answered-questions.md, system/ingest-queue.md; ripgrep checks across all 91 wiki pages for orphans, missing frontmatter, and unlinked mentions
+- No orphan pages found (all 91 pages have ≥1 inbound wikilink)
+- All 91 pages have complete frontmatter (title, date, tags, related, connections)
+- No unlinked plain-text mentions found; all concept references use wikilink syntax
+- Uningested raw files: 2 Munger PDFs (already tracked in ingest-queue.md, no change)
+- Files modified: none
+
+### Pass 2: Connection Discovery
+- Identified 2 pages not in connection-discovery registry: experimental-mindset-and-privilege (created 2026-06-07), financial-stability-while-experimenting (created 2026-06-07) — both missed in the 2026-06-14 sweep
+- Files read: wiki/concepts/experimental-mindset-and-privilege.md, wiki/concepts/financial-stability-while-experimenting.md, wiki/topics/experimental-mindset.md, wiki/concepts/tiny-experiments.md, wiki/concepts/health-equity.md, wiki/topics/slow-productivity.md
+- Connections added:
+  - experimental-mindset-and-privilege: typed `related: tiny-experiments` (both pages reference Le Cunff's framework directly; the privilege critique applies to the tiny-experiments practice) + typed `related: health-equity` (structural access argument runs parallel in both domains)
+  - financial-stability-while-experimenting: typed `related: tiny-experiments` (discusses the financial scaffolding for running tiny experiments) + typed `related: slow-productivity` (Newport's anchor-job / career-capital approach is cited as a parallel structural strategy)
+  - Inverse edges added: tiny-experiments ← `related: experimental-mindset-and-privilege` + `related: financial-stability-while-experimenting`; health-equity ← `related: experimental-mindset-and-privilege`; slow-productivity ← `related: financial-stability-while-experimenting`
+  - Confirmed existing inverses correct: experimental-mindset already has `application-of: financial-stability-while-experimenting` and `critiqued-by: experimental-mindset-and-privilege` (set in prior session)
+- Total new typed edges this pass: 8 (4 outgoing + 4 inverse)
+- Updated system/connection-discovery.md with new row for 2026-06-28
+- Files modified: wiki/concepts/experimental-mindset-and-privilege.md, wiki/concepts/financial-stability-while-experimenting.md, wiki/concepts/tiny-experiments.md, wiki/concepts/health-equity.md, wiki/topics/slow-productivity.md, system/connection-discovery.md
+
+### Pass 3: Answer Questions
+- Scanned all 91 wiki pages for ## Open Questions sections
+- 20 pages have Open Questions sections; all bullets verified as answered (inline or via dedicated concept page)
+- Cross-referenced all entries against system/answered-questions.md — registry is complete and current
+- No new questions to answer; no new pages needed
+- Files modified: none
+
+### Summary
+- Files modified: 5 wiki pages (Pass 2) + system/connection-discovery.md + system/log.md
+- Files created: 0
+- Vault remains at 91 pages
+- Key fix: experimental-mindset-and-privilege and financial-stability-while-experimenting (created 2026-06-07, missed in 2026-06-14 connection-discovery sweep) now have full typed `connections:` entries covering all targets in their `related:` fields; all inverse edges confirmed bidirectional
+- Two Munger PDFs remain the highest-priority uningested items
+
 ## 2026-06-28 — Nightly Dream Cycle
 - Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md; 28 wiki pages across 8 clusters: art-theft (art-theft-and-obsession, compulsive-collecting, ethics-of-private-beauty), illness narrative (romanticization-of-illness, illness-narrative-and-coping), AI education (ai-tutoring, ai-in-education), Stoicism (stoicism-and-systemic-injustice), TB (tb-eradication-requirements), plus cross-run re-verification of recently analyzed pages (adolescent development, glucose, finance, productivity/Munger, AI work, focus clusters — crony-capitalism, crony-capitalism-and-monetary-deformation, teenage-girl-development, adolescent-development-in-the-digital-age, developmental-strands, glucose-revolution, glucose-curves, pseudo-productivity, negotiating-slow-productivity, the-one-thing, focus-vs-orientation, inversion, latticework-failure-modes, latticework-feedback-loops-outside-investing, mapping-the-jagged-frontier, general-purpose-technology, ai-productivity-gains-distribution, experiment-theater, tiny-experiments); anchored ripgrep re-verification for all top-tier and mid-tier pages with broadened methodology (piped wikilinks included)
 - Files updated: system/contradictions.md (frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (frontmatter date), system/log.md (this entry)

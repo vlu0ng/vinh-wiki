@@ -2,12 +2,16 @@
 title: "Tiny Experiments"
 date: 2026-05-18
 tags: [productivity, learning, growth, curiosity]
-related: [[experimental-mindset]], [[anne-laure-le-cunff]], [[growth-mindset]], [[experiment-theater]], [[disposition-building-practices]]
+related: [[experimental-mindset]], [[anne-laure-le-cunff]], [[growth-mindset]], [[experiment-theater]], [[disposition-building-practices]], [[experimental-mindset-and-privilege]], [[financial-stability-while-experimenting]]
 connections:
   - type: influenced-by
     target: anne-laure-le-cunff
   - type: example-of
     target: experimental-mindset
+  - type: related
+    target: experimental-mindset-and-privilege
+  - type: related
+    target: financial-stability-while-experimenting
 ---
 
 # Tiny Experiments

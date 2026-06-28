@@ -8,6 +8,10 @@ connections:
     target: experimental-mindset
   - type: related
     target: financial-stability-while-experimenting
+  - type: related
+    target: tiny-experiments
+  - type: related
+    target: health-equity
 ---
 
 # Experimental Mindset and Privilege
