@@ -1,6 +1,6 @@
 ---
 title: "Ingest Queue"
-date: 2026-07-04
+date: 2026-07-05
 tags: [system, registry]
 ---
 
