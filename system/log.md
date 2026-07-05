@@ -4,6 +4,42 @@ title: "Session Log"
 
 # Session Log
 
+## 2026-07-05 — Weekly Wiki Pass (Maintenance + Connection Discovery + Answer Questions)
+
+### Pass 1: Maintenance
+- Files read: system/AGENTS.md, system/schema.md, system/log.md, system/index.md, system/connection-discovery.md, system/answered-questions.md, system/ingest-queue.md; Python scan across all 91 wiki pages for orphans, missing frontmatter, bare-bullet Open Questions, and unlinked mentions
+- No orphan pages found (all 91 pages have ≥1 inbound wikilink)
+- All 91 pages have complete frontmatter (title, date, tags, related, connections)
+- Bare-bullet Open Questions fixed — 5 bullets without inline answers discovered by systematic scan; answer pages already existed in all 5 cases:
+  - wiki/topics/slow-productivity.md — "How does this interact with cognitive-atrophy-and-ai?" → added inline summary pointing to [[slow-productivity-and-ai-craft]]
+  - wiki/topics/tuberculosis-and-global-health.md — "What would full TB eradication require politically and financially?" → added inline summary pointing to [[tb-eradication-requirements]]
+  - wiki/topics/living-and-working-with-ai.md — "Where is the jagged frontier for any given profession?" → added inline summary pointing to [[mapping-the-jagged-frontier]]
+  - wiki/topics/stoic-justice.md — "What's the relationship between truth-telling and tact?" → added inline summary pointing to [[stoic-truth-telling-and-tact]]
+  - wiki/concepts/romanticization-of-illness.md — "Which contemporary diseases carry romanticized framings?" → added inline summary pointing to [[contemporary-romanticized-illnesses]]
+- Uningested raw files: 2 Munger PDFs in raw/articles/ (already tracked in ingest-queue.md, no change)
+- Files modified: wiki/topics/slow-productivity.md, wiki/topics/tuberculosis-and-global-health.md, wiki/topics/living-and-working-with-ai.md, wiki/topics/stoic-justice.md, wiki/concepts/romanticization-of-illness.md
+
+### Pass 2: Connection Discovery
+- Cross-checked connection-discovery registry against full 91-page vault; all pages confirmed covered across 5 prior passes (2026-05-21, 2026-06-07, 2026-06-14, 2026-06-21, 2026-06-28)
+- No new pages created since 2026-06-28; vault stable at 91 pages
+- 0 new connections added
+- Updated system/connection-discovery.md with 2026-07-05 row confirming registry complete
+
+### Pass 3: Answer Questions
+- Scanned all 91 wiki pages for ## Open Questions sections with unanswered bullets
+- 5 bare-bullet questions found by Pass 1 scan and resolved there (answer pages already existed; inline summaries added as quality improvement)
+- Post-fix verification confirms 0 remaining bare-bullet questions across all 91 pages
+- No new concept pages needed; answered-questions.md registry is complete and current
+- 0 new pages created
+- Files modified: none (Pass 1 handled all fixes)
+
+### Summary
+- Files modified: 5 wiki pages (Pass 1) + system/connection-discovery.md + system/log.md
+- Files created: 0
+- Vault remains at 91 pages
+- Key fix: 5 long-standing bare-bullet Open Questions (in slow-productivity, tuberculosis-and-global-health, living-and-working-with-ai, stoic-justice, romanticization-of-illness) now have inline summaries pointing to their existing answer pages — a quality gap discovered by systematic Python scan
+- Two Munger PDFs remain the highest-priority uningested items
+
 ## 2026-07-03 — Nightly Dream Cycle
 - Files read: system/AGENTS.md, system/contradictions.md, system/salience.md, system/ingest-queue.md, system/log.md; 13 wiki pages across teenage development cluster (lisa-damour, adolescent-development-in-the-digital-age, developmental-strands, teenage-girl-development), art-theft/obsession cluster (compulsive-collecting, ethics-of-private-beauty), glucose cluster (glucose-curves, glucose-revolution), Stoicism cluster (stoic-justice, stoicism-and-systemic-injustice), and AI/work cluster (adaptive-leadership, general-purpose-technology, mapping-the-jagged-frontier, ai-productivity-gains-distribution, latticework-pedagogy); anchored ripgrep re-verification for all 17 top-tier and mid-tier pages with exact self-only exclusion methodology
 - Files updated: system/contradictions.md (frontmatter date), system/salience.md (regenerated), system/ingest-queue.md (frontmatter date), system/log.md (this entry)
