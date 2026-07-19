@@ -6,6 +6,8 @@ related: [[tuberculosis-and-global-health]], [[health-equity]], [[romanticizatio
 connections:
   - type: extends
     target: romanticization-of-illness
+  - type: example-of
+    target: tuberculosis-and-global-health
 ---
 
 # Pandemic Lessons from TB

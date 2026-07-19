@@ -6,6 +6,8 @@ related: [[tuberculosis-and-global-health]], [[health-equity]], [[pandemic-lesso
 connections:
   - type: application-of
     target: intellectual-property-and-health-equity
+  - type: example-of
+    target: tuberculosis-and-global-health
 ---
 
 # TB Eradication — Political and Financial Requirements

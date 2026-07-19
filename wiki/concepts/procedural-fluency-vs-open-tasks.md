@@ -6,6 +6,8 @@ related: [[mathematics-education]], [[growth-mindset]], [[jo-boaler]], [[cogniti
 connections:
   - type: related
     target: cognitive-atrophy-and-ai
+  - type: applies-to
+    target: mathematics-education
 ---
 
 # Procedural Fluency vs. Open Tasks

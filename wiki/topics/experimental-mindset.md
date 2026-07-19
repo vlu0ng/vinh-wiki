@@ -12,6 +12,8 @@ connections:
     target: financial-stability-while-experimenting
   - type: critiqued-by
     target: experimental-mindset-and-privilege
+  - type: has-example
+    target: tiny-experiments
 ---
 
 # Experimental Mindset

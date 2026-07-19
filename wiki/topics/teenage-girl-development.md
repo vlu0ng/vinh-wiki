@@ -8,6 +8,8 @@ connections:
     target: lisa-damour
   - type: application-of
     target: developmental-strands
+  - type: extends
+    target: developmental-strands
   - type: extended-by
     target: adolescent-development-in-the-digital-age
 ---

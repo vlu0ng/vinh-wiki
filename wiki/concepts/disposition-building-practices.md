@@ -2,7 +2,7 @@
 title: "Disposition-Building Practices"
 date: 2026-05-19
 tags: [thinking, education, wisdom, character, practice, feedback]
-related: [[disposition-vs-knowledge]], [[latticework-pedagogy]], [[mental-models]], [[superforecasting]], [[tiny-experiments]], [[latticework-feedback-loops-outside-investing]], [[munger-disposition-formation]]
+related: [[disposition-vs-knowledge]], [[latticework-pedagogy]], [[mental-models]], [[superforecasting]], [[tiny-experiments]], [[latticework-feedback-loops-outside-investing]], [[munger-disposition-formation]], [[wisdom-traditions-practice-vs-doctrine]]
 connections:
   - type: has-example
     target: superforecasting
@@ -10,6 +10,8 @@ connections:
     target: latticework-feedback-loops-outside-investing
   - type: influenced-by
     target: munger-disposition-formation
+  - type: influenced
+    target: wisdom-traditions-practice-vs-doctrine
 ---
 
 # Disposition-Building Practices

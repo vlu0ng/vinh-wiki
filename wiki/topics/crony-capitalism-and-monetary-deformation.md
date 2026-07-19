@@ -12,6 +12,8 @@ connections:
     target: bubble-finance
   - type: has-example
     target: stockman-2008-critique
+  - type: application-of
+    target: stockman-2008-critique
 ---
 
 # Crony Capitalism and Monetary Deformation

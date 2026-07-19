@@ -2,13 +2,13 @@
 title: "Adaptive Challenge Diagnosis"
 date: 2026-06-07
 tags: [leadership, adaptive-leadership, decision-making, ronald-heifetz]
-related: [[adaptive-leadership]], [[ronald-heifetz]], [[disposition-vs-knowledge]], [[mental-models]]
+related: [[adaptive-leadership]], [[ronald-heifetz]], [[disposition-vs-knowledge]], [[mental-models]], [[adaptive-vs-technical-challenges]], [[adaptive-leadership-and-psychological-safety]]
 connections:
   - type: applies-to
     target: adaptive-leadership
   - type: influenced-by
     target: ronald-heifetz
-  - type: related
+  - type: extends
     target: adaptive-vs-technical-challenges
   - type: related
     target: adaptive-leadership-and-psychological-safety

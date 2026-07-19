@@ -2,7 +2,7 @@
 title: "Adaptive vs. Technical Challenges"
 date: 2026-05-19
 tags: [leadership, organizational-change, problem-solving]
-related: [[adaptive-leadership]], [[ronald-heifetz]], [[mental-models]]
+related: [[adaptive-leadership]], [[ronald-heifetz]], [[mental-models]], [[adaptive-challenge-diagnosis]]
 connections:
   - type: influenced-by
     target: ronald-heifetz

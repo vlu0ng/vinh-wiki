@@ -8,6 +8,8 @@ connections:
     target: lisa-damour
   - type: extended-by
     target: teenage-girl-development
+  - type: applies-to
+    target: teenage-girl-development
   - type: extended-by
     target: adolescent-development-in-the-digital-age
 ---

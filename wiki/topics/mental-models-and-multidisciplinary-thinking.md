@@ -10,6 +10,8 @@ connections:
     target: latticework-failure-modes
   - type: application-of
     target: munger-vs-behavioral-economics
+  - type: extends
+    target: mental-models
 ---
 
 # Mental Models and Multidisciplinary Thinking

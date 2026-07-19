@@ -10,7 +10,7 @@ connections:
     target: health-equity-without-redistribution
   - type: related
     target: tuberculosis-and-global-health
-  - type: related
+  - type: has-example
     target: partners-in-health
   - type: related
     target: social-media-and-illness-aesthetics

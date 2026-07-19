@@ -2,7 +2,7 @@
 title: "Crony Capitalism"
 date: 2026-05-18
 tags: [economics, politics, finance, corruption]
-related: [[crony-capitalism-and-monetary-deformation]], [[david-stockman]], [[sound-money]], [[bubble-finance]]
+related: [[crony-capitalism-and-monetary-deformation]], [[david-stockman]], [[sound-money]], [[bubble-finance]], [[stockman-2008-critique]]
 connections:
   - type: influenced-by
     target: david-stockman
@@ -10,6 +10,8 @@ connections:
     target: crony-capitalism-and-monetary-deformation
   - type: related
     target: bubble-finance
+  - type: critiqued-by
+    target: stockman-2008-critique
 ---
 
 # Crony Capitalism

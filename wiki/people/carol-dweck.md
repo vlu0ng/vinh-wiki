@@ -8,6 +8,8 @@ connections:
     target: growth-mindset
   - type: influenced
     target: jo-boaler
+  - type: influenced
+    target: mathematics-education
 ---
 
 # Carol Dweck

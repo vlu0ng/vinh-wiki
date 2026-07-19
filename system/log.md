@@ -1182,3 +1182,51 @@ Analyzed ~70 pages across people, topics, and concepts directories. Added typed 
 - Stage 2 — Near-duplicates: **0 new cases detected.** Vault stable at 91 pages since 2026-06-14. No new raw files (still 2 Munger PDFs in raw/articles/). Cases 1, 2 (17 confirmed instances), and 3 carry forward unchanged. All pending owner approval.
 - Stage 3 — Salience digest regenerated: **1 count correction.** experimental-mindset: **10 → 9** (reverts the erroneous 2026-07-18 "correction"). Today's exact-string grep `\[\[experimental-mindset\]\]` returns 9 files (adaptive-leadership, experimental-mindset-and-privilege, financial-stability-while-experimenting, experiment-theater, growth-mindset, tiny-experiments, disposition-vs-knowledge, adaptive-vs-technical-challenges, anne-laure-le-cunff); prefix search returns 10, with health-equity.md as the false-positive (confirmed: health-equity contains `[[experimental-mindset-and-privilege]]`, not `[[experimental-mindset]]` — same false-positive mechanism documented in the 2026-07-09 run). The 2026-07-18 claim that experimental-mindset-and-privilege.md was being accidentally excluded was wrong: it IS in the 9-count (confirmed today by listing files — experimental-mindset-and-privilege.md appears explicitly in the 9-file exact-string result set). Rank change: experimental-mindset returns to rank 13 (three-way tie at 9 with large-language-models and living-and-working-with-ai). Rank 8 tier: growth-mindset (10 ✓), jagged-frontier (10 ✓ — 9 exact + 1 piped), latticework-pedagogy (10 ✓), tuberculosis-and-global-health (10 ✓) — four pages. All other 16 counts confirmed stable: disposition-vs-knowledge (20 ✓), mental-models (18 ✓), health-equity (17 ✓), cognitive-atrophy-and-ai (14 ✓), mental-models-and-multidisciplinary-thinking (12 ✓ — 11 exact + 1 piped-only; 2 piped-link files total confirmed: disposition-building-practices.md and latticework-failure-modes.md), charlie-munger (11 ✓ — 10 exact + 1 piped), slow-productivity (11 ✓), growth-mindset (10 ✓), large-language-models (9 ✓), living-and-working-with-ai (9 ✓), tiny-experiments (8 ✓), stoic-virtues (7 ✓), superforecasting (7 ✓).
 - Summary: Forty-first nightly dream cycle (1-day gap since 2026-07-18). Vault stable at 91 pages. Zero new contradictions after scanning 8 pages across focus/attention, glucose, and disposition/pedagogy clusters. One count correction in Stage 3: experimental-mindset reverted to 9 inbound links (the 2026-07-18 "correction" to 10 was itself erroneous — experimental-mindset-and-privilege.md was always in the 9-count; the phantom 10th link traced to the same health-equity prefix false-positive documented in the 2026-07-09 run). Additional methodology note: mental-models-and-multidisciplinary-thinking confirmed at 12 total inbound files (11 exact + 1 piped-only); 2 piped-link files identified this run (disposition-building-practices.md and latticework-failure-modes.md), one of which also has an exact link, yielding net 1 piped-only. Two Munger PDFs remain the highest-priority uningested items.
+
+## 2026-07-19 — Weekly Wiki Pass (Maintenance + Connection Discovery + Answer Questions)
+
+### Pass 1 — Maintenance
+- Skill files (.claude/skills/vinh-wiki-*/SKILL.md) were not present in repo; executed workflow from CLAUDE.md Quick Reference and AGENTS.md descriptions
+- Orphans: none detected
+- Missing frontmatter: none detected
+- Uningested raw files: none (2 Munger PDFs remain in system/ingest-queue.md at high priority; already queued)
+- related:/connections: invariant violations fixed: 2
+  - wiki/concepts/adaptive-challenge-diagnosis.md: added [[adaptive-vs-technical-challenges]], [[adaptive-leadership-and-psychological-safety]] to related: (both were in connections: but missing from related:)
+  - wiki/concepts/adaptive-vs-technical-challenges.md: added [[adaptive-challenge-diagnosis]] to related: (bidirectional consistency)
+- Summary: Vault structurally healthy at 91 pages. Two related:/connections: invariant violations repaired; no orphans or missing frontmatter.
+
+### Pass 2 — Connection Discovery
+- All 91 pages confirmed in registry (last full-vault run 2026-06-14); Python bidirectionality audit identified violations
+- Bidirectionality violations found and fixed: 16 missing inverse edges across 16 pages
+  - stockman-2008-critique: added example-of: crony-capitalism-and-monetary-deformation
+  - teenage-girl-development: added extends: developmental-strands
+  - scanlon-optimism-limits: added influenced-by: kyla-scanlon
+  - ai-tutoring: added application-of: large-language-models
+  - procedural-fluency-vs-open-tasks: added applies-to: mathematics-education
+  - carol-dweck: added influenced: mathematics-education
+  - mental-models-and-multidisciplinary-thinking: added extends: mental-models
+  - health-equity: changed related → has-example for target partners-in-health (type upgrade to match source edge)
+  - crony-capitalism-and-monetary-deformation: added application-of: stockman-2008-critique
+  - crony-capitalism: added critiqued-by: stockman-2008-critique (+ added [[stockman-2008-critique]] to related:)
+  - developmental-strands: added applies-to: teenage-girl-development
+  - experimental-mindset: added has-example: tiny-experiments
+  - pandemic-lessons-from-tb: added example-of: tuberculosis-and-global-health
+  - tb-eradication-requirements: added example-of: tuberculosis-and-global-health
+  - disposition-building-practices: added influenced: wisdom-traditions-practice-vs-doctrine (+ added [[wisdom-traditions-practice-vs-doctrine]] to related:)
+  - adaptive-challenge-diagnosis: changed connection type related → extends for target adaptive-vs-technical-challenges (proper inverse of extended-by on target page)
+- Total edges changed: 17 (16 additions + 1 type correction)
+- Post-fix verification: bidirectionality script returned 0 violations; related:/connections: invariant script returned 0 violations
+- Registry updated: system/connection-discovery.md (new row for 2026-07-19)
+- Summary: 16 pages across concepts, topics, and people directories repaired. Main patterns: missing example-of/has-example inverses in TB cluster, missing extends/extended-by inverses in development and mental-models clusters, missing influenced/influenced-by edge in scanlon-optimism-limits, missing application-of/applies-to edge in ai-tutoring and procedural-fluency-vs-open-tasks.
+
+### Pass 3 — Answer Questions
+- Scanned all 20 wiki pages with ## Open Questions sections
+- All questions confirmed answered inline (68 registry entries in system/answered-questions.md verified)
+- No unanswered questions found; no new pages created; no new registry entries appended
+- Summary: All open questions remain answered. Vault stable at 91 pages.
+
+### Files Modified (summary)
+- 16 wiki pages (connections blocks expanded/type-corrected; Pass 2)
+- 2 wiki pages (related: fields expanded; Pass 1)
+- system/connection-discovery.md (new 2026-07-19 row)
+- system/log.md (this entry)

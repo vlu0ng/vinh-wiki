@@ -12,6 +12,8 @@ connections:
     target: ai-tutoring-and-human-motivation
   - type: critiqued-by
     target: cognitive-atrophy-and-ai
+  - type: application-of
+    target: large-language-models
 ---
 
 # AI Tutoring

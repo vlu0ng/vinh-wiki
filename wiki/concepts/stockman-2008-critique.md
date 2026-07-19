@@ -10,6 +10,8 @@ connections:
     target: david-stockman
   - type: critiques
     target: crony-capitalism
+  - type: example-of
+    target: crony-capitalism-and-monetary-deformation
 ---
 
 # Stockman's 2008 Critique: Was Intervention Necessary?

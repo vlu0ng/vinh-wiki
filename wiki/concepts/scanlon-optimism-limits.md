@@ -8,6 +8,8 @@ connections:
     target: economic-literacy
   - type: critiques
     target: vibecession
+  - type: influenced-by
+    target: kyla-scanlon
 ---
 
 # Limits of Scanlon's Economic Optimism
